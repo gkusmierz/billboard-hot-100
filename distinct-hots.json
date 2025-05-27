@@ -1,0 +1,5903 @@
+{
+  "total_unique_songs": 1179,
+  "total_chart_weeks": 3486,
+  "spotify_matches": 1179,
+  "description": "Distinct #1 songs from Billboard Hot 100 charts with Spotify track URLs",
+  "data": [
+    {
+      "song": "Poor Little Fool",
+      "artist": "Ricky Nelson",
+      "trackId": "https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz"
+    },
+    {
+      "song": "Nel Blu Dipinto Di Blu (Volare)",
+      "artist": "Domenico Modugno",
+      "trackId": "https://open.spotify.com/track/06UAZUY5qyFy50poO0nLBY"
+    },
+    {
+      "song": "Little Star",
+      "artist": "The Elegants",
+      "trackId": "https://open.spotify.com/track/3pjUyVbFmM96tYhSaKJwTt"
+    },
+    {
+      "song": "It's All In The Game",
+      "artist": "Tommy Edwards",
+      "trackId": "https://open.spotify.com/track/17Xxp5dtS4GmdGjNZNb5Gk"
+    },
+    {
+      "song": "It's Only Make Believe",
+      "artist": "Conway Twitty",
+      "trackId": "https://open.spotify.com/track/0iiy669VFgiZ4SK9zUaC4c"
+    },
+    {
+      "song": "Tom Dooley",
+      "artist": "The Kingston Trio",
+      "trackId": "https://open.spotify.com/track/5rivhNukBcqEX41XQDLYi9"
+    },
+    {
+      "song": "To Know Him, Is To Love Him",
+      "artist": "The Teddy Bears",
+      "trackId": "https://open.spotify.com/track/5msxn2HUcd83qOsuQW7Kdb"
+    },
+    {
+      "song": "The Chipmunk Song",
+      "artist": "The Chipmunks With David Seville",
+      "trackId": "https://open.spotify.com/track/02NKMA9cIkq6VuBNu9q9Wf"
+    },
+    {
+      "song": "Smoke Gets In Your Eyes",
+      "artist": "The Platters",
+      "trackId": "https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q"
+    },
+    {
+      "song": "Stagger Lee",
+      "artist": "Lloyd Price",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Venus",
+      "artist": "Frankie Avalon",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Come Softly To Me",
+      "artist": "The Fleetwoods",
+      "trackId": "https://open.spotify.com/track/1iNXdyaxEwI7zqF8ti4Tgh"
+    },
+    {
+      "song": "The Happy Organ",
+      "artist": "Dave \"Baby\" Cortez",
+      "trackId": "https://open.spotify.com/track/6fOxrKUo3f9OX2z6YrBpwy"
+    },
+    {
+      "song": "Kansas City",
+      "artist": "Wilbert Harrison",
+      "trackId": "https://open.spotify.com/track/439wS39989sGaUFv1EOdHm"
+    },
+    {
+      "song": "The Battle Of New Orleans",
+      "artist": "Johnny Horton",
+      "trackId": "https://open.spotify.com/track/2YfDQbQJhIL40untMcU1K0"
+    },
+    {
+      "song": "Lonely Boy",
+      "artist": "Paul Anka",
+      "trackId": "https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo"
+    },
+    {
+      "song": "A Big Hunk O' Love",
+      "artist": "Elvis Presley With The Jordanaires",
+      "trackId": "https://open.spotify.com/track/7udjpL89NKvj6zPgDg8qF8"
+    },
+    {
+      "song": "The Three Bells",
+      "artist": "The Browns",
+      "trackId": "https://open.spotify.com/track/32A5RQm4yKTyYG9f2We0xD"
+    },
+    {
+      "song": "Sleep Walk",
+      "artist": "Santo & Johnny",
+      "trackId": "https://open.spotify.com/track/0yK8sWD6cfrc7pGfaPIcZH"
+    },
+    {
+      "song": "Mack The Knife",
+      "artist": "Bobby Darin",
+      "trackId": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
+    },
+    {
+      "song": "Mr. Blue",
+      "artist": "The Fleetwoods",
+      "trackId": "https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0"
+    },
+    {
+      "song": "Heartaches By The Number",
+      "artist": "Guy Mitchell",
+      "trackId": "https://open.spotify.com/track/0mmveflIg5uKskiCOdRV3e"
+    },
+    {
+      "song": "Why",
+      "artist": "Frankie Avalon",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "El Paso",
+      "artist": "Marty Robbins",
+      "trackId": "https://open.spotify.com/track/1kMkDKGzVW3ETqBsUXy7vJ"
+    },
+    {
+      "song": "Running Bear",
+      "artist": "Johnny Preston",
+      "trackId": "https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0"
+    },
+    {
+      "song": "Teen Angel",
+      "artist": "Mark Dinning",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "The Theme From \"A Summer Place\"",
+      "artist": "Percy Faith And His Orchestra",
+      "trackId": "https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL"
+    },
+    {
+      "song": "Stuck On You",
+      "artist": "Elvis Presley With The Jordanaires",
+      "trackId": "https://open.spotify.com/track/7bA1DHtoJAvqyL42gHwOLa"
+    },
+    {
+      "song": "Cathy's Clown",
+      "artist": "The Everly Brothers",
+      "trackId": "https://open.spotify.com/track/27bw4i8LnECzVlbMZ4kFHw"
+    },
+    {
+      "song": "Everybody's Somebody's Fool",
+      "artist": "Connie Francis",
+      "trackId": "https://open.spotify.com/track/3tzjY4CqAxrUB9ZtxGlUJm"
+    },
+    {
+      "song": "Alley-Oop",
+      "artist": "Hollywood Argyles",
+      "trackId": "https://open.spotify.com/track/6taOhSWQVW7wd0lj9MX1u9"
+    },
+    {
+      "song": "I'm Sorry",
+      "artist": "Brenda Lee",
+      "trackId": "https://open.spotify.com/track/6fbdWy1HjnC6bwERODqm5Z"
+    },
+    {
+      "song": "Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini",
+      "artist": "Brian Hyland",
+      "trackId": "https://open.spotify.com/track/3Aug2RunJbjGiz2CTtWu5l"
+    },
+    {
+      "song": "It's Now Or Never",
+      "artist": "Elvis Presley With The Jordanaires",
+      "trackId": "https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX"
+    },
+    {
+      "song": "The Twist",
+      "artist": "Chubby Checker",
+      "trackId": "https://open.spotify.com/track/29gelu2enuB2yE7u6EGNdc"
+    },
+    {
+      "song": "My Heart Has A Mind Of Its Own",
+      "artist": "Connie Francis",
+      "trackId": "https://open.spotify.com/track/5BNYMop8ujAN9S9N7OGkxH"
+    },
+    {
+      "song": "Mr. Custer",
+      "artist": "Larry Verne",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Save The Last Dance For Me",
+      "artist": "The Drifters",
+      "trackId": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
+    },
+    {
+      "song": "I Want To Be Wanted",
+      "artist": "Brenda Lee",
+      "trackId": "https://open.spotify.com/track/2pBYTUAZNnVu57VQiJByiE"
+    },
+    {
+      "song": "Georgia On My Mind",
+      "artist": "Ray Charles",
+      "trackId": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
+    },
+    {
+      "song": "Stay",
+      "artist": "Maurice Williams & The Zodiacs",
+      "trackId": "https://open.spotify.com/track/12BB5t506Of3s3NPBoKScC"
+    },
+    {
+      "song": "Are You Lonesome To-night?",
+      "artist": "Elvis Presley With The Jordanaires",
+      "trackId": "https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k"
+    },
+    {
+      "song": "Wonderland By Night",
+      "artist": "Bert Kaempfert And His Orchestra",
+      "trackId": "https://open.spotify.com/track/5Ik1BD4gKzxofvNgSRQbCF"
+    },
+    {
+      "song": "Will You Love Me Tomorrow",
+      "artist": "The Shirelles",
+      "trackId": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
+    },
+    {
+      "song": "Calcutta",
+      "artist": "Lawrence Welk And His Orchestra",
+      "trackId": "https://open.spotify.com/track/10VtM4vN0l9y4r0YTjVYaA"
+    },
+    {
+      "song": "Pony Time",
+      "artist": "Chubby Checker",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Surrender",
+      "artist": "Elvis Presley With The Jordanaires",
+      "trackId": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
+    },
+    {
+      "song": "Blue Moon",
+      "artist": "The Marcels",
+      "trackId": "https://open.spotify.com/track/1aSsJqcVXgLHXJuU0mXuBy"
+    },
+    {
+      "song": "Runaway",
+      "artist": "Del Shannon",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Mother-In-Law",
+      "artist": "Ernie K-Doe",
+      "trackId": "https://open.spotify.com/track/7qEwxMKJu8EsjvOoxMJoTT"
+    },
+    {
+      "song": "Travelin' Man",
+      "artist": "Ricky Nelson",
+      "trackId": "https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz"
+    },
+    {
+      "song": "Running Scared",
+      "artist": "Roy Orbison",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Moody River",
+      "artist": "Pat Boone",
+      "trackId": "https://open.spotify.com/track/29gelu2enuB2yE7u6EGNdc"
+    },
+    {
+      "song": "Quarter To Three",
+      "artist": "U.S. Bonds",
+      "trackId": "https://open.spotify.com/track/2BW6brvV3oxynBQeK5RjnR"
+    },
+    {
+      "song": "Tossin' And Turnin'",
+      "artist": "Bobby Lewis",
+      "trackId": "https://open.spotify.com/track/79s3pSe1u6ggQBEwVPm58Z"
+    },
+    {
+      "song": "Wooden Heart",
+      "artist": "Joe Dowell",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Michael",
+      "artist": "The Highwaymen",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Take Good Care Of My Baby",
+      "artist": "Bobby Vee",
+      "trackId": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
+    },
+    {
+      "song": "Hit The Road Jack",
+      "artist": "Ray Charles And His Orchestra With The Raelettes",
+      "trackId": "https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK"
+    },
+    {
+      "song": "Runaround Sue",
+      "artist": "Dion",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Big Bad John",
+      "artist": "Jimmy Dean",
+      "trackId": "https://open.spotify.com/track/4cRJvAh0BwNng8nO5Vnf5F"
+    },
+    {
+      "song": "Please Mr. Postman",
+      "artist": "The Marvelettes",
+      "trackId": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
+    },
+    {
+      "song": "The Lion Sleeps Tonight",
+      "artist": "The Tokens",
+      "trackId": "https://open.spotify.com/track/5X6VbizePQKSnt55YWWyGS"
+    },
+    {
+      "song": "Peppermint Twist - Part I",
+      "artist": "Joey Dee & the Starliters",
+      "trackId": "https://open.spotify.com/track/4vFuebQvxexME3dTs99ifv"
+    },
+    {
+      "song": "Duke Of Earl",
+      "artist": "Gene Chandler",
+      "trackId": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
+    },
+    {
+      "song": "Hey! Baby",
+      "artist": "Bruce Channel",
+      "trackId": "https://open.spotify.com/track/6CBgRhKbSU9Ihb54165Mzl"
+    },
+    {
+      "song": "Don't Break The Heart That Loves You",
+      "artist": "Connie Francis",
+      "trackId": "https://open.spotify.com/track/2fAB9BufYdc9AJLE6BusXP"
+    },
+    {
+      "song": "Johnny Angel",
+      "artist": "Shelley Fabares",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Good Luck Charm",
+      "artist": "Elvis Presley With The Jordanaires",
+      "trackId": "https://open.spotify.com/track/19gotedXtqeE8dWju6WURW"
+    },
+    {
+      "song": "Soldier Boy",
+      "artist": "The Shirelles",
+      "trackId": "https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo"
+    },
+    {
+      "song": "Stranger On The Shore",
+      "artist": "Mr. Acker Bilk",
+      "trackId": "https://open.spotify.com/track/1UUqBCegaEWTuaYdwc7QQx"
+    },
+    {
+      "song": "I Can't Stop Loving You",
+      "artist": "Ray Charles",
+      "trackId": "https://open.spotify.com/track/2b8cQfktOXRqaeAXSB4zaP"
+    },
+    {
+      "song": "The Stripper",
+      "artist": "David Rose and His Orchestra",
+      "trackId": "https://open.spotify.com/track/2xl1L7F0JqE2DyhM0BjZVM"
+    },
+    {
+      "song": "Roses Are Red (My Love)",
+      "artist": "Bobby Vinton",
+      "trackId": "https://open.spotify.com/track/5zw4SajQ2IKvjnSWXOSDrh"
+    },
+    {
+      "song": "Breaking Up Is Hard To Do",
+      "artist": "Neil Sedaka",
+      "trackId": "https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX"
+    },
+    {
+      "song": "The Loco-Motion",
+      "artist": "Little Eva",
+      "trackId": "https://open.spotify.com/track/0bllGR73P8r9s8qyrJmS8b"
+    },
+    {
+      "song": "Sheila",
+      "artist": "Tommy Roe",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Sherry",
+      "artist": "The 4 Seasons",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Monster Mash",
+      "artist": "Bobby \"Boris\" Pickett And The Crypt-Kickers",
+      "trackId": "https://open.spotify.com/track/2YgXE8Al6XP2qxaisxTwYM"
+    },
+    {
+      "song": "He's A Rebel",
+      "artist": "The Crystals",
+      "trackId": "https://open.spotify.com/track/3fkypmw34YuccrvYvKhUqe"
+    },
+    {
+      "song": "Big Girls Don't Cry",
+      "artist": "The 4 Seasons",
+      "trackId": "https://open.spotify.com/track/4AniPkv5vgdE1n6VKreiyI"
+    },
+    {
+      "song": "Telstar",
+      "artist": "The Tornadoes",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Go Away Little Girl",
+      "artist": "Steve Lawrence",
+      "trackId": "https://open.spotify.com/track/3tltdfC7uLO6MqX4AoFGj2"
+    },
+    {
+      "song": "Walk Right In",
+      "artist": "The Rooftop Singers",
+      "trackId": "https://open.spotify.com/track/4WhT2YADjcU58IUgroWZQZ"
+    },
+    {
+      "song": "Hey Paula",
+      "artist": "Paul and Paula",
+      "trackId": "https://open.spotify.com/track/6Z5hXchgBwnaL77R2yL9EO"
+    },
+    {
+      "song": "Walk Like A Man",
+      "artist": "The 4 Seasons",
+      "trackId": "https://open.spotify.com/track/4C76SOnBa9eQDwOwe11hPz"
+    },
+    {
+      "song": "Our Day Will Come",
+      "artist": "Ruby And The Romantics",
+      "trackId": "https://open.spotify.com/track/3ngYXFSYtF5mHguNCA3JZ0"
+    },
+    {
+      "song": "He's So Fine",
+      "artist": "The Chiffons",
+      "trackId": "https://open.spotify.com/track/17Xxp5dtS4GmdGjNZNb5Gk"
+    },
+    {
+      "song": "I Will Follow Him",
+      "artist": "Little Peggy March",
+      "trackId": "https://open.spotify.com/track/3GQETOg4ZXyQ1jEFqfMoac"
+    },
+    {
+      "song": "If You Wanna Be Happy",
+      "artist": "Jimmy Soul",
+      "trackId": "https://open.spotify.com/track/7D97JnBT73FWUh9KmRvP9M"
+    },
+    {
+      "song": "It's My Party",
+      "artist": "Lesley Gore",
+      "trackId": "https://open.spotify.com/track/2cW6YjxfNnDycOoE95xwfa"
+    },
+    {
+      "song": "Sukiyaki",
+      "artist": "Kyu Sakamoto",
+      "trackId": "https://open.spotify.com/track/26JNSwccMpY6zx36pySxG9"
+    },
+    {
+      "song": "Easier Said Than Done",
+      "artist": "The Essex",
+      "trackId": "https://open.spotify.com/track/4zIeRcsaho6lZuaXEYR1y3"
+    },
+    {
+      "song": "Surf City",
+      "artist": "Jan & Dean",
+      "trackId": "https://open.spotify.com/track/0ry6Hq2NCLlm4lIW4m2OdL"
+    },
+    {
+      "song": "So Much In Love",
+      "artist": "The Tymes",
+      "trackId": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
+    },
+    {
+      "song": "Fingertips - Pt 2",
+      "artist": "Little Stevie Wonder",
+      "trackId": "https://open.spotify.com/track/4eUD9eURu25iwAjtVG7Vuu"
+    },
+    {
+      "song": "My Boyfriend's Back",
+      "artist": "The Angels",
+      "trackId": "https://open.spotify.com/track/7mCNZwbIR0Ln1whXQgr2jz"
+    },
+    {
+      "song": "Blue Velvet",
+      "artist": "Bobby Vinton",
+      "trackId": "https://open.spotify.com/track/4rokPKulQg7ARGNEtffxW1"
+    },
+    {
+      "song": "Sugar Shack",
+      "artist": "Jimmy Gilmer And The Fireballs",
+      "trackId": "https://open.spotify.com/track/4XoYeolVYTiddO9wZLXLgl"
+    },
+    {
+      "song": "Deep Purple",
+      "artist": "Nino Tempo & April Stevens",
+      "trackId": "https://open.spotify.com/track/48mKqnEWVN0U68U6SUc995"
+    },
+    {
+      "song": "I'm Leaving It Up To You",
+      "artist": "Dale & Grace",
+      "trackId": "https://open.spotify.com/track/17Xxp5dtS4GmdGjNZNb5Gk"
+    },
+    {
+      "song": "Dominique",
+      "artist": "The Singing Nun (Soeur Sourire)",
+      "trackId": "https://open.spotify.com/track/2YMaQIN48lOHPJ8LxjsvLq"
+    },
+    {
+      "song": "There! I've Said It Again",
+      "artist": "Bobby Vinton",
+      "trackId": "https://open.spotify.com/track/3mwiyHBHfAzOe89MwqJeEb"
+    },
+    {
+      "song": "I Want To Hold Your Hand",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/0g1NjFyzJ6FFEOTsuiJLdv"
+    },
+    {
+      "song": "She Loves You",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/01K1zFyjJhG2Qk7PIkSAEA"
+    },
+    {
+      "song": "Can't Buy Me Love",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/4iVudOuRcKPGK8y7GqSZKP"
+    },
+    {
+      "song": "Hello, Dolly!",
+      "artist": "Louis Armstrong And The All Stars",
+      "trackId": "https://open.spotify.com/track/0C2qN2RSuMTU8tkZTRtnjA"
+    },
+    {
+      "song": "My Guy",
+      "artist": "Mary Wells",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Love Me Do",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/0s5Bv6nKQcTZNHk6kNGP5y"
+    },
+    {
+      "song": "Chapel Of Love",
+      "artist": "The Dixie Cups",
+      "trackId": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
+    },
+    {
+      "song": "A World Without Love",
+      "artist": "Peter And Gordon",
+      "trackId": "https://open.spotify.com/track/1A0j6qANKHgk7VZ6uvYO06"
+    },
+    {
+      "song": "I Get Around",
+      "artist": "The Beach Boys",
+      "trackId": "https://open.spotify.com/track/2GR8SvytwyVyPJTwwt0HSg"
+    },
+    {
+      "song": "Rag Doll",
+      "artist": "The 4 Seasons Featuring the \"Sound of Frankie Valli\"",
+      "trackId": "https://open.spotify.com/track/1BeCgpPnFNEAL4rphHLrG6"
+    },
+    {
+      "song": "A Hard Day's Night",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
+    },
+    {
+      "song": "Everybody Loves Somebody",
+      "artist": "Dean Martin",
+      "trackId": "https://open.spotify.com/track/5t7VhgvJDbx7sgAw8vQpt2"
+    },
+    {
+      "song": "Where Did Our Love Go",
+      "artist": "The Supremes",
+      "trackId": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
+    },
+    {
+      "song": "House Of The Rising Sun",
+      "artist": "The Animals",
+      "trackId": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
+    },
+    {
+      "song": "Oh, Pretty Woman",
+      "artist": "Roy Orbison And The Candy Men",
+      "trackId": "https://open.spotify.com/track/52HAHV1j93s5B8GoTNI7DJ"
+    },
+    {
+      "song": "Do Wah Diddy Diddy",
+      "artist": "Manfred Mann",
+      "trackId": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
+    },
+    {
+      "song": "Baby Love",
+      "artist": "The Supremes",
+      "trackId": "https://open.spotify.com/track/0BCVDMgLP8biSDuu0y8EvC"
+    },
+    {
+      "song": "Leader Of The Pack",
+      "artist": "The Shangri-Las",
+      "trackId": "https://open.spotify.com/track/6O5PIO5pAWxdoxvaUFQ02G"
+    },
+    {
+      "song": "Ringo",
+      "artist": "Lorne Greene",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Mr. Lonely",
+      "artist": "Bobby Vinton",
+      "trackId": "https://open.spotify.com/track/6WFAKXqjCKFecCX3mF78FT"
+    },
+    {
+      "song": "Come See About Me",
+      "artist": "The Supremes",
+      "trackId": "https://open.spotify.com/track/0kQOmSJb84p2f0sPnstZdR"
+    },
+    {
+      "song": "I Feel Fine",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/1weZ3j18XgtD9MLwsEFbYy"
+    },
+    {
+      "song": "Downtown",
+      "artist": "Petula Clark",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "You've Lost That Lovin' Feelin'",
+      "artist": "The Righteous Brothers",
+      "trackId": "https://open.spotify.com/track/6AeyHqzNHJthYJbn0tvJ4b"
+    },
+    {
+      "song": "This Diamond Ring",
+      "artist": "Gary Lewis And The Playboys",
+      "trackId": "https://open.spotify.com/track/7krLZsVwanqpFd03FYHptt"
+    },
+    {
+      "song": "My Girl",
+      "artist": "The Temptations",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Eight Days A Week",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/5u02N7tBZT9ckaUcbcgkZa"
+    },
+    {
+      "song": "Stop! In The Name Of Love",
+      "artist": "The Supremes",
+      "trackId": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
+    },
+    {
+      "song": "I'm Telling You Now",
+      "artist": "Freddie And The Dreamers",
+      "trackId": "https://open.spotify.com/track/7ANcuJ58f7g1yawHnK3bPP"
+    },
+    {
+      "song": "Game Of Love",
+      "artist": "Wayne Fontana & The Mindbenders",
+      "trackId": "https://open.spotify.com/track/6ErQcgVtabGlIoPtSMXCDU"
+    },
+    {
+      "song": "Mrs. Brown You've Got A Lovely Daughter",
+      "artist": "Herman's Hermits",
+      "trackId": "https://open.spotify.com/track/2fLVaStZOldVSX5RyoHG6U"
+    },
+    {
+      "song": "Ticket To Ride",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/76mwkosKfiwvEy9hLHqJAX"
+    },
+    {
+      "song": "Help Me, Rhonda",
+      "artist": "The Beach Boys",
+      "trackId": "https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg"
+    },
+    {
+      "song": "Back In My Arms Again",
+      "artist": "The Supremes",
+      "trackId": "https://open.spotify.com/track/2WjW8DjQru6Ic4KvYDqLys"
+    },
+    {
+      "song": "I Can't Help Myself (Sugar Pie Honey Bunch)",
+      "artist": "Four Tops",
+      "trackId": "https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV"
+    },
+    {
+      "song": "Mr. Tambourine Man",
+      "artist": "The Byrds",
+      "trackId": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
+    },
+    {
+      "song": "(I Can't Get No) Satisfaction",
+      "artist": "The Rolling Stones",
+      "trackId": "https://open.spotify.com/track/1GOdYykgw2W0OcjPANvwgE"
+    },
+    {
+      "song": "I'm Henry VIII, I Am",
+      "artist": "Herman's Hermits",
+      "trackId": "https://open.spotify.com/track/1vJeuxgfo1DnpfkjYrqBuz"
+    },
+    {
+      "song": "I Got You Babe",
+      "artist": "Sonny & Cher",
+      "trackId": "https://open.spotify.com/track/6tMjtHEBwMkxslhOe9SHE8"
+    },
+    {
+      "song": "Help!",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Eve Of Destruction",
+      "artist": "Barry McGuire",
+      "trackId": "https://open.spotify.com/track/4C9lBTpO2v3miWXCHQpREc"
+    },
+    {
+      "song": "Hang On Sloopy",
+      "artist": "The McCoys",
+      "trackId": "https://open.spotify.com/track/4q3wAmLwl0AR6AN99QcHXB"
+    },
+    {
+      "song": "Yesterday",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Get Off Of My Cloud",
+      "artist": "The Rolling Stones",
+      "trackId": "https://open.spotify.com/track/1GOdYykgw2W0OcjPANvwgE"
+    },
+    {
+      "song": "I Hear A Symphony",
+      "artist": "The Supremes",
+      "trackId": "https://open.spotify.com/track/4xMg0fnO7z7dJfQljvGD2e"
+    },
+    {
+      "song": "Turn! Turn! Turn! (To Everything There Is A Season)",
+      "artist": "The Byrds",
+      "trackId": "https://open.spotify.com/track/0kQOmSJb84p2f0sPnstZdR"
+    },
+    {
+      "song": "Over And Over",
+      "artist": "The Dave Clark Five",
+      "trackId": "https://open.spotify.com/track/3yRMBAddZAci6MzGa05Dh2"
+    },
+    {
+      "song": "The Sound Of Silence",
+      "artist": "Simon & Garfunkel",
+      "trackId": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "song": "We Can Work It Out",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/7LNiAjyg9P2GKINTtN6Yt8"
+    },
+    {
+      "song": "My Love",
+      "artist": "Petula Clark",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Lightnin' Strikes",
+      "artist": "Lou Christie",
+      "trackId": "https://open.spotify.com/track/6fOmB3PDewpTZi4Zvoog7M"
+    },
+    {
+      "song": "These Boots Are Made For Walkin'",
+      "artist": "Nancy Sinatra",
+      "trackId": "https://open.spotify.com/track/2HEgBBls7l0smWTxPx0MtZ"
+    },
+    {
+      "song": "The Ballad Of The Green Berets",
+      "artist": "SSgt Barry Sadler",
+      "trackId": "https://open.spotify.com/track/0yjNmllr3Ew6f97TqPuEqa"
+    },
+    {
+      "song": "(You're My) Soul And Inspiration",
+      "artist": "The Righteous Brothers",
+      "trackId": "https://open.spotify.com/track/5ZHOiRqKOzgFMfMAu8cwzp"
+    },
+    {
+      "song": "Good Lovin'",
+      "artist": "The Young Rascals",
+      "trackId": "https://open.spotify.com/track/0XnhQGfqfi5CnZXcONJuI5"
+    },
+    {
+      "song": "Monday, Monday",
+      "artist": "The Mamas & The Papas",
+      "trackId": "https://open.spotify.com/track/5Y4JAWEpOkYs1iiCTNgmW4"
+    },
+    {
+      "song": "When A Man Loves A Woman",
+      "artist": "Percy Sledge",
+      "trackId": "https://open.spotify.com/track/2tdqDQ41o8xvyLy6mXiO27"
+    },
+    {
+      "song": "Paint It, Black",
+      "artist": "The Rolling Stones",
+      "trackId": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
+    },
+    {
+      "song": "Paperback Writer",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Strangers In The Night",
+      "artist": "Frank Sinatra",
+      "trackId": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
+    },
+    {
+      "song": "Hanky Panky",
+      "artist": "Tommy James And The Shondells",
+      "trackId": "https://open.spotify.com/track/3uqEiaO6MUoM89nLSIs05c"
+    },
+    {
+      "song": "Wild Thing",
+      "artist": "The Troggs",
+      "trackId": "https://open.spotify.com/track/3toy7MGbV7n7G2934C9L2R"
+    },
+    {
+      "song": "Summer In The City",
+      "artist": "The Lovin' Spoonful",
+      "trackId": "https://open.spotify.com/track/257YFNPcDJUp8c7v1q8hPp"
+    },
+    {
+      "song": "Sunshine Superman",
+      "artist": "Donovan",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "You Can't Hurry Love",
+      "artist": "The Supremes",
+      "trackId": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+    },
+    {
+      "song": "Cherish",
+      "artist": "The Association",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Reach Out I'll Be There",
+      "artist": "Four Tops",
+      "trackId": "https://open.spotify.com/track/6DdWSQJNCQuQjXJQBHXTz0"
+    },
+    {
+      "song": "96 Tears",
+      "artist": "? (Question Mark) & The Mysterians",
+      "trackId": "https://open.spotify.com/track/46CjJuu0mQ6nRhdAeLNjeA"
+    },
+    {
+      "song": "Last Train To Clarksville",
+      "artist": "The Monkees",
+      "trackId": "https://open.spotify.com/track/3dgyDSKfzaNBtlZuUxc8IW"
+    },
+    {
+      "song": "Poor Side Of Town",
+      "artist": "Johnny Rivers",
+      "trackId": "https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3"
+    },
+    {
+      "song": "You Keep Me Hangin' On",
+      "artist": "The Supremes",
+      "trackId": "https://open.spotify.com/track/4a01ClusxuZiloOK5UgLUn"
+    },
+    {
+      "song": "Winchester Cathedral",
+      "artist": "The New Vaudeville Band",
+      "trackId": "https://open.spotify.com/track/27nasmd5S8eIvIkAa7wnSo"
+    },
+    {
+      "song": "Good Vibrations",
+      "artist": "The Beach Boys",
+      "trackId": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
+    },
+    {
+      "song": "I'm A Believer",
+      "artist": "The Monkees",
+      "trackId": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
+    },
+    {
+      "song": "Kind Of A Drag",
+      "artist": "The Buckinghams",
+      "trackId": "https://open.spotify.com/track/65wUTKQhWvfCoGvayiJ4du"
+    },
+    {
+      "song": "Ruby Tuesday",
+      "artist": "The Rolling Stones",
+      "trackId": "https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT"
+    },
+    {
+      "song": "Love Is Here And Now You're Gone",
+      "artist": "The Supremes",
+      "trackId": "https://open.spotify.com/track/4KUGhh0lsJ8GxQJ1Um8UrB"
+    },
+    {
+      "song": "Penny Lane",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Happy Together",
+      "artist": "The Turtles",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Somethin' Stupid",
+      "artist": "Nancy Sinatra & Frank Sinatra",
+      "trackId": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
+    },
+    {
+      "song": "The Happening",
+      "artist": "The Supremes",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Groovin'",
+      "artist": "The Young Rascals",
+      "trackId": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
+    },
+    {
+      "song": "Respect",
+      "artist": "Aretha Franklin",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Windy",
+      "artist": "The Association",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Light My Fire",
+      "artist": "The Doors",
+      "trackId": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
+    },
+    {
+      "song": "All You Need Is Love",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/1oycjiD4UpkHWxlegeYGzB"
+    },
+    {
+      "song": "Ode To Billie Joe",
+      "artist": "Bobbie Gentry",
+      "trackId": "https://open.spotify.com/track/4FdDorlbJTVHcH3djLbIfn"
+    },
+    {
+      "song": "The Letter",
+      "artist": "The Box Tops",
+      "trackId": "https://open.spotify.com/track/2SJo1P387WJHJx1uFbyrRj"
+    },
+    {
+      "song": "To Sir With Love",
+      "artist": "Lulu",
+      "trackId": "https://open.spotify.com/track/2SJo1P387WJHJx1uFbyrRj"
+    },
+    {
+      "song": "Incense And Peppermints",
+      "artist": "Strawberry Alarm Clock",
+      "trackId": "https://open.spotify.com/track/4OdfUHFyFVDLYDpqIJK6eR"
+    },
+    {
+      "song": "Daydream Believer",
+      "artist": "The Monkees",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Hello Goodbye",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/2uOXn6ugllgy5hQMnpAWMb"
+    },
+    {
+      "song": "Judy In Disguise (With Glasses)",
+      "artist": "John Fred And The Playboys",
+      "trackId": "https://open.spotify.com/track/3EVQmjvlYb4Bk20Qs89UyK"
+    },
+    {
+      "song": "Green Tambourine",
+      "artist": "The Lemon Pipers",
+      "trackId": "https://open.spotify.com/track/7pH4WbeLpoEVB4tc14w51Z"
+    },
+    {
+      "song": "Love Is Blue (L'amour Est Bleu)",
+      "artist": "Paul Mauriat And His Orchestra",
+      "trackId": "https://open.spotify.com/track/6vUhLEkY17FlxjEysVA6SX"
+    },
+    {
+      "song": "(Sittin' On) The Dock Of The Bay",
+      "artist": "Otis Redding",
+      "trackId": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
+    },
+    {
+      "song": "Honey",
+      "artist": "Bobby Goldsboro",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Tighten Up",
+      "artist": "Archie Bell & The Drells",
+      "trackId": "https://open.spotify.com/track/32LivoHcFQKDTU4p4zsRQg"
+    },
+    {
+      "song": "Mrs. Robinson",
+      "artist": "Simon & Garfunkel",
+      "trackId": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
+    },
+    {
+      "song": "This Guy's In Love With You",
+      "artist": "Herb Alpert",
+      "trackId": "https://open.spotify.com/track/5hffP5gJFe1zByXf7BIeYq"
+    },
+    {
+      "song": "Grazing In The Grass",
+      "artist": "Hugh Masekela",
+      "trackId": "https://open.spotify.com/track/2P6Buc8kWRgShx7aHIadqu"
+    },
+    {
+      "song": "Hello, I Love You",
+      "artist": "The Doors",
+      "trackId": "https://open.spotify.com/track/6n7hW6sgeSxwwcSiTAYpFo"
+    },
+    {
+      "song": "People Got To Be Free",
+      "artist": "The Rascals",
+      "trackId": "https://open.spotify.com/track/49oQUbmhXqjGb850ERxtfb"
+    },
+    {
+      "song": "Harper Valley P.T.A.",
+      "artist": "Jeannie C. Riley",
+      "trackId": "https://open.spotify.com/track/63EQVLdtGL6rZf8mPKW7QY"
+    },
+    {
+      "song": "Hey Jude",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
+    },
+    {
+      "song": "Love Child",
+      "artist": "Diana Ross & The Supremes",
+      "trackId": "https://open.spotify.com/track/69EILuL34ggLWQsa626bes"
+    },
+    {
+      "song": "I Heard It Through The Grapevine",
+      "artist": "Marvin Gaye",
+      "trackId": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"
+    },
+    {
+      "song": "Crimson And Clover",
+      "artist": "Tommy James And The Shondells",
+      "trackId": "https://open.spotify.com/track/74ohdXevc7VsXl96ofi3Kn"
+    },
+    {
+      "song": "Everyday People",
+      "artist": "Sly & The Family Stone",
+      "trackId": "https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn"
+    },
+    {
+      "song": "Dizzy",
+      "artist": "Tommy Roe",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Aquarius/Let The Sunshine In (The Flesh Failures)",
+      "artist": "The 5th Dimension",
+      "trackId": "https://open.spotify.com/track/0HZlND4giwzgolBpaNIRGV"
+    },
+    {
+      "song": "Get Back",
+      "artist": "The Beatles With Billy Preston",
+      "trackId": "https://open.spotify.com/track/1Fmx1H4LS8thxeKaZSQw6d"
+    },
+    {
+      "song": "Love Theme From Romeo & Juliet",
+      "artist": "Henry Mancini And His Orchestra",
+      "trackId": "https://open.spotify.com/track/57IjAs2RWUcMf0tBkIAMpi"
+    },
+    {
+      "song": "In The Year 2525",
+      "artist": "Zager & Evans",
+      "trackId": "https://open.spotify.com/track/57mzysKYFT64fWGhdXAyva"
+    },
+    {
+      "song": "Honky Tonk Women",
+      "artist": "The Rolling Stones",
+      "trackId": "https://open.spotify.com/track/7HIG9Utsra6sL79nA1Tn0y"
+    },
+    {
+      "song": "Sugar, Sugar",
+      "artist": "The Archies",
+      "trackId": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
+    },
+    {
+      "song": "I Can't Get Next To You",
+      "artist": "The Temptations",
+      "trackId": "https://open.spotify.com/track/1emcsh64kHjViXbTEhPoV1"
+    },
+    {
+      "song": "Suspicious Minds",
+      "artist": "Elvis Presley",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Wedding Bell Blues",
+      "artist": "The 5th Dimension",
+      "trackId": "https://open.spotify.com/track/6qjPhpkReNhTsM3rVpDGiV"
+    },
+    {
+      "song": "Come Together/Something",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/2oyiEA0mYPRAxGZwxNOScq"
+    },
+    {
+      "song": "Na Na Hey Hey Kiss Him Goodbye",
+      "artist": "Steam",
+      "trackId": "https://open.spotify.com/track/1mrSHPNTDdMkXpR4BiSiD7"
+    },
+    {
+      "song": "Leaving On A Jet Plane",
+      "artist": "Peter, Paul & Mary",
+      "trackId": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
+    },
+    {
+      "song": "Someday We'll Be Together",
+      "artist": "Diana Ross & The Supremes",
+      "trackId": "https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS"
+    },
+    {
+      "song": "Raindrops Keep Fallin' On My Head",
+      "artist": "B.J. Thomas",
+      "trackId": "https://open.spotify.com/track/2s1Yh0AywJhLsKKZ9vM0tm"
+    },
+    {
+      "song": "I Want You Back",
+      "artist": "Jackson 5",
+      "trackId": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+    },
+    {
+      "song": "Venus",
+      "artist": "The Shocking Blue",
+      "trackId": "https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0"
+    },
+    {
+      "song": "Thank You Falettinme Be Mice Elf Agin/Everybody Is A Star",
+      "artist": "Sly & The Family Stone",
+      "trackId": "https://open.spotify.com/track/5CEnFe1DEdSCsFFkgo2nGS"
+    },
+    {
+      "song": "Bridge Over Troubled Water",
+      "artist": "Simon & Garfunkel",
+      "trackId": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
+    },
+    {
+      "song": "Let It Be",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/7jMkbyobeOAlyK2t0yt34L"
+    },
+    {
+      "song": "ABC",
+      "artist": "Jackson 5",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "American Woman/No Sugar Tonight",
+      "artist": "The Guess Who",
+      "trackId": "https://open.spotify.com/track/3WWi5DS9mnf9u9dgx5KntP"
+    },
+    {
+      "song": "Everything Is Beautiful",
+      "artist": "Ray Stevens",
+      "trackId": "https://open.spotify.com/track/6arax7RHY6O4UacmDpWDAB"
+    },
+    {
+      "song": "The Long And Winding Road/For You Blue",
+      "artist": "The Beatles",
+      "trackId": "https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh"
+    },
+    {
+      "song": "The Love You Save/I Found That Girl",
+      "artist": "Jackson 5",
+      "trackId": "https://open.spotify.com/track/0KkfDzT6qP7JkraQLXTHRn"
+    },
+    {
+      "song": "Mama Told Me (Not To Come)",
+      "artist": "Three Dog Night",
+      "trackId": "https://open.spotify.com/track/0vnWQqRGqMmFwqvtyMr8sZ"
+    },
+    {
+      "song": "(They Long To Be) Close To You",
+      "artist": "Carpenters",
+      "trackId": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
+    },
+    {
+      "song": "Make It With You",
+      "artist": "Bread",
+      "trackId": "https://open.spotify.com/track/0oLxMeXi2rUZezfR8IukBS"
+    },
+    {
+      "song": "War",
+      "artist": "Edwin Starr",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Ain't No Mountain High Enough",
+      "artist": "Diana Ross",
+      "trackId": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
+    },
+    {
+      "song": "Cracklin' Rosie",
+      "artist": "Neil Diamond",
+      "trackId": "https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa"
+    },
+    {
+      "song": "I'll Be There",
+      "artist": "Jackson 5",
+      "trackId": "https://open.spotify.com/track/3AqOip5BipwZReSnYPaW6O"
+    },
+    {
+      "song": "I Think I Love You",
+      "artist": "The Partridge Family Starring Shirley Jones Featuring David Cassidy",
+      "trackId": "https://open.spotify.com/track/4NfNr2aOxfZkkDHue5gjKf"
+    },
+    {
+      "song": "The Tears Of A Clown",
+      "artist": "Smokey Robinson & The Miracles",
+      "trackId": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
+    },
+    {
+      "song": "My Sweet Lord/Isn't It A Pity",
+      "artist": "George Harrison",
+      "trackId": "https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs"
+    },
+    {
+      "song": "Knock Three Times",
+      "artist": "Dawn",
+      "trackId": "https://open.spotify.com/track/3V4WB8F8Bq21pIISRRGtXT"
+    },
+    {
+      "song": "One Bad Apple",
+      "artist": "The Osmonds",
+      "trackId": "https://open.spotify.com/track/50UoJUrslRVqG0cg6uboyn"
+    },
+    {
+      "song": "Me And Bobby McGee",
+      "artist": "Janis Joplin",
+      "trackId": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
+    },
+    {
+      "song": "Just My Imagination (Running Away With Me)",
+      "artist": "The Temptations",
+      "trackId": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
+    },
+    {
+      "song": "Joy To The World",
+      "artist": "Three Dog Night",
+      "trackId": "https://open.spotify.com/track/0q4DbCRYxEAZQXXyCFhNe3"
+    },
+    {
+      "song": "Brown Sugar",
+      "artist": "The Rolling Stones",
+      "trackId": "https://open.spotify.com/track/34K7nU8EWQIRI93RfqhdRJ"
+    },
+    {
+      "song": "Want Ads",
+      "artist": "The Honey Cone",
+      "trackId": "https://open.spotify.com/track/7qh5e5AVPHVsfi0NPrxylx"
+    },
+    {
+      "song": "It's Too Late/I Feel The Earth Move",
+      "artist": "Carole King",
+      "trackId": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
+    },
+    {
+      "song": "Indian Reservation (The Lament Of The Cherokee Reservation Indian)",
+      "artist": "The Raiders",
+      "trackId": "https://open.spotify.com/track/3mDOHVY9MWZOTODSNF5GBj"
+    },
+    {
+      "song": "You've Got A Friend",
+      "artist": "James Taylor",
+      "trackId": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
+    },
+    {
+      "song": "How Can You Mend A Broken Heart",
+      "artist": "Bee Gees",
+      "trackId": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk"
+    },
+    {
+      "song": "Uncle Albert/Admiral Halsey",
+      "artist": "Paul & Linda McCartney",
+      "trackId": "https://open.spotify.com/track/0YItGamQj3bIeeUvKt36Kd"
+    },
+    {
+      "song": "Go Away Little Girl",
+      "artist": "Donny Osmond",
+      "trackId": "https://open.spotify.com/track/6SvOdNsEfi7EDB0oFtH3YG"
+    },
+    {
+      "song": "Maggie May/Reason To Believe",
+      "artist": "Rod Stewart",
+      "trackId": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
+    },
+    {
+      "song": "Gypsys, Tramps & Thieves",
+      "artist": "Cher",
+      "trackId": "https://open.spotify.com/track/2xq1I5pSnwzNQHtEWFetlA"
+    },
+    {
+      "song": "Theme From Shaft",
+      "artist": "Isaac Hayes",
+      "trackId": "https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO"
+    },
+    {
+      "song": "Family Affair",
+      "artist": "Sly & The Family Stone",
+      "trackId": "https://open.spotify.com/track/4f3u4Oy0JqJRIhMmTqRcxj"
+    },
+    {
+      "song": "Brand New Key",
+      "artist": "Melanie",
+      "trackId": "https://open.spotify.com/track/5t6QAzKmAMSTcprQkbwy1k"
+    },
+    {
+      "song": "American Pie (Parts I & II)",
+      "artist": "Don McLean",
+      "trackId": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
+    },
+    {
+      "song": "Let's Stay Together",
+      "artist": "Al Green",
+      "trackId": "https://open.spotify.com/track/6XDUo0NxngjMz8D14AlwpO"
+    },
+    {
+      "song": "Without You",
+      "artist": "Nilsson",
+      "trackId": "https://open.spotify.com/track/4nbs8cT5xWhyZnmQwb4KC9"
+    },
+    {
+      "song": "Heart Of Gold",
+      "artist": "Neil Young",
+      "trackId": "https://open.spotify.com/track/4mqd5QkLxktjNsrdmiSQ0k"
+    },
+    {
+      "song": "A Horse With No Name",
+      "artist": "America",
+      "trackId": "https://open.spotify.com/track/0Osbam159ngkQww6isBBQJ"
+    },
+    {
+      "song": "The First Time Ever I Saw Your Face",
+      "artist": "Roberta Flack",
+      "trackId": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+    },
+    {
+      "song": "Oh Girl",
+      "artist": "The Chi-lites",
+      "trackId": "https://open.spotify.com/track/5wHagJxi1SFkctKZpcKzLh"
+    },
+    {
+      "song": "I'll Take You There",
+      "artist": "The Staple Singers",
+      "trackId": "https://open.spotify.com/track/03qSYwxRCavJccioep27Sx"
+    },
+    {
+      "song": "The Candy Man",
+      "artist": "Sammy Davis, Jr. with The Mike Curb Congregation",
+      "trackId": "https://open.spotify.com/track/0YepQngc69waqhcXZZwFw2"
+    },
+    {
+      "song": "Song Sung Blue",
+      "artist": "Neil Diamond",
+      "trackId": "https://open.spotify.com/track/57KfogSy3eKuk5JHLKwCJv"
+    },
+    {
+      "song": "Lean On Me",
+      "artist": "Bill Withers",
+      "trackId": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+    },
+    {
+      "song": "Alone Again (Naturally)",
+      "artist": "Gilbert O'Sullivan",
+      "trackId": "https://open.spotify.com/track/54pvEYFocTlvIAQOfXSjqV"
+    },
+    {
+      "song": "Brandy (You're A Fine Girl)",
+      "artist": "Looking Glass",
+      "trackId": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
+    },
+    {
+      "song": "Black & White",
+      "artist": "Three Dog Night",
+      "trackId": "https://open.spotify.com/track/4NLKJfFJl19CnJaEGMGjhl"
+    },
+    {
+      "song": "Baby Don't Get Hooked On Me",
+      "artist": "Mac Davis",
+      "trackId": "https://open.spotify.com/track/4z51Gf7Ppt9Lmu5zmnUIz9"
+    },
+    {
+      "song": "Ben",
+      "artist": "Michael Jackson",
+      "trackId": "https://open.spotify.com/track/1alvY7CtmgyLYTPtmATq4C"
+    },
+    {
+      "song": "My Ding-A-Ling",
+      "artist": "Chuck Berry",
+      "trackId": "https://open.spotify.com/track/2L8mIvM1OwkJyGb3WwDFT3"
+    },
+    {
+      "song": "I Can See Clearly Now",
+      "artist": "Johnny Nash",
+      "trackId": "https://open.spotify.com/track/4B7nE0r1RkjFDjx0tWQrhu"
+    },
+    {
+      "song": "Papa Was A Rollin' Stone",
+      "artist": "The Temptations",
+      "trackId": "https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp"
+    },
+    {
+      "song": "I Am Woman",
+      "artist": "Helen Reddy",
+      "trackId": "https://open.spotify.com/track/3l2hbXdvmaH3tUd3qWLKgm"
+    },
+    {
+      "song": "Me And Mrs. Jones",
+      "artist": "Billy Paul",
+      "trackId": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
+    },
+    {
+      "song": "You're So Vain",
+      "artist": "Carly Simon",
+      "trackId": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "song": "Superstition",
+      "artist": "Stevie Wonder",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Crocodile Rock",
+      "artist": "Elton John",
+      "trackId": "https://open.spotify.com/track/1r7XEmPjHDk5WNsurFTYbU"
+    },
+    {
+      "song": "Killing Me Softly With His Song",
+      "artist": "Roberta Flack",
+      "trackId": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+    },
+    {
+      "song": "Love Train",
+      "artist": "The O'Jays",
+      "trackId": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+    },
+    {
+      "song": "The Night The Lights Went Out In Georgia",
+      "artist": "Vicki Lawrence",
+      "trackId": "https://open.spotify.com/track/0HmMSJ1Vc3H2BoRe1mAFJh"
+    },
+    {
+      "song": "Tie A Yellow Ribbon Round The Ole Oak Tree",
+      "artist": "Dawn Featuring Tony Orlando",
+      "trackId": "https://open.spotify.com/track/12UzVR0M7asW2MHAZRJk0I"
+    },
+    {
+      "song": "You Are The Sunshine Of My Life",
+      "artist": "Stevie Wonder",
+      "trackId": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
+    },
+    {
+      "song": "Frankenstein",
+      "artist": "Edgar Winter Group",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "My Love",
+      "artist": "Paul McCartney And Wings",
+      "trackId": "https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh"
+    },
+    {
+      "song": "Give Me Love - (Give Me Peace On Earth)",
+      "artist": "George Harrison",
+      "trackId": "https://open.spotify.com/track/1ZiN3wseympSLDIFkaWHHC"
+    },
+    {
+      "song": "Will It Go Round In Circles",
+      "artist": "Billy Preston",
+      "trackId": "https://open.spotify.com/track/17KFO56mkVEKR0v8qOPlkU"
+    },
+    {
+      "song": "Bad, Bad Leroy Brown",
+      "artist": "Jim Croce",
+      "trackId": "https://open.spotify.com/track/1N8sTSKTenfDtd675boXGI"
+    },
+    {
+      "song": "The Morning After",
+      "artist": "Maureen McGovern",
+      "trackId": "https://open.spotify.com/track/2BW6brvV3oxynBQeK5RjnR"
+    },
+    {
+      "song": "Touch Me In The Morning",
+      "artist": "Diana Ross",
+      "trackId": "https://open.spotify.com/track/4sIkDCqNjTubfb5UVs8lEA"
+    },
+    {
+      "song": "Brother Louie",
+      "artist": "Stories",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "trackId": "https://open.spotify.com/track/5yr8pi3uCjTYOnTqstBBdm"
+    },
+    {
+      "song": "Delta Dawn",
+      "artist": "Helen Reddy",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "We're An American Band",
+      "artist": "Grand Funk",
+      "trackId": "https://open.spotify.com/track/3XcjIvaZVUFAIdIYZqY9bd"
+    },
+    {
+      "song": "Half-Breed",
+      "artist": "Cher",
+      "trackId": "https://open.spotify.com/track/1jMSTOStMVEwkFdsgqjbI5"
+    },
+    {
+      "song": "Angie",
+      "artist": "The Rolling Stones",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Midnight Train To Georgia",
+      "artist": "Gladys Knight And The Pips",
+      "trackId": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
+    },
+    {
+      "song": "Keep On Truckin' (Part 1)",
+      "artist": "Eddie Kendricks",
+      "trackId": "https://open.spotify.com/track/5CiOCxc3argOhj5qKNZGN0"
+    },
+    {
+      "song": "Photograph",
+      "artist": "Ringo Starr",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Top Of The World",
+      "artist": "Carpenters",
+      "trackId": "https://open.spotify.com/track/3wM6RTAnF7IQpMFd7b9ZcL"
+    },
+    {
+      "song": "The Most Beautiful Girl",
+      "artist": "Charlie Rich",
+      "trackId": "https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm"
+    },
+    {
+      "song": "Time In A Bottle",
+      "artist": "Jim Croce",
+      "trackId": "https://open.spotify.com/track/2zk1IffKkL0KV4yoGWVcng"
+    },
+    {
+      "song": "The Joker",
+      "artist": "The Steve Miller Band",
+      "trackId": "https://open.spotify.com/track/32JiFqyIkwlJ9lezXk1xLN"
+    },
+    {
+      "song": "Show And Tell",
+      "artist": "Al Wilson",
+      "trackId": "https://open.spotify.com/track/6IY590hAhVNir5cfFXd9wt"
+    },
+    {
+      "song": "You're Sixteen",
+      "artist": "Ringo Starr",
+      "trackId": "https://open.spotify.com/track/4MAxWahEbzU8m4bD6mSZg9"
+    },
+    {
+      "song": "The Way We Were",
+      "artist": "Barbra Streisand",
+      "trackId": "https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7"
+    },
+    {
+      "song": "Love's Theme",
+      "artist": "Love Unlimited Orchestra",
+      "trackId": "https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI"
+    },
+    {
+      "song": "Seasons In The Sun",
+      "artist": "Terry Jacks",
+      "trackId": "https://open.spotify.com/track/03YTHAJIqqACT9mJ4pTZxv"
+    },
+    {
+      "song": "Dark Lady",
+      "artist": "Cher",
+      "trackId": "https://open.spotify.com/track/4ryTkrkH4XyaFSkaNbGeiI"
+    },
+    {
+      "song": "Sunshine On My Shoulders",
+      "artist": "John Denver",
+      "trackId": "https://open.spotify.com/track/2wPYDgWEUZDog9e3lL4P22"
+    },
+    {
+      "song": "Hooked On A Feeling",
+      "artist": "Blue Swede",
+      "trackId": "https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L"
+    },
+    {
+      "song": "Bennie And The Jets",
+      "artist": "Elton John",
+      "trackId": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
+    },
+    {
+      "song": "TSOP (The Sound Of Philadelphia)",
+      "artist": "MFSB Featuring The Three Degrees",
+      "trackId": "https://open.spotify.com/track/6BEWwyzvc51WyacKoxJX4S"
+    },
+    {
+      "song": "The Loco-Motion",
+      "artist": "Grand Funk",
+      "trackId": "https://open.spotify.com/track/0PxYWaGiwWtcuL1VIMiEW4"
+    },
+    {
+      "song": "The Streak",
+      "artist": "Ray Stevens",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Band On The Run",
+      "artist": "Paul McCartney And Wings",
+      "trackId": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
+    },
+    {
+      "song": "Billy, Don't Be A Hero",
+      "artist": "Bo Donaldson And The Heywoods",
+      "trackId": "https://open.spotify.com/track/1BRqIJc7ze0rB28FGaPSeE"
+    },
+    {
+      "song": "Sundown",
+      "artist": "Gordon Lightfoot",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Rock The Boat",
+      "artist": "The Hues Corporation",
+      "trackId": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
+    },
+    {
+      "song": "Rock Your Baby",
+      "artist": "George McCrae",
+      "trackId": "https://open.spotify.com/track/0iYtGebtnGzemwehimWusQ"
+    },
+    {
+      "song": "Annie's Song",
+      "artist": "John Denver",
+      "trackId": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
+    },
+    {
+      "song": "Feel Like Makin' Love",
+      "artist": "Roberta Flack",
+      "trackId": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
+    },
+    {
+      "song": "The Night Chicago Died",
+      "artist": "Paper Lace",
+      "trackId": "https://open.spotify.com/track/4f4RRYN3R7glPElFjeoUnC"
+    },
+    {
+      "song": "(You're) Having My Baby",
+      "artist": "Paul Anka with Odia Coates",
+      "trackId": "https://open.spotify.com/track/5PuAFxKmqG72uKyoo11zpQ"
+    },
+    {
+      "song": "I Shot The Sheriff",
+      "artist": "Eric Clapton",
+      "trackId": "https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz"
+    },
+    {
+      "song": "Can't Get Enough Of Your Love, Babe",
+      "artist": "Barry White",
+      "trackId": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
+    },
+    {
+      "song": "Rock Me Gently",
+      "artist": "Andy Kim",
+      "trackId": "https://open.spotify.com/track/1LQUmkMSLhC82I2AVj1T2N"
+    },
+    {
+      "song": "I Honestly Love You",
+      "artist": "Olivia Newton-John",
+      "trackId": "https://open.spotify.com/track/5nNpVC9AC6DWgrT5RX0e0b"
+    },
+    {
+      "song": "Nothing From Nothing",
+      "artist": "Billy Preston",
+      "trackId": "https://open.spotify.com/track/5n9QhVJS3XSjSc9kNJNEIU"
+    },
+    {
+      "song": "Then Came You",
+      "artist": "Dionne Warwicke & Spinners",
+      "trackId": "https://open.spotify.com/track/0fEEwxZtHyNif4GGkQWvVx"
+    },
+    {
+      "song": "You Haven't Done Nothin",
+      "artist": "Stevie Wonder",
+      "trackId": "https://open.spotify.com/track/3zsW9lFtVIXL4e2lidZQAm"
+    },
+    {
+      "song": "You Ain't Seen Nothing Yet/Free Wheelin'",
+      "artist": "Bachman-Turner Overdrive",
+      "trackId": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
+    },
+    {
+      "song": "Whatever Gets You Thru The Night",
+      "artist": "John Lennon With The Plastic Ono Nuclear Band",
+      "trackId": "https://open.spotify.com/track/49nBXQzYNyjoBmUda3ezMf"
+    },
+    {
+      "song": "I Can Help",
+      "artist": "Billy Swan",
+      "trackId": "https://open.spotify.com/track/1wrwhySdoNJiQ1neqvNAc2"
+    },
+    {
+      "song": "Kung Fu Fighting",
+      "artist": "Carl Douglas",
+      "trackId": "https://open.spotify.com/track/6mUGTrrtuBP5Amu4mvh25P"
+    },
+    {
+      "song": "Cat's In The Cradle",
+      "artist": "Harry Chapin",
+      "trackId": "https://open.spotify.com/track/5DqGq9JSXsyBaxt0Ztnq8M"
+    },
+    {
+      "song": "Angie Baby",
+      "artist": "Helen Reddy",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Lucy In The Sky With Diamonds",
+      "artist": "Elton John",
+      "trackId": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
+    },
+    {
+      "song": "Mandy",
+      "artist": "Barry Manilow",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Please Mr. Postman",
+      "artist": "Carpenters",
+      "trackId": "https://open.spotify.com/track/2Lo2BWhhlZSJds2yBhxoet"
+    },
+    {
+      "song": "Laughter In The Rain",
+      "artist": "Neil Sedaka",
+      "trackId": "https://open.spotify.com/track/6J8mn61YYBnMmPuS0GQuCv"
+    },
+    {
+      "song": "Fire",
+      "artist": "Ohio Players",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "You're No Good",
+      "artist": "Linda Ronstadt",
+      "trackId": "https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl"
+    },
+    {
+      "song": "Pick Up The Pieces",
+      "artist": "AWB",
+      "trackId": "https://open.spotify.com/track/17Xxp5dtS4GmdGjNZNb5Gk"
+    },
+    {
+      "song": "Best Of My Love",
+      "artist": "Eagles",
+      "trackId": "https://open.spotify.com/track/1WYokrkFOb9TFVuTrmxTTt"
+    },
+    {
+      "song": "Have You Never Been Mellow",
+      "artist": "Olivia Newton-John",
+      "trackId": "https://open.spotify.com/track/5ehVOC0zSdwWqyZlhomJSi"
+    },
+    {
+      "song": "Black Water",
+      "artist": "The Doobie Brothers",
+      "trackId": "https://open.spotify.com/track/3x1v32I3SZNvC7q7bDhcGm"
+    },
+    {
+      "song": "My Eyes Adored You",
+      "artist": "Frankie Valli",
+      "trackId": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
+    },
+    {
+      "song": "Lady Marmalade",
+      "artist": "Labelle",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Lovin' You",
+      "artist": "Minnie Riperton",
+      "trackId": "https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p"
+    },
+    {
+      "song": "Philadelphia Freedom",
+      "artist": "The Elton John Band",
+      "trackId": "https://open.spotify.com/track/3lFwSDBCNo3CcN09UppUnm"
+    },
+    {
+      "song": "(Hey Won't You Play) Another Somebody Done Somebody Wrong Song",
+      "artist": "B.J. Thomas",
+      "trackId": "https://open.spotify.com/track/4hR3hQKELrARHNZJ51D14s"
+    },
+    {
+      "song": "He Don't Love You (Like I Love You)",
+      "artist": "Tony Orlando & Dawn",
+      "trackId": "https://open.spotify.com/track/6KZRzIXRWeQmBBdMft790Z"
+    },
+    {
+      "song": "Shining Star",
+      "artist": "Earth, Wind & Fire",
+      "trackId": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
+    },
+    {
+      "song": "Before The Next Teardrop Falls",
+      "artist": "Freddy Fender",
+      "trackId": "https://open.spotify.com/track/2SVW5774QbmEjWfbHOEnz3"
+    },
+    {
+      "song": "Thank God I'm A Country Boy",
+      "artist": "John Denver",
+      "trackId": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
+    },
+    {
+      "song": "Sister Golden Hair",
+      "artist": "America",
+      "trackId": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK"
+    },
+    {
+      "song": "Love Will Keep Us Together",
+      "artist": "The Captain & Tennille",
+      "trackId": "https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2"
+    },
+    {
+      "song": "Listen To What The Man Said",
+      "artist": "Wings",
+      "trackId": "https://open.spotify.com/track/1rHvKz5JPpCf9IJDHsyX8P"
+    },
+    {
+      "song": "The Hustle",
+      "artist": "Van McCoy & The Soul City Symphony",
+      "trackId": "https://open.spotify.com/track/6hYT9vkr0xMjhBlaLsYq9T"
+    },
+    {
+      "song": "One Of These Nights",
+      "artist": "Eagles",
+      "trackId": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "song": "Jive Talkin'",
+      "artist": "Bee Gees",
+      "trackId": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
+    },
+    {
+      "song": "Fallin' In Love",
+      "artist": "Hamilton, Joe Frank & Reynolds",
+      "trackId": "https://open.spotify.com/track/4XrbcxI03ARSyqU8jE3pXy"
+    },
+    {
+      "song": "Get Down Tonight",
+      "artist": "KC And The Sunshine Band",
+      "trackId": "https://open.spotify.com/track/2qVZpGu1v98tvUAutqyAfJ"
+    },
+    {
+      "song": "Rhinestone Cowboy",
+      "artist": "Glen Campbell",
+      "trackId": "https://open.spotify.com/track/3WYx2qPwxhtSP1vKTEpRyg"
+    },
+    {
+      "song": "Fame",
+      "artist": "David Bowie",
+      "trackId": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
+    },
+    {
+      "song": "I'm Sorry",
+      "artist": "John Denver",
+      "trackId": "https://open.spotify.com/track/5r30gHLxvhp60XMc5TIIMh"
+    },
+    {
+      "song": "Bad Blood",
+      "artist": "Neil Sedaka",
+      "trackId": "https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo"
+    },
+    {
+      "song": "Island Girl",
+      "artist": "Elton John",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "That's The Way (I Like It)",
+      "artist": "KC And The Sunshine Band",
+      "trackId": "https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi"
+    },
+    {
+      "song": "Fly, Robin, Fly",
+      "artist": "Silver Convention",
+      "trackId": "https://open.spotify.com/track/2W9ToXsoq78Si2KSC52Pvt"
+    },
+    {
+      "song": "Let's Do It Again",
+      "artist": "The Staple Singers",
+      "trackId": "https://open.spotify.com/track/1YQIOrrOg1UDqZCGcZWQ0a"
+    },
+    {
+      "song": "Saturday Night",
+      "artist": "Bay City Rollers",
+      "trackId": "https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75"
+    },
+    {
+      "song": "Convoy",
+      "artist": "C.W. McCall",
+      "trackId": "https://open.spotify.com/track/26JNSwccMpY6zx36pySxG9"
+    },
+    {
+      "song": "I Write The Songs",
+      "artist": "Barry Manilow",
+      "trackId": "https://open.spotify.com/track/5Ukminfz8CID37bgp45utb"
+    },
+    {
+      "song": "Theme From Mahogany (Do You Know Where You're Going To)",
+      "artist": "Diana Ross",
+      "trackId": "https://open.spotify.com/track/10VbGCpgC4FtmYSwBLvIDX"
+    },
+    {
+      "song": "Love Rollercoaster",
+      "artist": "Ohio Players",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "50 Ways To Leave Your Lover",
+      "artist": "Paul Simon",
+      "trackId": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
+    },
+    {
+      "song": "Theme From S.W.A.T.",
+      "artist": "Rhythm Heritage",
+      "trackId": "https://open.spotify.com/track/5x9xxVr7nJ9xMfDIW02Nv3"
+    },
+    {
+      "song": "Love Machine (Part 1)",
+      "artist": "The Miracles",
+      "trackId": "https://open.spotify.com/track/1b833AsiKCEhLLxmdQu9Hw"
+    },
+    {
+      "song": "December, 1963 (Oh, What a Night)",
+      "artist": "The 4 Seasons",
+      "trackId": "https://open.spotify.com/track/0kQOmSJb84p2f0sPnstZdR"
+    },
+    {
+      "song": "Disco Lady",
+      "artist": "Johnnie Taylor",
+      "trackId": "https://open.spotify.com/track/11sxcWkU0dZdjRLuiLLFFd"
+    },
+    {
+      "song": "Let Your Love Flow",
+      "artist": "Bellamy Brothers",
+      "trackId": "https://open.spotify.com/track/7boCUNWXGSjoM8cl5WGxmz"
+    },
+    {
+      "song": "Welcome Back",
+      "artist": "John Sebastian",
+      "trackId": "https://open.spotify.com/track/39OV1QgtjNQQTnMNGWrP2C"
+    },
+    {
+      "song": "Boogie Fever",
+      "artist": "The Sylvers",
+      "trackId": "https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0"
+    },
+    {
+      "song": "Silly Love Songs",
+      "artist": "Wings",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Love Hangover",
+      "artist": "Diana Ross",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Afternoon Delight",
+      "artist": "Starland Vocal Band",
+      "trackId": "https://open.spotify.com/track/0lWwlZuX98TqW5RDlV4nt7"
+    },
+    {
+      "song": "Kiss And Say Goodbye",
+      "artist": "The Manhattans",
+      "trackId": "https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI"
+    },
+    {
+      "song": "Don't Go Breaking My Heart",
+      "artist": "Elton John & Kiki Dee",
+      "trackId": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
+    },
+    {
+      "song": "You Should Be Dancing",
+      "artist": "Bee Gees",
+      "trackId": "https://open.spotify.com/track/2xiOdusRnZezQok1RgLNeS"
+    },
+    {
+      "song": "(Shake, Shake, Shake) Shake Your Booty",
+      "artist": "KC And The Sunshine Band",
+      "trackId": "https://open.spotify.com/track/1vkpe29DP5EvAxYnWVq5C1"
+    },
+    {
+      "song": "Play That Funky Music",
+      "artist": "Wild Cherry",
+      "trackId": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
+    },
+    {
+      "song": "A Fifth Of Beethoven",
+      "artist": "Walter Murphy & The Big Apple Band",
+      "trackId": "https://open.spotify.com/track/0twd28NSehiz5u46moeD9N"
+    },
+    {
+      "song": "Disco Duck (Part I)",
+      "artist": "Rick Dees & His Cast Of Idiots",
+      "trackId": "https://open.spotify.com/track/4aVowfVhlyNUgHYqXbK8Ev"
+    },
+    {
+      "song": "If You Leave Me Now",
+      "artist": "Chicago",
+      "trackId": "https://open.spotify.com/track/5X8vU9a91baFQBkNoEdxpc"
+    },
+    {
+      "song": "Rock'n Me",
+      "artist": "Steve Miller",
+      "trackId": "https://open.spotify.com/track/6FKU84JHM1lbiy5Dx0Dyqd"
+    },
+    {
+      "song": "Tonight's The Night (Gonna Be Alright)",
+      "artist": "Rod Stewart",
+      "trackId": "https://open.spotify.com/track/67mtN6BlsJR0LVyzvNZnGt"
+    },
+    {
+      "song": "You Don't Have To Be A Star (To Be In My Show)",
+      "artist": "Marilyn McCoo & Billy Davis Jr.",
+      "trackId": "https://open.spotify.com/track/2JurHS80N98Yt3CdIBYz9M"
+    },
+    {
+      "song": "You Make Me Feel Like Dancing",
+      "artist": "Leo Sayer",
+      "trackId": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
+    },
+    {
+      "song": "I Wish",
+      "artist": "Stevie Wonder",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Car Wash",
+      "artist": "Rose Royce",
+      "trackId": "https://open.spotify.com/track/0YZ81xcFiwaqU0JckiZ1Od"
+    },
+    {
+      "song": "Torn Between Two Lovers",
+      "artist": "Mary Macgregor",
+      "trackId": "https://open.spotify.com/track/5QRgRmwlWKvg1pAVh45hiz"
+    },
+    {
+      "song": "Blinded By The Light",
+      "artist": "Manfred Mann's Earth Band",
+      "trackId": "https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE"
+    },
+    {
+      "song": "New Kid In Town",
+      "artist": "Eagles",
+      "trackId": "https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB"
+    },
+    {
+      "song": "Evergreen (Love Theme From \"A Star Is Born\")",
+      "artist": "Barbra Streisand",
+      "trackId": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
+    },
+    {
+      "song": "Rich Girl",
+      "artist": "Daryl Hall John Oates",
+      "trackId": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
+    },
+    {
+      "song": "Dancing Queen",
+      "artist": "ABBA",
+      "trackId": "https://open.spotify.com/track/4DjlxAaujtFsUuEsLjjQa2"
+    },
+    {
+      "song": "Don't Give Up On Us",
+      "artist": "David Soul",
+      "trackId": "https://open.spotify.com/track/0vzFXALHDIRhclu5xdxuEX"
+    },
+    {
+      "song": "Don't Leave Me This Way",
+      "artist": "Thelma Houston",
+      "trackId": "https://open.spotify.com/track/037sENutmABiaul69chfNe"
+    },
+    {
+      "song": "Southern Nights",
+      "artist": "Glen Campbell",
+      "trackId": "https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0"
+    },
+    {
+      "song": "Hotel California",
+      "artist": "Eagles",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "When I Need You",
+      "artist": "Leo Sayer",
+      "trackId": "https://open.spotify.com/track/1PR23NIIcbtRKnkuJmf22s"
+    },
+    {
+      "song": "Sir Duke",
+      "artist": "Stevie Wonder",
+      "trackId": "https://open.spotify.com/track/4k6oRr8qhWDcqDtcTGlIT5"
+    },
+    {
+      "song": "I'm Your Boogie Man",
+      "artist": "KC And The Sunshine Band",
+      "trackId": "https://open.spotify.com/track/6mjlbRIgMTf2nqY0kq1rOJ"
+    },
+    {
+      "song": "Dreams",
+      "artist": "Fleetwood Mac",
+      "trackId": "https://open.spotify.com/track/4PDoN9kwjj7LXliXzEj2Ne"
+    },
+    {
+      "song": "Got To Give It Up (Pt. I)",
+      "artist": "Marvin Gaye",
+      "trackId": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
+    },
+    {
+      "song": "Gonna Fly Now",
+      "artist": "Bill Conti",
+      "trackId": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs"
+    },
+    {
+      "song": "Undercover Angel",
+      "artist": "Alan O'Day",
+      "trackId": "https://open.spotify.com/track/5oGKB8ILJZB5m5Pkz1x5Rg"
+    },
+    {
+      "song": "Da Doo Ron Ron",
+      "artist": "Shaun Cassidy",
+      "trackId": "https://open.spotify.com/track/4V33luJnU5U54NPUIW1Ra3"
+    },
+    {
+      "song": "Looks Like We Made It",
+      "artist": "Barry Manilow",
+      "trackId": "https://open.spotify.com/track/3QqO9FxVrikwo7kS5ls3kQ"
+    },
+    {
+      "song": "I Just Want To Be Your Everything",
+      "artist": "Andy Gibb",
+      "trackId": "https://open.spotify.com/track/5EdlwzcgIAYs2HGvOnczPN"
+    },
+    {
+      "song": "Best Of My Love",
+      "artist": "The Emotions",
+      "trackId": "https://open.spotify.com/track/5U2UT25lVVeObiDLzyg6ZZ"
+    },
+    {
+      "song": "Star Wars Theme/Cantina Band",
+      "artist": "Meco",
+      "trackId": "https://open.spotify.com/track/4MVA30NmvNtpbDon1ZG7mk"
+    },
+    {
+      "song": "You Light Up My Life",
+      "artist": "Debby Boone",
+      "trackId": "https://open.spotify.com/track/3dFR132gzO8jxD57R2gid3"
+    },
+    {
+      "song": "How Deep Is Your Love",
+      "artist": "Bee Gees",
+      "trackId": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
+    },
+    {
+      "song": "Baby Come Back",
+      "artist": "Player",
+      "trackId": "https://open.spotify.com/track/1c0JRFCkPdKUW9P6C1Yjvk"
+    },
+    {
+      "song": "Stayin' Alive",
+      "artist": "Bee Gees",
+      "trackId": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
+    },
+    {
+      "song": "(Love Is) Thicker Than Water",
+      "artist": "Andy Gibb",
+      "trackId": "https://open.spotify.com/track/30WuNDy3PwqaBKoIjSwQtf"
+    },
+    {
+      "song": "Night Fever",
+      "artist": "Bee Gees",
+      "trackId": "https://open.spotify.com/track/4wwRROf47MXBX5u5Knwixx"
+    },
+    {
+      "song": "If I Can't Have You",
+      "artist": "Yvonne Elliman",
+      "trackId": "https://open.spotify.com/track/6GQLHDE3YwtVUdDcMv8xwf"
+    },
+    {
+      "song": "With A Little Luck",
+      "artist": "Wings",
+      "trackId": "https://open.spotify.com/track/17Xxp5dtS4GmdGjNZNb5Gk"
+    },
+    {
+      "song": "Too Much, Too Little, Too Late",
+      "artist": "Johnny Mathis/Deniece Williams",
+      "trackId": "https://open.spotify.com/track/3bKTv2yYUaFEIh2hEnnAI4"
+    },
+    {
+      "song": "You're The One That I Want",
+      "artist": "John Travolta & Olivia Newton-John",
+      "trackId": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
+    },
+    {
+      "song": "Shadow Dancing",
+      "artist": "Andy Gibb",
+      "trackId": "https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0"
+    },
+    {
+      "song": "Miss You",
+      "artist": "The Rolling Stones",
+      "trackId": "https://open.spotify.com/track/5FY42U0tmNUDLFYGkFfMLc"
+    },
+    {
+      "song": "Three Times A Lady",
+      "artist": "Commodores",
+      "trackId": "https://open.spotify.com/track/0nMqyQOX0Jd9g2hvKV4BY3"
+    },
+    {
+      "song": "Grease",
+      "artist": "Frankie Valli",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Boogie Oogie Oogie",
+      "artist": "A Taste Of Honey",
+      "trackId": "https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo"
+    },
+    {
+      "song": "Kiss You All Over",
+      "artist": "Exile",
+      "trackId": "https://open.spotify.com/track/6WSsI73AMcyxnbo6GgCpub"
+    },
+    {
+      "song": "Hot Child In The City",
+      "artist": "Nick Gilder",
+      "trackId": "https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ"
+    },
+    {
+      "song": "You Needed Me",
+      "artist": "Anne Murray",
+      "trackId": "https://open.spotify.com/track/0F6gjqx9VWjrRopXmuaIRn"
+    },
+    {
+      "song": "MacArthur Park",
+      "artist": "Donna Summer",
+      "trackId": "https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0"
+    },
+    {
+      "song": "You Don't Bring Me Flowers",
+      "artist": "Barbra Streisand & Neil Diamond",
+      "trackId": "https://open.spotify.com/track/7qmqeHzgNQTOnl1NUgRFO4"
+    },
+    {
+      "song": "Le Freak",
+      "artist": "Chic",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Too Much Heaven",
+      "artist": "Bee Gees",
+      "trackId": "https://open.spotify.com/track/6T5GTy1l6dRmagqpNPjdoc"
+    },
+    {
+      "song": "Da Ya Think I'm Sexy?",
+      "artist": "Rod Stewart",
+      "trackId": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f"
+    },
+    {
+      "song": "I Will Survive",
+      "artist": "Gloria Gaynor",
+      "trackId": "https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX"
+    },
+    {
+      "song": "Tragedy",
+      "artist": "Bee Gees",
+      "trackId": "https://open.spotify.com/track/29gelu2enuB2yE7u6EGNdc"
+    },
+    {
+      "song": "What A Fool Believes",
+      "artist": "The Doobie Brothers",
+      "trackId": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
+    },
+    {
+      "song": "Knock On Wood",
+      "artist": "Amii Stewart",
+      "trackId": "https://open.spotify.com/track/61Nhptc9iZmp39GRRZnrvW"
+    },
+    {
+      "song": "Heart Of Glass",
+      "artist": "Blondie",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Reunited",
+      "artist": "Peaches & Herb",
+      "trackId": "https://open.spotify.com/track/7fmb7MH5jcRsDR7g4RTSma"
+    },
+    {
+      "song": "Hot Stuff",
+      "artist": "Donna Summer",
+      "trackId": "https://open.spotify.com/track/6kzP50E3nRuuLjtU5Qp56m"
+    },
+    {
+      "song": "Love You Inside Out",
+      "artist": "Bee Gees",
+      "trackId": "https://open.spotify.com/track/1m6tRa0wQWHMlAWyDmkBjf"
+    },
+    {
+      "song": "Ring My Bell",
+      "artist": "Anita Ward",
+      "trackId": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
+    },
+    {
+      "song": "Bad Girls",
+      "artist": "Donna Summer",
+      "trackId": "https://open.spotify.com/track/3V4WB8F8Bq21pIISRRGtXT"
+    },
+    {
+      "song": "Good Times",
+      "artist": "Chic",
+      "trackId": "https://open.spotify.com/track/6PGq03CNnUf2HrlQxtOcTS"
+    },
+    {
+      "song": "My Sharona",
+      "artist": "The Knack",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Sad Eyes",
+      "artist": "Robert John",
+      "trackId": "https://open.spotify.com/track/6BSpk93XTt2CJ7gpROG6zU"
+    },
+    {
+      "song": "Don't Stop 'til You Get Enough",
+      "artist": "Michael Jackson",
+      "trackId": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+    },
+    {
+      "song": "Rise",
+      "artist": "Herb Alpert",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Pop Muzik",
+      "artist": "M",
+      "trackId": "https://open.spotify.com/track/4LqROlzt1MvjgzaylD3usZ"
+    },
+    {
+      "song": "Heartache Tonight",
+      "artist": "Eagles",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Still",
+      "artist": "Commodores",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "No More Tears (Enough Is Enough)",
+      "artist": "Barbra Streisand/Donna Summer",
+      "trackId": "https://open.spotify.com/track/1wSPm3y4Lk6ABkVxCmwkZx"
+    },
+    {
+      "song": "Babe",
+      "artist": "Styx",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Escape (The Pina Colada Song)",
+      "artist": "Rupert Holmes",
+      "trackId": "https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"
+    },
+    {
+      "song": "Please Don't Go",
+      "artist": "KC And The Sunshine Band",
+      "trackId": "https://open.spotify.com/track/6dw6BquK0Mv72p6HpusqKN"
+    },
+    {
+      "song": "Rock With You",
+      "artist": "Michael Jackson",
+      "trackId": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
+    },
+    {
+      "song": "Do That To Me One More Time",
+      "artist": "Captain & Tennille",
+      "trackId": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
+    },
+    {
+      "song": "Crazy Little Thing Called Love",
+      "artist": "Queen",
+      "trackId": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
+    },
+    {
+      "song": "Another Brick In The Wall (Part II)",
+      "artist": "Pink Floyd",
+      "trackId": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"
+    },
+    {
+      "song": "Call Me",
+      "artist": "Blondie",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Funkytown",
+      "artist": "Lipps, Inc.",
+      "trackId": "https://open.spotify.com/track/6WaSkbtmn2MA2w3obALUnL"
+    },
+    {
+      "song": "Coming Up (Live At Glasgow)",
+      "artist": "Paul McCartney And Wings",
+      "trackId": "https://open.spotify.com/track/1gQ2I5ZB1dQlVmIBPDhdHv"
+    },
+    {
+      "song": "It's Still Rock And Roll To Me",
+      "artist": "Billy Joel",
+      "trackId": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
+    },
+    {
+      "song": "Magic",
+      "artist": "Olivia Newton-John",
+      "trackId": "https://open.spotify.com/track/2jHHz6VZ3wyVpAEDxMEX2q"
+    },
+    {
+      "song": "Sailing",
+      "artist": "Christopher Cross",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Upside Down",
+      "artist": "Diana Ross",
+      "trackId": "https://open.spotify.com/track/3HnhrVBybVBzp9yEQcAzfC"
+    },
+    {
+      "song": "Another One Bites The Dust",
+      "artist": "Queen",
+      "trackId": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+    },
+    {
+      "song": "Woman In Love",
+      "artist": "Barbra Streisand",
+      "trackId": "https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7"
+    },
+    {
+      "song": "Lady",
+      "artist": "Kenny Rogers",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "(Just Like) Starting Over",
+      "artist": "John Lennon",
+      "trackId": "https://open.spotify.com/track/6KCmJ8VI6VYNRNubSqi0Ck"
+    },
+    {
+      "song": "The Tide Is High",
+      "artist": "Blondie",
+      "trackId": "https://open.spotify.com/track/165NAtd2DRPKNQ6EVY0VG9"
+    },
+    {
+      "song": "Celebration",
+      "artist": "Kool & The Gang",
+      "trackId": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
+    },
+    {
+      "song": "9 To 5",
+      "artist": "Dolly Parton",
+      "trackId": "https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF"
+    },
+    {
+      "song": "I Love A Rainy Night",
+      "artist": "Eddie Rabbitt",
+      "trackId": "https://open.spotify.com/track/0zvNHIL7ci0ZzIoWU6RO2u"
+    },
+    {
+      "song": "Keep On Loving You",
+      "artist": "REO Speedwagon",
+      "trackId": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
+    },
+    {
+      "song": "Rapture",
+      "artist": "Blondie",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Kiss On My List",
+      "artist": "Daryl Hall John Oates",
+      "trackId": "https://open.spotify.com/track/3QDMOnNZKEUrKNniv3LNmz"
+    },
+    {
+      "song": "Morning Train (Nine To Five)",
+      "artist": "Sheena Easton",
+      "trackId": "https://open.spotify.com/track/29GjsSanq56SUHtSwBav3y"
+    },
+    {
+      "song": "Bette Davis Eyes",
+      "artist": "Kim Carnes",
+      "trackId": "https://open.spotify.com/track/6Tpc2GoGC8XpjtRPmwBfLi"
+    },
+    {
+      "song": "Medley",
+      "artist": "Stars On 45",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "The One That You Love",
+      "artist": "Air Supply",
+      "trackId": "https://open.spotify.com/track/3FDAd5vW4P7xe1GBNOLyfD"
+    },
+    {
+      "song": "Jessie's Girl",
+      "artist": "Rick Springfield",
+      "trackId": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
+    },
+    {
+      "song": "Endless Love",
+      "artist": "Diana Ross & Lionel Richie",
+      "trackId": "https://open.spotify.com/track/4lxURgzko5Jizais6YqF3p"
+    },
+    {
+      "song": "Arthur's Theme (Best That You Can Do)",
+      "artist": "Christopher Cross",
+      "trackId": "https://open.spotify.com/track/3ZTuWXlXPVZ3Mg3XA5alk1"
+    },
+    {
+      "song": "Private Eyes",
+      "artist": "Daryl Hall John Oates",
+      "trackId": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
+    },
+    {
+      "song": "Physical",
+      "artist": "Olivia Newton-John",
+      "trackId": "https://open.spotify.com/track/6G86JCfY38ARyupZdEGhuS"
+    },
+    {
+      "song": "I Can't Go For That (No Can Do)",
+      "artist": "Daryl Hall John Oates",
+      "trackId": "https://open.spotify.com/track/539mfW3JF8g9JmXTzbqg4U"
+    },
+    {
+      "song": "Centerfold",
+      "artist": "The J. Geils Band",
+      "trackId": "https://open.spotify.com/track/6LfVnsBt9cgj77XhPcBaSB"
+    },
+    {
+      "song": "I Love Rock 'N Roll",
+      "artist": "Joan Jett & The Blackhearts",
+      "trackId": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
+    },
+    {
+      "song": "Chariots Of Fire - Titles",
+      "artist": "Vangelis",
+      "trackId": "https://open.spotify.com/track/36qn2bFfZzUwM6eIv2XOc9"
+    },
+    {
+      "song": "Ebony And Ivory",
+      "artist": "Paul McCartney And Stevie Wonder",
+      "trackId": "https://open.spotify.com/track/1FYTt8izKA8EMqhULwqOcU"
+    },
+    {
+      "song": "Don't You Want Me",
+      "artist": "The Human League",
+      "trackId": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+    },
+    {
+      "song": "Eye Of The Tiger",
+      "artist": "Survivor",
+      "trackId": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
+    },
+    {
+      "song": "Abracadabra",
+      "artist": "The Steve Miller Band",
+      "trackId": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
+    {
+      "song": "Hard To Say I'm Sorry",
+      "artist": "Chicago",
+      "trackId": "https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0"
+    },
+    {
+      "song": "Jack & Diane",
+      "artist": "John Cougar",
+      "trackId": "https://open.spotify.com/track/0vhle5cdnSADMEScmkYd32"
+    },
+    {
+      "song": "Who Can It Be Now?",
+      "artist": "Men At Work",
+      "trackId": "https://open.spotify.com/track/5R0EDMEBVlExLcofDAYvAD"
+    },
+    {
+      "song": "Up Where We Belong",
+      "artist": "Joe Cocker And Jennifer Warnes",
+      "trackId": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
+    },
+    {
+      "song": "Truly",
+      "artist": "Lionel Richie",
+      "trackId": "https://open.spotify.com/track/3isj0ef4iLOO40XKDaLMJg"
+    },
+    {
+      "song": "Mickey",
+      "artist": "Toni Basil",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Maneater",
+      "artist": "Daryl Hall John Oates",
+      "trackId": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
+    },
+    {
+      "song": "Down Under",
+      "artist": "Men At Work",
+      "trackId": "https://open.spotify.com/track/5R0EDMEBVlExLcofDAYvAD"
+    },
+    {
+      "song": "Africa",
+      "artist": "Toto",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Baby, Come To Me",
+      "artist": "Patti Austin A Duet With James Ingram",
+      "trackId": "https://open.spotify.com/track/566QDbJCiFSCy3yzN9x48r"
+    },
+    {
+      "song": "Billie Jean",
+      "artist": "Michael Jackson",
+      "trackId": "https://open.spotify.com/track/3a7sX4caJfw00aAsvQLaoK"
+    },
+    {
+      "song": "Come On Eileen",
+      "artist": "Dexys Midnight Runners",
+      "trackId": "https://open.spotify.com/track/6nWcEzyxDozQcmxMoNJtYx"
+    },
+    {
+      "song": "Beat It",
+      "artist": "Michael Jackson",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Let's Dance",
+      "artist": "David Bowie",
+      "trackId": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
+    },
+    {
+      "song": "Flashdance...What A Feeling",
+      "artist": "Irene Cara",
+      "trackId": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
+    },
+    {
+      "song": "Every Breath You Take",
+      "artist": "The Police",
+      "trackId": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "song": "Sweet Dreams (Are Made Of This)",
+      "artist": "Eurythmics",
+      "trackId": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
+    },
+    {
+      "song": "Maniac",
+      "artist": "Michael Sembello",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Tell Her About It",
+      "artist": "Billy Joel",
+      "trackId": "https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw"
+    },
+    {
+      "song": "Total Eclipse Of The Heart",
+      "artist": "Bonnie Tyler",
+      "trackId": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
+    },
+    {
+      "song": "Islands In The Stream",
+      "artist": "Kenny Rogers Duet With Dolly Parton",
+      "trackId": "https://open.spotify.com/track/4mnOVRRXsaqg9Nb041xR8u"
+    },
+    {
+      "song": "All Night Long (All Night)",
+      "artist": "Lionel Richie",
+      "trackId": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
+    },
+    {
+      "song": "Say Say Say",
+      "artist": "Paul McCartney And Michael Jackson",
+      "trackId": "https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO"
+    },
+    {
+      "song": "Owner Of A Lonely Heart",
+      "artist": "Yes",
+      "trackId": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
+    },
+    {
+      "song": "Karma Chameleon",
+      "artist": "Culture Club",
+      "trackId": "https://open.spotify.com/track/6BSpk93XTt2CJ7gpROG6zU"
+    },
+    {
+      "song": "Jump",
+      "artist": "Van Halen",
+      "trackId": "https://open.spotify.com/track/6SdQfCiVae1EXK1pQ6b92o"
+    },
+    {
+      "song": "Footloose",
+      "artist": "Kenny Loggins",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Against All Odds (Take A Look At Me Now)",
+      "artist": "Phil Collins",
+      "trackId": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
+    },
+    {
+      "song": "Hello",
+      "artist": "Lionel Richie",
+      "trackId": "https://open.spotify.com/track/3isj0ef4iLOO40XKDaLMJg"
+    },
+    {
+      "song": "Let's Hear It For The Boy",
+      "artist": "Deniece Williams",
+      "trackId": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u"
+    },
+    {
+      "song": "Time After Time",
+      "artist": "Cyndi Lauper",
+      "trackId": "https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"
+    },
+    {
+      "song": "The Reflex",
+      "artist": "Duran Duran",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "When Doves Cry",
+      "artist": "Prince",
+      "trackId": "https://open.spotify.com/track/0lY5HA88PAZkeiOMMQDvxg"
+    },
+    {
+      "song": "Ghostbusters",
+      "artist": "Ray Parker Jr.",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "What's Love Got To Do With It",
+      "artist": "Tina Turner",
+      "trackId": "https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz"
+    },
+    {
+      "song": "Missing You",
+      "artist": "John Waite",
+      "trackId": "https://open.spotify.com/track/3qSTsOPwFTTmCX6mzY0Boh"
+    },
+    {
+      "song": "Let's Go Crazy",
+      "artist": "Prince And The Revolution",
+      "trackId": "https://open.spotify.com/track/6FMIVQPZg9cmMY8hPxAacD"
+    },
+    {
+      "song": "I Just Called To Say I Love You",
+      "artist": "Stevie Wonder",
+      "trackId": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
+    },
+    {
+      "song": "Caribbean Queen (No More Love On The Run)",
+      "artist": "Billy Ocean",
+      "trackId": "https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7"
+    },
+    {
+      "song": "Wake Me Up Before You Go-Go",
+      "artist": "Wham!",
+      "trackId": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
+    },
+    {
+      "song": "Out Of Touch",
+      "artist": "Daryl Hall John Oates",
+      "trackId": "https://open.spotify.com/track/7o67roCVsFiCt7Cf0ZLOJq"
+    },
+    {
+      "song": "Like A Virgin",
+      "artist": "Madonna",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "I Want To Know What Love Is",
+      "artist": "Foreigner",
+      "trackId": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
+    },
+    {
+      "song": "Careless Whisper",
+      "artist": "Wham! Featuring George Michael",
+      "trackId": "https://open.spotify.com/track/5WDLRQ3VCdVrKw0njWe5E5"
+    },
+    {
+      "song": "Can't Fight This Feeling",
+      "artist": "REO Speedwagon",
+      "trackId": "https://open.spotify.com/track/3UoE3IGTF6UUrUs8eM1BBY"
+    },
+    {
+      "song": "One More Night",
+      "artist": "Phil Collins",
+      "trackId": "https://open.spotify.com/track/1MW2BSLEwax5POaIKNepzs"
+    },
+    {
+      "song": "We Are The World",
+      "artist": "USA For Africa",
+      "trackId": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
+    },
+    {
+      "song": "Crazy For You",
+      "artist": "Madonna",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Don't You (Forget About Me)",
+      "artist": "Simple Minds",
+      "trackId": "https://open.spotify.com/track/6yEAAIEHu4GcUFptg5W9kI"
+    },
+    {
+      "song": "Everything She Wants",
+      "artist": "Wham!",
+      "trackId": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
+    },
+    {
+      "song": "Everybody Wants To Rule The World",
+      "artist": "Tears For Fears",
+      "trackId": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+    },
+    {
+      "song": "Heaven",
+      "artist": "Bryan Adams",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Sussudio",
+      "artist": "Phil Collins",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "A View To A Kill",
+      "artist": "Duran Duran",
+      "trackId": "https://open.spotify.com/track/6MJ73FVtqluO6VYF3fvPro"
+    },
+    {
+      "song": "Everytime You Go Away",
+      "artist": "Paul Young",
+      "trackId": "https://open.spotify.com/track/4f2pvyq79054KCShZ9rK9g"
+    },
+    {
+      "song": "Shout",
+      "artist": "Tears For Fears",
+      "trackId": "https://open.spotify.com/track/3oy9CClx1zCGnhzse9AvDu"
+    },
+    {
+      "song": "The Power Of Love",
+      "artist": "Huey Lewis & The News",
+      "trackId": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+    },
+    {
+      "song": "St. Elmo's Fire (Man In Motion)",
+      "artist": "John Parr",
+      "trackId": "https://open.spotify.com/track/1A2PWRltFrX8iB8IP3CUgo"
+    },
+    {
+      "song": "Money For Nothing",
+      "artist": "Dire Straits",
+      "trackId": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
+    },
+    {
+      "song": "Oh Sheila",
+      "artist": "Ready For The World",
+      "trackId": "https://open.spotify.com/track/6iEVEfD4aPxCHsK5hRHEuO"
+    },
+    {
+      "song": "Take On Me",
+      "artist": "a-ha",
+      "trackId": "https://open.spotify.com/track/6R4g0QPItm8snZgUSasHIJ"
+    },
+    {
+      "song": "Saving All My Love For You",
+      "artist": "Whitney Houston",
+      "trackId": "https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG"
+    },
+    {
+      "song": "Part-Time Lover",
+      "artist": "Stevie Wonder",
+      "trackId": "https://open.spotify.com/track/798bKohvGZenetnHsKzUC6"
+    },
+    {
+      "song": "Miami Vice Theme",
+      "artist": "Jan Hammer",
+      "trackId": "https://open.spotify.com/track/5srgpROEtK8KLKQl5FW7Ub"
+    },
+    {
+      "song": "We Built This City",
+      "artist": "Starship",
+      "trackId": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
+    },
+    {
+      "song": "Separate Lives",
+      "artist": "Phil Collins and Marilyn Martin",
+      "trackId": "https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2"
+    },
+    {
+      "song": "Broken Wings",
+      "artist": "Mr. Mister",
+      "trackId": "https://open.spotify.com/track/26ymqbZ16gUXBVhx5gspDg"
+    },
+    {
+      "song": "Say You, Say Me",
+      "artist": "Lionel Richie",
+      "trackId": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
+    },
+    {
+      "song": "That's What Friends Are For",
+      "artist": "Dionne & Friends Featuring Elton John, Gladys Knight And Stevie Wonder",
+      "trackId": "https://open.spotify.com/track/1OzrlK57iLTIjmbZC1ppWM"
+    },
+    {
+      "song": "How Will I Know",
+      "artist": "Whitney Houston",
+      "trackId": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+    },
+    {
+      "song": "Kyrie",
+      "artist": "Mr. Mister",
+      "trackId": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
+    },
+    {
+      "song": "Sara",
+      "artist": "Starship",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "These Dreams",
+      "artist": "Heart",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Rock Me Amadeus",
+      "artist": "Falco",
+      "trackId": "https://open.spotify.com/track/0BCVDMgLP8biSDuu0y8EvC"
+    },
+    {
+      "song": "Kiss",
+      "artist": "Prince And The Revolution",
+      "trackId": "https://open.spotify.com/track/6AfJeduOOr2L2eywRwRg1n"
+    },
+    {
+      "song": "Addicted To Love",
+      "artist": "Robert Palmer",
+      "trackId": "https://open.spotify.com/track/1xBZEEpCBic1hVpRiIEL5Q"
+    },
+    {
+      "song": "West End Girls",
+      "artist": "Pet Shop Boys",
+      "trackId": "https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7"
+    },
+    {
+      "song": "Greatest Love Of All",
+      "artist": "Whitney Houston",
+      "trackId": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
+    },
+    {
+      "song": "Live To Tell",
+      "artist": "Madonna",
+      "trackId": "https://open.spotify.com/track/0BCVDMgLP8biSDuu0y8EvC"
+    },
+    {
+      "song": "On My Own",
+      "artist": "Patti LaBelle & Michael McDonald",
+      "trackId": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
+    },
+    {
+      "song": "There'll Be Sad Songs (To Make You Cry)",
+      "artist": "Billy Ocean",
+      "trackId": "https://open.spotify.com/track/06r2yQOiQYB1Ra4KYEdskL"
+    },
+    {
+      "song": "Holding Back The Years",
+      "artist": "Simply Red",
+      "trackId": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
+    },
+    {
+      "song": "Invisible Touch",
+      "artist": "Genesis",
+      "trackId": "https://open.spotify.com/track/4nbs8cT5xWhyZnmQwb4KC9"
+    },
+    {
+      "song": "Sledgehammer",
+      "artist": "Peter Gabriel",
+      "trackId": "https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0"
+    },
+    {
+      "song": "Glory Of Love (Theme From \"The Karate Kid Part II\")",
+      "artist": "Peter Cetera",
+      "trackId": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "song": "Papa Don't Preach",
+      "artist": "Madonna",
+      "trackId": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
+    },
+    {
+      "song": "Higher Love",
+      "artist": "Steve Winwood",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Venus",
+      "artist": "Bananarama",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Take My Breath Away (Love Theme From \"Top Gun\")",
+      "artist": "Berlin",
+      "trackId": "https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY"
+    },
+    {
+      "song": "Stuck With You",
+      "artist": "Huey Lewis & The News",
+      "trackId": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+    },
+    {
+      "song": "When I Think Of You",
+      "artist": "Janet Jackson",
+      "trackId": "https://open.spotify.com/track/3mJ6pNcFM2CkykCYSREdKT"
+    },
+    {
+      "song": "True Colors",
+      "artist": "Cyndi Lauper",
+      "trackId": "https://open.spotify.com/track/3oy9CClx1zCGnhzse9AvDu"
+    },
+    {
+      "song": "Amanda",
+      "artist": "Boston",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Human",
+      "artist": "The Human League",
+      "trackId": "https://open.spotify.com/track/4XqXtIMbOuTeE5exbLo11c"
+    },
+    {
+      "song": "You Give Love A Bad Name",
+      "artist": "Bon Jovi",
+      "trackId": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+    },
+    {
+      "song": "The Next Time I Fall",
+      "artist": "Peter Cetera With Amy Grant",
+      "trackId": "https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x"
+    },
+    {
+      "song": "The Way It Is",
+      "artist": "Bruce Hornsby & The Range",
+      "trackId": "https://open.spotify.com/track/7emkzBYuPK1MOJKRu9ZzIK"
+    },
+    {
+      "song": "Walk Like An Egyptian",
+      "artist": "The Bangles",
+      "trackId": "https://open.spotify.com/track/1Jwc3ODLQxtbnS8M9TflSP"
+    },
+    {
+      "song": "Shake You Down",
+      "artist": "Gregory Abbott",
+      "trackId": "https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh"
+    },
+    {
+      "song": "At This Moment",
+      "artist": "Billy Vera & The Beaters",
+      "trackId": "https://open.spotify.com/track/1kGb78PHGlylL7s9Nw79Si"
+    },
+    {
+      "song": "Open Your Heart",
+      "artist": "Madonna",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Livin' On A Prayer",
+      "artist": "Bon Jovi",
+      "trackId": "https://open.spotify.com/track/0ee1DiZF94NSqqpG0XHUzH"
+    },
+    {
+      "song": "Jacob's Ladder",
+      "artist": "Huey Lewis & The News",
+      "trackId": "https://open.spotify.com/track/2yWf3FJLwB0ytfOpgqLoa2"
+    },
+    {
+      "song": "Lean On Me",
+      "artist": "Club Nouveau",
+      "trackId": "https://open.spotify.com/track/0eFqPUbuiobmOEiotEFxGy"
+    },
+    {
+      "song": "Nothing's Gonna Stop Us Now",
+      "artist": "Starship",
+      "trackId": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
+    },
+    {
+      "song": "I Knew You Were Waiting (For Me)",
+      "artist": "Aretha Franklin & George Michael",
+      "trackId": "https://open.spotify.com/track/2gJDyiRxxIglLXp545SPVL"
+    },
+    {
+      "song": "(I Just) Died In Your Arms",
+      "artist": "Cutting Crew",
+      "trackId": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
+    },
+    {
+      "song": "With Or Without You",
+      "artist": "U2",
+      "trackId": "https://open.spotify.com/track/5bQDapqPmoCukx6ZgO4T1b"
+    },
+    {
+      "song": "You Keep Me Hangin' On",
+      "artist": "Kim Wilde",
+      "trackId": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
+    },
+    {
+      "song": "Always",
+      "artist": "Atlantic Starr",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Head To Toe",
+      "artist": "Lisa Lisa And Cult Jam",
+      "trackId": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
+    },
+    {
+      "song": "I Wanna Dance With Somebody (Who Loves Me)",
+      "artist": "Whitney Houston",
+      "trackId": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "song": "Alone",
+      "artist": "Heart",
+      "trackId": "https://open.spotify.com/track/4nbs8cT5xWhyZnmQwb4KC9"
+    },
+    {
+      "song": "Shakedown (From \"Beverly Hills Cop II\")",
+      "artist": "Bob Seger",
+      "trackId": "https://open.spotify.com/track/2RntB9CIH538H6QXWTz2C3"
+    },
+    {
+      "song": "I Still Haven't Found What I'm Looking For",
+      "artist": "U2",
+      "trackId": "https://open.spotify.com/track/1VViOwNoUfimwsy3wlk7d8"
+    },
+    {
+      "song": "Who's That Girl",
+      "artist": "Madonna",
+      "trackId": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
+    },
+    {
+      "song": "La Bamba",
+      "artist": "Los Lobos",
+      "trackId": "https://open.spotify.com/track/6GuelNAuRb9u5O8l950pPw"
+    },
+    {
+      "song": "I Just Can't Stop Loving You",
+      "artist": "Michael Jackson With Siedah Garrett",
+      "trackId": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
+    },
+    {
+      "song": "Didn't We Almost Have It All",
+      "artist": "Whitney Houston",
+      "trackId": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
+    },
+    {
+      "song": "Here I Go Again",
+      "artist": "Whitesnake",
+      "trackId": "https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc"
+    },
+    {
+      "song": "Lost In Emotion",
+      "artist": "Lisa Lisa And Cult Jam",
+      "trackId": "https://open.spotify.com/track/5L1WlHtj15TtsDNlUjdMNy"
+    },
+    {
+      "song": "Bad",
+      "artist": "Michael Jackson",
+      "trackId": "https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe"
+    },
+    {
+      "song": "I Think We're Alone Now",
+      "artist": "Tiffany",
+      "trackId": "https://open.spotify.com/track/2OYqYJrEBxUGYlo1NYVGqy"
+    },
+    {
+      "song": "Mony Mony",
+      "artist": "Billy Idol",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "(I've Had) The Time Of My Life",
+      "artist": "Bill Medley & Jennifer Warnes",
+      "trackId": "https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB"
+    },
+    {
+      "song": "Heaven Is A Place On Earth",
+      "artist": "Belinda Carlisle",
+      "trackId": "https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g"
+    },
+    {
+      "song": "Faith",
+      "artist": "George Michael",
+      "trackId": "https://open.spotify.com/track/0g676rSOGgNJqMSXr4Ezoi"
+    },
+    {
+      "song": "So Emotional",
+      "artist": "Whitney Houston",
+      "trackId": "https://open.spotify.com/track/4leElP8rJ1UrVIPsdQpbDu"
+    },
+    {
+      "song": "Got My Mind Set On You",
+      "artist": "George Harrison",
+      "trackId": "https://open.spotify.com/track/4wswaG5vmNINMZcVBsAyBP"
+    },
+    {
+      "song": "The Way You Make Me Feel",
+      "artist": "Michael Jackson",
+      "trackId": "https://open.spotify.com/track/76HKOVWqsEg26SECtmw7Rz"
+    },
+    {
+      "song": "Need You Tonight",
+      "artist": "INXS",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Could've Been",
+      "artist": "Tiffany",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Seasons Change",
+      "artist": "Expose",
+      "trackId": "https://open.spotify.com/track/5x8IXmDXTjvofZ0yXoZoCr"
+    },
+    {
+      "song": "Father Figure",
+      "artist": "George Michael",
+      "trackId": "https://open.spotify.com/track/5TnGSsXSayYEgpjFme7tlm"
+    },
+    {
+      "song": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "trackId": "https://open.spotify.com/track/3m6994vN2lbHNMS7NyhXbC"
+    },
+    {
+      "song": "Man In The Mirror",
+      "artist": "Michael Jackson",
+      "trackId": "https://open.spotify.com/track/1kiNatIrwDusOZfR29W0LJ"
+    },
+    {
+      "song": "Get Outta My Dreams, Get Into My Car",
+      "artist": "Billy Ocean",
+      "trackId": "https://open.spotify.com/track/2D4D3hiOf5U0W6SvJoCQph"
+    },
+    {
+      "song": "Where Do Broken Hearts Go",
+      "artist": "Whitney Houston",
+      "trackId": "https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T"
+    },
+    {
+      "song": "Wishing Well",
+      "artist": "Terence Trent D'Arby",
+      "trackId": "https://open.spotify.com/track/2bvzxeD1hPWEYotw40Euq9"
+    },
+    {
+      "song": "Anything For You",
+      "artist": "Gloria Estefan & Miami Sound Machine",
+      "trackId": "https://open.spotify.com/track/1dDHyWQwUZSS2FVY7I6Ezp"
+    },
+    {
+      "song": "One More Try",
+      "artist": "George Michael",
+      "trackId": "https://open.spotify.com/track/3KIHBj6JUxJqIfDWRz9XQ9"
+    },
+    {
+      "song": "Together Forever",
+      "artist": "Rick Astley",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Foolish Beat",
+      "artist": "Debbie Gibson",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Dirty Diana",
+      "artist": "Michael Jackson",
+      "trackId": "https://open.spotify.com/track/2sslt79Mt6xtu8nspYgIcB"
+    },
+    {
+      "song": "The Flame",
+      "artist": "Cheap Trick",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Hold On To The Nights",
+      "artist": "Richard Marx",
+      "trackId": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
+    },
+    {
+      "song": "Roll With It",
+      "artist": "Steve Winwood",
+      "trackId": "https://open.spotify.com/track/2QlPByrmEO9XciNBXCrawR"
+    },
+    {
+      "song": "Monkey",
+      "artist": "George Michael",
+      "trackId": "https://open.spotify.com/track/0nZ0I4NnbeUN6pSC13wbJ3"
+    },
+    {
+      "song": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "trackId": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
+    },
+    {
+      "song": "Don't Worry, Be Happy (From \"Cocktail\")",
+      "artist": "Bobby McFerrin",
+      "trackId": "https://open.spotify.com/track/6WQFL3SRK8eHviCbX6D7xK"
+    },
+    {
+      "song": "Love Bites",
+      "artist": "Def Leppard",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Red Red Wine",
+      "artist": "UB40",
+      "trackId": "https://open.spotify.com/track/0EgUGqV7o7zZ9gyTIA1O18"
+    },
+    {
+      "song": "Groovy Kind Of Love",
+      "artist": "Phil Collins",
+      "trackId": "https://open.spotify.com/track/3BSi5qoJGLab7rn7zfmTPA"
+    },
+    {
+      "song": "Kokomo (From\"Cocktail\" )",
+      "artist": "The Beach Boys",
+      "trackId": "https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN"
+    },
+    {
+      "song": "Wild, Wild West",
+      "artist": "The Escape Club",
+      "trackId": "https://open.spotify.com/track/6QOvAtsKS1sJ55B672TWSr"
+    },
+    {
+      "song": "Bad Medicine",
+      "artist": "Bon Jovi",
+      "trackId": "https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo"
+    },
+    {
+      "song": "Baby, I Love Your Way/Freebird Medley",
+      "artist": "Will To Power",
+      "trackId": "https://open.spotify.com/track/7zMMs6D2XAx1kPlM2ibFc8"
+    },
+    {
+      "song": "Look Away",
+      "artist": "Chicago",
+      "trackId": "https://open.spotify.com/track/5uYATouB1GLlbCJttOA64g"
+    },
+    {
+      "song": "Every Rose Has Its Thorn",
+      "artist": "Poison",
+      "trackId": "https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY"
+    },
+    {
+      "song": "My Prerogative",
+      "artist": "Bobby Brown",
+      "trackId": "https://open.spotify.com/track/2Fp9eLSTN2qTVTghmy6wom"
+    },
+    {
+      "song": "Two Hearts",
+      "artist": "Phil Collins",
+      "trackId": "https://open.spotify.com/track/1sAhbeqf2NoMXoEA4rFZqo"
+    },
+    {
+      "song": "When I'm With You",
+      "artist": "Sheriff",
+      "trackId": "https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O"
+    },
+    {
+      "song": "Straight Up",
+      "artist": "Paula Abdul",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Lost In Your Eyes",
+      "artist": "Debbie Gibson",
+      "trackId": "https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9"
+    },
+    {
+      "song": "The Living Years",
+      "artist": "Mike + The Mechanics",
+      "trackId": "https://open.spotify.com/track/5KnTfINZimBcMmBOwKCe1n"
+    },
+    {
+      "song": "Eternal Flame",
+      "artist": "The Bangles",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "The Look",
+      "artist": "Roxette",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "She Drives Me Crazy",
+      "artist": "Fine Young Cannibals",
+      "trackId": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
+    },
+    {
+      "song": "Like A Prayer",
+      "artist": "Madonna",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "I'll Be There For You",
+      "artist": "Bon Jovi",
+      "trackId": "https://open.spotify.com/track/07HqIg8BnB1lJElnw2ZiSR"
+    },
+    {
+      "song": "Forever Your Girl",
+      "artist": "Paula Abdul",
+      "trackId": "https://open.spotify.com/track/1ufxyeu8aGwTLEUGubcoNL"
+    },
+    {
+      "song": "Rock On (From \"Dream A Little Dream\")",
+      "artist": "Michael Damian",
+      "trackId": "https://open.spotify.com/track/0uSSsyEGRxBil4aLt7fUdw"
+    },
+    {
+      "song": "Wind Beneath My Wings (From \"Beaches\")",
+      "artist": "Bette Midler",
+      "trackId": "https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU"
+    },
+    {
+      "song": "I'll Be Loving You (Forever)",
+      "artist": "New Kids On The Block",
+      "trackId": "https://open.spotify.com/track/1cy5US2dffz6QGBAIzOGkq"
+    },
+    {
+      "song": "Satisfied",
+      "artist": "Richard Marx",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Baby Don't Forget My Number",
+      "artist": "Milli Vanilli",
+      "trackId": "https://open.spotify.com/track/2NHZNjTa2L3IJ2v45JUk2m"
+    },
+    {
+      "song": "Good Thing",
+      "artist": "Fine Young Cannibals",
+      "trackId": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
+    },
+    {
+      "song": "If You Don't Know Me By Now",
+      "artist": "Simply Red",
+      "trackId": "https://open.spotify.com/track/5QJSD5GQOq72OmwLV5IHUV"
+    },
+    {
+      "song": "Toy Soldiers",
+      "artist": "Martika",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Batdance (From \"Batman\")",
+      "artist": "Prince",
+      "trackId": "https://open.spotify.com/track/4DbUk1qwcz9KKcUY4t8f8u"
+    },
+    {
+      "song": "Right Here Waiting",
+      "artist": "Richard Marx",
+      "trackId": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
+    },
+    {
+      "song": "Cold Hearted",
+      "artist": "Paula Abdul",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Hangin' Tough",
+      "artist": "New Kids On The Block",
+      "trackId": "https://open.spotify.com/track/5tTGUzm5CeeKqoa9MQ7qE9"
+    },
+    {
+      "song": "Don't Wanna Lose You",
+      "artist": "Gloria Estefan",
+      "trackId": "https://open.spotify.com/track/4tEpvocDTdNVR9DYxnJTFy"
+    },
+    {
+      "song": "Girl I'm Gonna Miss You",
+      "artist": "Milli Vanilli",
+      "trackId": "https://open.spotify.com/track/122vb6LtwACmfBIWpwmN1w"
+    },
+    {
+      "song": "Miss You Much",
+      "artist": "Janet Jackson",
+      "trackId": "https://open.spotify.com/track/69ll2dkaMkJYpiyZRpw2Yk"
+    },
+    {
+      "song": "Listen To Your Heart",
+      "artist": "Roxette",
+      "trackId": "https://open.spotify.com/track/0sq0ZrRh5vUKaVZrvmReuw"
+    },
+    {
+      "song": "When I See You Smile",
+      "artist": "Bad English",
+      "trackId": "https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh"
+    },
+    {
+      "song": "Blame It On The Rain",
+      "artist": "Milli Vanilli",
+      "trackId": "https://open.spotify.com/track/5ReqKJslVMTo52XRUaVcRq"
+    },
+    {
+      "song": "We Didn't Start The Fire",
+      "artist": "Billy Joel",
+      "trackId": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
+    },
+    {
+      "song": "Another Day In Paradise",
+      "artist": "Phil Collins",
+      "trackId": "https://open.spotify.com/track/5ZaDUleherOLBbHk2PU1Kr"
+    },
+    {
+      "song": "How Am I Supposed To Live Without You",
+      "artist": "Michael Bolton",
+      "trackId": "https://open.spotify.com/track/6uiQnZRvSNVzTK5PA6ZB8h"
+    },
+    {
+      "song": "Opposites Attract",
+      "artist": "Paula Abdul (Duet With The Wild Pair)",
+      "trackId": "https://open.spotify.com/track/7z38bideBRvGAgjXe2SECm"
+    },
+    {
+      "song": "Escapade",
+      "artist": "Janet Jackson",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Black Velvet",
+      "artist": "Alannah Myles",
+      "trackId": "https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF"
+    },
+    {
+      "song": "Love Will Lead You Back",
+      "artist": "Taylor Dayne",
+      "trackId": "https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F"
+    },
+    {
+      "song": "I'll Be Your Everything",
+      "artist": "Tommy Page",
+      "trackId": "https://open.spotify.com/track/7BtKCoeqtKsuaYHiEXc5Bl"
+    },
+    {
+      "song": "Nothing Compares 2 U",
+      "artist": "Sinead O'Connor",
+      "trackId": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
+    },
+    {
+      "song": "Vogue",
+      "artist": "Madonna",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Hold On",
+      "artist": "Wilson Phillips",
+      "trackId": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
+    },
+    {
+      "song": "It Must Have Been Love (From \"Pretty Woman\")",
+      "artist": "Roxette",
+      "trackId": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
+    },
+    {
+      "song": "Step By Step",
+      "artist": "New Kids On The Block",
+      "trackId": "https://open.spotify.com/track/4UOGVic7gpeleedIbYhrBf"
+    },
+    {
+      "song": "She Ain't Worth It",
+      "artist": "Glenn Medeiros Featuring Bobby Brown",
+      "trackId": "https://open.spotify.com/track/5EyvPgIywchbSPtcJ0V0z4"
+    },
+    {
+      "song": "Vision Of Love",
+      "artist": "Mariah Carey",
+      "trackId": "https://open.spotify.com/track/5uPSeb4yv9VzTT5JonEgeH"
+    },
+    {
+      "song": "If Wishes Came True",
+      "artist": "Sweet Sensation",
+      "trackId": "https://open.spotify.com/track/0NInmbZliZg9hCrw5HgDuf"
+    },
+    {
+      "song": "Blaze Of Glory (From \"Young Guns II\")",
+      "artist": "Jon Bon Jovi",
+      "trackId": "https://open.spotify.com/track/1sUTfgduT0WIQO8kXKXxLC"
+    },
+    {
+      "song": "Release Me",
+      "artist": "Wilson Phillips",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "(Can't Live Without Your) Love And Affection",
+      "artist": "Nelson",
+      "trackId": "https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj"
+    },
+    {
+      "song": "Close To You",
+      "artist": "Maxi Priest",
+      "trackId": "https://open.spotify.com/track/3TIunSeEdSK5wqXKpV30Pc"
+    },
+    {
+      "song": "Praying For Time",
+      "artist": "George Michael",
+      "trackId": "https://open.spotify.com/track/4KaIJ1FWXUoAAnOts1YWjD"
+    },
+    {
+      "song": "I Don't Have The Heart",
+      "artist": "James Ingram",
+      "trackId": "https://open.spotify.com/track/7Bj3nz8syLvpMFi3Ojk40v"
+    },
+    {
+      "song": "Black Cat",
+      "artist": "Janet Jackson",
+      "trackId": "https://open.spotify.com/track/16lpoOaoZPRsMEDyMKQrMr"
+    },
+    {
+      "song": "Ice Ice Baby",
+      "artist": "Vanilla Ice",
+      "trackId": "https://open.spotify.com/track/4kmFZr9QTeZDoApRr2yOsw"
+    },
+    {
+      "song": "Love Takes Time",
+      "artist": "Mariah Carey",
+      "trackId": "https://open.spotify.com/track/3VP3yYNXSGWi4NAZqIJnFG"
+    },
+    {
+      "song": "I'm Your Baby Tonight",
+      "artist": "Whitney Houston",
+      "trackId": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
+    },
+    {
+      "song": "Because I Love You (The Postman Song)",
+      "artist": "Stevie B",
+      "trackId": "https://open.spotify.com/track/4MRLHr9eXjn8J7JbCEJ7Cy"
+    },
+    {
+      "song": "Justify My Love",
+      "artist": "Madonna",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Love Will Never Do (Without You)",
+      "artist": "Janet Jackson",
+      "trackId": "https://open.spotify.com/track/1SkJ8HjZUZRPYT3R2rh5sA"
+    },
+    {
+      "song": "The First Time",
+      "artist": "Surface",
+      "trackId": "https://open.spotify.com/track/4LCzEYKPFcd2FCOmZdVDnM"
+    },
+    {
+      "song": "Gonna Make You Sweat (Everybody Dance Now)",
+      "artist": "C+C Music Factory",
+      "trackId": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
+    },
+    {
+      "song": "All The Man That I Need",
+      "artist": "Whitney Houston",
+      "trackId": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+    },
+    {
+      "song": "Someday",
+      "artist": "Mariah Carey",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "One More Try",
+      "artist": "Timmy T.",
+      "trackId": "https://open.spotify.com/track/5Pf4hNsNZMHjuKTTwsJuYK"
+    },
+    {
+      "song": "Coming Out Of The Dark",
+      "artist": "Gloria Estefan",
+      "trackId": "https://open.spotify.com/track/4azjLBXc01eV71XbVDYUKO"
+    },
+    {
+      "song": "I've Been Thinking About You",
+      "artist": "Londonbeat",
+      "trackId": "https://open.spotify.com/track/02KLiEs31kxh1krQJezlTL"
+    },
+    {
+      "song": "You're In Love",
+      "artist": "Wilson Phillips",
+      "trackId": "https://open.spotify.com/track/4ni8xGjSmfgTg4GO7RkWde"
+    },
+    {
+      "song": "Baby Baby",
+      "artist": "Amy Grant",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Joyride",
+      "artist": "Roxette",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "I Like The Way (The Kissing Game)",
+      "artist": "Hi-Five",
+      "trackId": "https://open.spotify.com/track/0flZtKtmkZMNqFF7V7Yfmu"
+    },
+    {
+      "song": "I Don't Wanna Cry",
+      "artist": "Mariah Carey",
+      "trackId": "https://open.spotify.com/track/5YVmVthPhqjBUrqB2Rp5di"
+    },
+    {
+      "song": "More Than Words",
+      "artist": "Extreme",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Rush Rush",
+      "artist": "Paula Abdul",
+      "trackId": "https://open.spotify.com/track/3fyHsXImY24Yxf2YRYOG65"
+    },
+    {
+      "song": "Unbelievable",
+      "artist": "EMF",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "(Everything I Do) I Do It For You",
+      "artist": "Bryan Adams",
+      "trackId": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
+    },
+    {
+      "song": "The Promise Of A New Day",
+      "artist": "Paula Abdul",
+      "trackId": "https://open.spotify.com/track/1ufxyeu8aGwTLEUGubcoNL"
+    },
+    {
+      "song": "I Adore Mi Amor",
+      "artist": "Color Me Badd",
+      "trackId": "https://open.spotify.com/track/05R2lE5g9hnaSmxIrUl3C0"
+    },
+    {
+      "song": "Good Vibrations",
+      "artist": "Marky Mark & The Funky Bunch Featuring Loleatta Holloway",
+      "trackId": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9"
+    },
+    {
+      "song": "Emotions",
+      "artist": "Mariah Carey",
+      "trackId": "https://open.spotify.com/track/1vd6RAAMj6SZyXFKtsW2jl"
+    },
+    {
+      "song": "Romantic",
+      "artist": "Karyn White",
+      "trackId": "https://open.spotify.com/track/0HghMOZJwXx4pOhQ0FmQ20"
+    },
+    {
+      "song": "Cream",
+      "artist": "Prince And The N.P.G.",
+      "trackId": "https://open.spotify.com/track/62xhoVsuanaguxxwyqY7nI"
+    },
+    {
+      "song": "When A Man Loves A Woman",
+      "artist": "Michael Bolton",
+      "trackId": "https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl"
+    },
+    {
+      "song": "Set Adrift On Memory Bliss",
+      "artist": "P.M. Dawn",
+      "trackId": "https://open.spotify.com/track/50K6O6JwJzpzkfq9j4yMQk"
+    },
+    {
+      "song": "Black Or White",
+      "artist": "Michael Jackson",
+      "trackId": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
+    },
+    {
+      "song": "All 4 Love",
+      "artist": "Color Me Badd",
+      "trackId": "https://open.spotify.com/track/1RDOW4HrSrLgOB4SqSCfup"
+    },
+    {
+      "song": "Don't Let The Sun Go Down On Me",
+      "artist": "George Michael/Elton John",
+      "trackId": "https://open.spotify.com/track/6Zkulfbv0ebe7tukkftvd1"
+    },
+    {
+      "song": "I'm Too Sexy",
+      "artist": "Right Said Fred",
+      "trackId": "https://open.spotify.com/track/1MQrMQwfqjgOjXEUaN9AMd"
+    },
+    {
+      "song": "To Be With You",
+      "artist": "Mr. Big",
+      "trackId": "https://open.spotify.com/track/3bP47tw8MOgtrwdO1iahVl"
+    },
+    {
+      "song": "Save The Best For Last",
+      "artist": "Vanessa Williams",
+      "trackId": "https://open.spotify.com/track/4yRUjOBsj0cpjabtum0fML"
+    },
+    {
+      "song": "Jump",
+      "artist": "Kris Kross",
+      "trackId": "https://open.spotify.com/track/3GsS8jzoixpCnp4jDWCEvb"
+    },
+    {
+      "song": "I'll Be There",
+      "artist": "Mariah Carey",
+      "trackId": "https://open.spotify.com/track/5YVmVthPhqjBUrqB2Rp5di"
+    },
+    {
+      "song": "Baby Got Back",
+      "artist": "Sir Mix-A-Lot",
+      "trackId": "https://open.spotify.com/track/2vHzLVODw6jgIRzMpBB0Cs"
+    },
+    {
+      "song": "This Used To Be My Playground",
+      "artist": "Madonna",
+      "trackId": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
+    },
+    {
+      "song": "End Of The Road (From \"Boomerang\")",
+      "artist": "Boyz II Men",
+      "trackId": "https://open.spotify.com/track/5SZHsDhq6Nx5ozb8mLF5hu"
+    },
+    {
+      "song": "How Do You Talk To An Angel",
+      "artist": "The Heights",
+      "trackId": "https://open.spotify.com/track/0SY2MvlKGm9ef2qF0VTgJW"
+    },
+    {
+      "song": "I Will Always Love You",
+      "artist": "Whitney Houston",
+      "trackId": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
+    },
+    {
+      "song": "A Whole New World (Aladdin's Theme)",
+      "artist": "Peabo Bryson & Regina Belle",
+      "trackId": "https://open.spotify.com/track/4tS8xQfyPGc7f4lJ1JP6BX"
+    },
+    {
+      "song": "Informer",
+      "artist": "Snow",
+      "trackId": "https://open.spotify.com/track/0EgUGqV7o7zZ9gyTIA1O18"
+    },
+    {
+      "song": "Freak Me",
+      "artist": "Silk",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "That's The Way Love Goes",
+      "artist": "Janet Jackson",
+      "trackId": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
+    },
+    {
+      "song": "Weak",
+      "artist": "SWV",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Can't Help Falling In Love (From \"Sliver\")",
+      "artist": "UB40",
+      "trackId": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
+    },
+    {
+      "song": "Dreamlover",
+      "artist": "Mariah Carey",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "I'd Do Anything For Love (But I Won't Do That)",
+      "artist": "Meat Loaf",
+      "trackId": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
+    },
+    {
+      "song": "Again",
+      "artist": "Janet Jackson",
+      "trackId": "https://open.spotify.com/track/29gelu2enuB2yE7u6EGNdc"
+    },
+    {
+      "song": "Hero",
+      "artist": "Mariah Carey",
+      "trackId": "https://open.spotify.com/track/3P5iaWQTvvdeMB2SsZaHii"
+    },
+    {
+      "song": "All For Love",
+      "artist": "Bryan Adams/Rod Stewart/Sting",
+      "trackId": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
+    },
+    {
+      "song": "The Power Of Love",
+      "artist": "Celine Dion",
+      "trackId": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+    },
+    {
+      "song": "The Sign",
+      "artist": "Ace Of Base",
+      "trackId": "https://open.spotify.com/track/0kQOmSJb84p2f0sPnstZdR"
+    },
+    {
+      "song": "Bump N' Grind",
+      "artist": "R. Kelly",
+      "trackId": "https://open.spotify.com/track/0mpTtYiDqkcOjNZqJLmjsO"
+    },
+    {
+      "song": "I Swear",
+      "artist": "All-4-One",
+      "trackId": "https://open.spotify.com/track/0wH14m3pTbudEnb8VSWNHy"
+    },
+    {
+      "song": "Stay (I Missed You) (From \"Reality Bites\")",
+      "artist": "Lisa Loeb & Nine Stories",
+      "trackId": "https://open.spotify.com/track/0It1NlyRhlYhKe5dQ48I36"
+    },
+    {
+      "song": "I'll Make Love To You",
+      "artist": "Boyz II Men",
+      "trackId": "https://open.spotify.com/track/627KV5gq7CbBa3RaivClx6"
+    },
+    {
+      "song": "On Bended Knee",
+      "artist": "Boyz II Men",
+      "trackId": "https://open.spotify.com/track/4Gmkqn3V7IMTkOmmiX7cbb"
+    },
+    {
+      "song": "Here Comes The Hotstepper (From \"Ready To Wear\")",
+      "artist": "Ini Kamoze",
+      "trackId": "https://open.spotify.com/track/1G88BbuMts7HC0nHGoHmhv"
+    },
+    {
+      "song": "Creep",
+      "artist": "TLC",
+      "trackId": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
+    },
+    {
+      "song": "Take A Bow",
+      "artist": "Madonna",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "This Is How We Do It",
+      "artist": "Montell Jordan",
+      "trackId": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
+    },
+    {
+      "song": "Have You Ever Really Loved A Woman?",
+      "artist": "Bryan Adams",
+      "trackId": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
+    },
+    {
+      "song": "Waterfalls",
+      "artist": "TLC",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Kiss From A Rose",
+      "artist": "Seal",
+      "trackId": "https://open.spotify.com/track/5fJb0IiGk3KFiH3rDAe3sr"
+    },
+    {
+      "song": "You Are Not Alone",
+      "artist": "Michael Jackson",
+      "trackId": "https://open.spotify.com/track/3AoeaZs8dFemFJr3JdzOL0"
+    },
+    {
+      "song": "Gangsta's Paradise (From \"Dangerous Minds\")",
+      "artist": "Coolio Featuring L.V.",
+      "trackId": "https://open.spotify.com/track/2VWNSlfsBCxKVDaGBTYAvL"
+    },
+    {
+      "song": "Fantasy",
+      "artist": "Mariah Carey",
+      "trackId": "https://open.spotify.com/track/4nbs8cT5xWhyZnmQwb4KC9"
+    },
+    {
+      "song": "Exhale (Shoop Shoop) (From \"Waiting To Exhale\")",
+      "artist": "Whitney Houston",
+      "trackId": "https://open.spotify.com/track/4sXxfkCWgVTrtnth4mJ5Tp"
+    },
+    {
+      "song": "One Sweet Day",
+      "artist": "Mariah Carey & Boyz II Men",
+      "trackId": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
+    },
+    {
+      "song": "Because You Loved Me (From \"Up Close & Personal\")",
+      "artist": "Celine Dion",
+      "trackId": "https://open.spotify.com/track/3Oaotz39bz2JkfStvI88tL"
+    },
+    {
+      "song": "Always Be My Baby",
+      "artist": "Mariah Carey",
+      "trackId": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
+    },
+    {
+      "song": "Tha Crossroads",
+      "artist": "Bone Thugs-N-Harmony",
+      "trackId": "https://open.spotify.com/track/5KSJ9k1FYjFLnIRlJT2wF8"
+    },
+    {
+      "song": "How Do U Want It/California Love",
+      "artist": "2Pac Featuring K-Ci And JoJo",
+      "trackId": "https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC"
+    },
+    {
+      "song": "You're Makin' Me High/Let It Flow",
+      "artist": "Toni Braxton",
+      "trackId": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
+    },
+    {
+      "song": "Macarena (Bayside Boys Mix)",
+      "artist": "Los Del Rio",
+      "trackId": "https://open.spotify.com/track/2df5QsXucx4VLiHNGusXD5"
+    },
+    {
+      "song": "No Diggity",
+      "artist": "BLACKstreet (Featuring Dr. Dre)",
+      "trackId": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
+    },
+    {
+      "song": "Un-Break My Heart",
+      "artist": "Toni Braxton",
+      "trackId": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
+    },
+    {
+      "song": "Wannabe",
+      "artist": "Spice Girls",
+      "trackId": "https://open.spotify.com/track/452UinQSDtftFaiE3XfwaD"
+    },
+    {
+      "song": "Can't Nobody Hold Me Down",
+      "artist": "Puff Daddy (Featuring Mase)",
+      "trackId": "https://open.spotify.com/track/1EM23A621Z0QyTlWKu7T1l"
+    },
+    {
+      "song": "Hypnotize",
+      "artist": "The Notorious B.I.G.",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "MMMBop",
+      "artist": "Hanson",
+      "trackId": "https://open.spotify.com/track/26JNSwccMpY6zx36pySxG9"
+    },
+    {
+      "song": "I'll Be Missing You",
+      "artist": "Puff Daddy & Faith Evans Featuring 112",
+      "trackId": "https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF"
+    },
+    {
+      "song": "Mo Money Mo Problems",
+      "artist": "The Notorious B.I.G. Featuring Puff Daddy & Mase",
+      "trackId": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
+    },
+    {
+      "song": "Honey",
+      "artist": "Mariah Carey",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "4 Seasons Of Loneliness",
+      "artist": "Boyz II Men",
+      "trackId": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
+    },
+    {
+      "song": "Candle In The Wind 1997/Something About The Way You Look Tonight",
+      "artist": "Elton John",
+      "trackId": "https://open.spotify.com/track/6NgpEQZnBj7mPls6Po5nFf"
+    },
+    {
+      "song": "Truly Madly Deeply",
+      "artist": "Savage Garden",
+      "trackId": "https://open.spotify.com/track/2ntpyUU3itxHWcJnOJmVic"
+    },
+    {
+      "song": "Together Again",
+      "artist": "Janet",
+      "trackId": "https://open.spotify.com/track/2Lo2BWhhlZSJds2yBhxoet"
+    },
+    {
+      "song": "Nice & Slow",
+      "artist": "Usher",
+      "trackId": "https://open.spotify.com/track/5L0KDoZklMgs9GPoonneEl"
+    },
+    {
+      "song": "My Heart Will Go On",
+      "artist": "Celine Dion",
+      "trackId": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
+    },
+    {
+      "song": "Gettin' Jiggy Wit It",
+      "artist": "Will Smith",
+      "trackId": "https://open.spotify.com/track/55NuTxRk1TyKzpgD8dC1IY"
+    },
+    {
+      "song": "All My Life",
+      "artist": "K-Ci & JoJo",
+      "trackId": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
+    },
+    {
+      "song": "Too Close",
+      "artist": "Next",
+      "trackId": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy"
+    },
+    {
+      "song": "My All",
+      "artist": "Mariah Carey",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "The Boy Is Mine",
+      "artist": "Brandy & Monica",
+      "trackId": "https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt"
+    },
+    {
+      "song": "I Don't Want To Miss A Thing",
+      "artist": "Aerosmith",
+      "trackId": "https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq"
+    },
+    {
+      "song": "The First Night",
+      "artist": "Monica",
+      "trackId": "https://open.spotify.com/track/4nbs8cT5xWhyZnmQwb4KC9"
+    },
+    {
+      "song": "One Week",
+      "artist": "Barenaked Ladies",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Doo Wop (That Thing)",
+      "artist": "Lauryn Hill",
+      "trackId": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "song": "Lately",
+      "artist": "Divine",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "I'm Your Angel",
+      "artist": "R. Kelly & Celine Dion",
+      "trackId": "https://open.spotify.com/track/1rPfJUj2s8lcSXW5iSV5VV"
+    },
+    {
+      "song": "Have You Ever?",
+      "artist": "Brandy",
+      "trackId": "https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm"
+    },
+    {
+      "song": "...Baby One More Time",
+      "artist": "Britney Spears",
+      "trackId": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
+    },
+    {
+      "song": "Angel Of Mine",
+      "artist": "Monica",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Believe",
+      "artist": "Cher",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "No Scrubs",
+      "artist": "TLC",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Livin' La Vida Loca",
+      "artist": "Ricky Martin",
+      "trackId": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
+    },
+    {
+      "song": "If You Had My Love",
+      "artist": "Jennifer Lopez",
+      "trackId": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
+    },
+    {
+      "song": "Bills, Bills, Bills",
+      "artist": "Destiny's Child",
+      "trackId": "https://open.spotify.com/track/4jgtjIJzba2UoC1RJtJI9j"
+    },
+    {
+      "song": "Wild Wild West",
+      "artist": "Will Smith Featuring Dru Hill & Kool Mo Dee",
+      "trackId": "https://open.spotify.com/track/4Qn1QhHhUT01LfpBnC7xnf"
+    },
+    {
+      "song": "Genie In A Bottle",
+      "artist": "Christina Aguilera",
+      "trackId": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
+    },
+    {
+      "song": "Bailamos",
+      "artist": "Enrique Iglesias",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Unpretty",
+      "artist": "TLC",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Heartbreaker",
+      "artist": "Mariah Carey Featuring Jay-Z",
+      "trackId": "https://open.spotify.com/track/67697Ki9N3hu76ZkGbVSVE"
+    },
+    {
+      "song": "Smooth",
+      "artist": "Santana Featuring Rob Thomas",
+      "trackId": "https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"
+    },
+    {
+      "song": "What A Girl Wants",
+      "artist": "Christina Aguilera",
+      "trackId": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
+    },
+    {
+      "song": "I Knew I Loved You",
+      "artist": "Savage Garden",
+      "trackId": "https://open.spotify.com/track/1OdUJBSxF0sExz1BmSax6k"
+    },
+    {
+      "song": "Thank God I Found You",
+      "artist": "Mariah Carey Featuring Joe & 98 Degrees",
+      "trackId": "https://open.spotify.com/track/1RS3LStQYhju50eBdD9Uul"
+    },
+    {
+      "song": "Amazed",
+      "artist": "Lonestar",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Say My Name",
+      "artist": "Destiny's Child",
+      "trackId": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
+    },
+    {
+      "song": "Maria Maria",
+      "artist": "Santana Featuring The Product G&B",
+      "trackId": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
+    },
+    {
+      "song": "Try Again",
+      "artist": "Aaliyah",
+      "trackId": "https://open.spotify.com/track/29gelu2enuB2yE7u6EGNdc"
+    },
+    {
+      "song": "Be With You",
+      "artist": "Enrique Iglesias",
+      "trackId": "https://open.spotify.com/track/2N4viTG9njqCa4c46YyWs1"
+    },
+    {
+      "song": "Everything You Want",
+      "artist": "Vertical Horizon",
+      "trackId": "https://open.spotify.com/track/4HjCos6YWaTA0J4SzkhMpC"
+    },
+    {
+      "song": "Bent",
+      "artist": "matchbox twenty",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "It's Gonna Be Me",
+      "artist": "'N Sync",
+      "trackId": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
+    },
+    {
+      "song": "Incomplete",
+      "artist": "Sisqo",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Doesn't Really Matter",
+      "artist": "Janet",
+      "trackId": "https://open.spotify.com/track/0fJAcQZyy0C2qyt0LluAWp"
+    },
+    {
+      "song": "Music",
+      "artist": "Madonna",
+      "trackId": "https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0"
+    },
+    {
+      "song": "Come On Over Baby (All I Want Is You)",
+      "artist": "Christina Aguilera",
+      "trackId": "https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX"
+    },
+    {
+      "song": "With Arms Wide Open",
+      "artist": "Creed",
+      "trackId": "https://open.spotify.com/track/0eKyHwckh9vQb8ncZ2DXCs"
+    },
+    {
+      "song": "Independent Women Part I",
+      "artist": "Destiny's Child",
+      "trackId": "https://open.spotify.com/track/72AK6S3YqO2UNdrhtoN8vu"
+    },
+    {
+      "song": "It Wasn't Me",
+      "artist": "Shaggy Feat. Ricardo \"RikRok\" Ducent",
+      "trackId": "https://open.spotify.com/track/3WkibOpDF7cQ5xntM1epyf"
+    },
+    {
+      "song": "Ms. Jackson",
+      "artist": "OutKast",
+      "trackId": "https://open.spotify.com/track/3v05wRQbkaJHlDZ2UVGIkz"
+    },
+    {
+      "song": "Stutter",
+      "artist": "Joe Featuring Mystikal",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Butterfly",
+      "artist": "Crazy Town",
+      "trackId": "https://open.spotify.com/track/29gelu2enuB2yE7u6EGNdc"
+    },
+    {
+      "song": "Angel",
+      "artist": "Shaggy Featuring Rayvon",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "All For You",
+      "artist": "Janet",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Lady Marmalade",
+      "artist": "Christina Aguilera, Lil' Kim, Mya & P!nk",
+      "trackId": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
+    },
+    {
+      "song": "U Remind Me",
+      "artist": "Usher",
+      "trackId": "https://open.spotify.com/track/2HLlQzAQUQ0eRt1norn3cl"
+    },
+    {
+      "song": "Bootylicious",
+      "artist": "Destiny's Child",
+      "trackId": "https://open.spotify.com/track/493uol07OkelOOzMTh3ses"
+    },
+    {
+      "song": "Fallin'",
+      "artist": "Alicia Keys",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "I'm Real",
+      "artist": "Jennifer Lopez Featuring Ja Rule",
+      "trackId": "https://open.spotify.com/track/6MLsahMK3VvH9NUwXOktdS"
+    },
+    {
+      "song": "Family Affair",
+      "artist": "Mary J. Blige",
+      "trackId": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
+    },
+    {
+      "song": "U Got It Bad",
+      "artist": "Usher",
+      "trackId": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
+    },
+    {
+      "song": "How You Remind Me",
+      "artist": "Nickelback",
+      "trackId": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
+    },
+    {
+      "song": "Always On Time",
+      "artist": "Ja Rule Featuring Ashanti",
+      "trackId": "https://open.spotify.com/track/2hNf1rawV2XAZ6Jld2Fxwf"
+    },
+    {
+      "song": "Ain't It Funny",
+      "artist": "Jennifer Lopez Featuring Ja Rule",
+      "trackId": "https://open.spotify.com/track/4ZOyH6KjomjlqCz3oFqglr"
+    },
+    {
+      "song": "Foolish",
+      "artist": "Ashanti",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Hot In Herre",
+      "artist": "Nelly",
+      "trackId": "https://open.spotify.com/track/3nM8GScsfIV4huv42WLNeZ"
+    },
+    {
+      "song": "Dilemma",
+      "artist": "Nelly Featuring Kelly Rowland",
+      "trackId": "https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"
+    },
+    {
+      "song": "A Moment Like This",
+      "artist": "Kelly Clarkson",
+      "trackId": "https://open.spotify.com/track/0ZbmQnOlXM8liVcNVtNxmD"
+    },
+    {
+      "song": "Lose Yourself",
+      "artist": "Eminem",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Bump, Bump, Bump",
+      "artist": "B2K & P. Diddy",
+      "trackId": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
+    },
+    {
+      "song": "All I Have",
+      "artist": "Jennifer Lopez Featuring LL Cool J",
+      "trackId": "https://open.spotify.com/track/3kgutGd839IOYRl6ekeq6V"
+    },
+    {
+      "song": "In Da Club",
+      "artist": "50 Cent",
+      "trackId": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
+    },
+    {
+      "song": "Get Busy",
+      "artist": "Sean Paul",
+      "trackId": "https://open.spotify.com/track/2IcJZp43y9zirBzbwsvgqo"
+    },
+    {
+      "song": "21 Questions",
+      "artist": "50 Cent Featuring Nate Dogg",
+      "trackId": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
+    },
+    {
+      "song": "This Is The Night",
+      "artist": "Clay Aiken",
+      "trackId": "https://open.spotify.com/track/5LEbg97KkVmAv9qHR7bS59"
+    },
+    {
+      "song": "Crazy In Love",
+      "artist": "Beyonce Featuring Jay Z",
+      "trackId": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+    },
+    {
+      "song": "Shake Ya Tailfeather",
+      "artist": "Nelly, P. Diddy & Murphy Lee",
+      "trackId": "https://open.spotify.com/track/4TJduXYW1Pg96EDNnfiwxJ"
+    },
+    {
+      "song": "Baby Boy",
+      "artist": "Beyonce Featuring Sean Paul",
+      "trackId": "https://open.spotify.com/track/4WY3HyGXsWqjFRCVD6gnTe"
+    },
+    {
+      "song": "Stand Up",
+      "artist": "Ludacris Featuring Shawnna",
+      "trackId": "https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e"
+    },
+    {
+      "song": "Hey Ya!",
+      "artist": "OutKast",
+      "trackId": "https://open.spotify.com/track/4NqcdlgmlssGvbRPDHnQzz"
+    },
+    {
+      "song": "The Way You Move",
+      "artist": "OutKast Featuring Sleepy Brown",
+      "trackId": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
+    },
+    {
+      "song": "Slow Jamz",
+      "artist": "Twista Featuring Kanye West & Jamie Foxx",
+      "trackId": "https://open.spotify.com/track/7BPadP3q9qwMkho3IMPU99"
+    },
+    {
+      "song": "Yeah!",
+      "artist": "Usher Featuring Lil Jon & Ludacris",
+      "trackId": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
+    },
+    {
+      "song": "Burn",
+      "artist": "Usher",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "I Believe",
+      "artist": "Fantasia",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Confessions Part II",
+      "artist": "Usher",
+      "trackId": "https://open.spotify.com/track/493uol07OkelOOzMTh3ses"
+    },
+    {
+      "song": "Slow Motion",
+      "artist": "Juvenile Featuring Soulja Slim",
+      "trackId": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
+    },
+    {
+      "song": "Lean Back",
+      "artist": "Terror Squad",
+      "trackId": "https://open.spotify.com/track/7EttOuaWWWWAyWz7ZVvAJI"
+    },
+    {
+      "song": "Goodies",
+      "artist": "Ciara Featuring Petey Pablo",
+      "trackId": "https://open.spotify.com/track/5iHk7Ucod6p5mwkT4lBtwd"
+    },
+    {
+      "song": "My Boo",
+      "artist": "Usher And Alicia Keys",
+      "trackId": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
+    },
+    {
+      "song": "Drop It Like It's Hot",
+      "artist": "Snoop Dogg Featuring Pharrell",
+      "trackId": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
+    },
+    {
+      "song": "Let Me Love You",
+      "artist": "Mario",
+      "trackId": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
+    },
+    {
+      "song": "Candy Shop",
+      "artist": "50 Cent Featuring Olivia",
+      "trackId": "https://open.spotify.com/track/0GYMPviOI7OpWqlsSZsZ5C"
+    },
+    {
+      "song": "Hollaback Girl",
+      "artist": "Gwen Stefani",
+      "trackId": "https://open.spotify.com/track/2N2QSfTqdJafXa8uPt4rTY"
+    },
+    {
+      "song": "We Belong Together",
+      "artist": "Mariah Carey",
+      "trackId": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
+    },
+    {
+      "song": "Inside Your Heaven",
+      "artist": "Carrie Underwood",
+      "trackId": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
+    },
+    {
+      "song": "Gold Digger",
+      "artist": "Kanye West Featuring Jamie Foxx",
+      "trackId": "https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK"
+    },
+    {
+      "song": "Run It!",
+      "artist": "Chris Brown",
+      "trackId": "https://open.spotify.com/track/6dbSBQXCctYSVryynHXaZ4"
+    },
+    {
+      "song": "Don't Forget About Us",
+      "artist": "Mariah Carey",
+      "trackId": "https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui"
+    },
+    {
+      "song": "Laffy Taffy",
+      "artist": "D4L",
+      "trackId": "https://open.spotify.com/track/3gR3aPapOJp6isbEUm4Xoc"
+    },
+    {
+      "song": "Grillz",
+      "artist": "Nelly Featuring Paul Wall, Ali & Gipp",
+      "trackId": "https://open.spotify.com/track/0l7DPAKQVayEz9FXC9di2e"
+    },
+    {
+      "song": "Check On It",
+      "artist": "Beyonce Featuring Slim Thug",
+      "trackId": "https://open.spotify.com/track/2RWxrpsFshOBFwRBRstUlQ"
+    },
+    {
+      "song": "You're Beautiful",
+      "artist": "James Blunt",
+      "trackId": "https://open.spotify.com/track/6GU19qDSbCWw5HKwfYTgVq"
+    },
+    {
+      "song": "So Sick",
+      "artist": "Ne-Yo",
+      "trackId": "https://open.spotify.com/track/6BSpk93XTt2CJ7gpROG6zU"
+    },
+    {
+      "song": "Temperature",
+      "artist": "Sean Paul",
+      "trackId": "https://open.spotify.com/track/0FA6d3PTjv6R9V4AhQEU6K"
+    },
+    {
+      "song": "Bad Day",
+      "artist": "Daniel Powter",
+      "trackId": "https://open.spotify.com/track/6PGq03CNnUf2HrlQxtOcTS"
+    },
+    {
+      "song": "SOS",
+      "artist": "Rihanna",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Ridin'",
+      "artist": "Chamillionaire Featuring Krayzie Bone",
+      "trackId": "https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9"
+    },
+    {
+      "song": "Hips Don't Lie",
+      "artist": "Shakira Featuring Wyclef Jean",
+      "trackId": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
+    },
+    {
+      "song": "Do I Make You Proud",
+      "artist": "Taylor Hicks",
+      "trackId": "https://open.spotify.com/track/3pxHCAUaPdt9J7Zy8ZR1Uw"
+    },
+    {
+      "song": "Promiscuous",
+      "artist": "Nelly Furtado Featuring Timbaland",
+      "trackId": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
+    },
+    {
+      "song": "London Bridge",
+      "artist": "Fergie",
+      "trackId": "https://open.spotify.com/track/7jRoWfRlLnGYEIEn4t4kbq"
+    },
+    {
+      "song": "SexyBack",
+      "artist": "Justin Timberlake",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Money Maker",
+      "artist": "Ludacris Featuring Pharrell",
+      "trackId": "https://open.spotify.com/track/2JpUkUR0OsOlUUfm6iS8ic"
+    },
+    {
+      "song": "My Love",
+      "artist": "Justin Timberlake Featuring T.I.",
+      "trackId": "https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL"
+    },
+    {
+      "song": "I Wanna Love You",
+      "artist": "Akon Featuring Snoop Dogg",
+      "trackId": "https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc"
+    },
+    {
+      "song": "Irreplaceable",
+      "artist": "Beyonce",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Say It Right",
+      "artist": "Nelly Furtado",
+      "trackId": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
+    },
+    {
+      "song": "What Goes Around...Comes Around",
+      "artist": "Justin Timberlake",
+      "trackId": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
+    },
+    {
+      "song": "This Is Why I'm Hot",
+      "artist": "Mims",
+      "trackId": "https://open.spotify.com/track/3Bs0eQGikmahH6rTUkR41C"
+    },
+    {
+      "song": "Glamorous",
+      "artist": "Fergie Featuring Ludacris",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Don't Matter",
+      "artist": "Akon",
+      "trackId": "https://open.spotify.com/track/0LzxTeLXKexOhVMZWOJwg1"
+    },
+    {
+      "song": "Give It To Me",
+      "artist": "Timbaland Featuring Nelly Furtado & Justin Timberlake",
+      "trackId": "https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx"
+    },
+    {
+      "song": "Girlfriend",
+      "artist": "Avril Lavigne",
+      "trackId": "https://open.spotify.com/track/1wwt0TvrGY3lnvTAVIx8mO"
+    },
+    {
+      "song": "Makes Me Wonder",
+      "artist": "Maroon 5",
+      "trackId": "https://open.spotify.com/track/01bj861QQA2ac7hypkSo8b"
+    },
+    {
+      "song": "Buy U A Drank (Shawty Snappin')",
+      "artist": "T-Pain Featuring Yung Joc",
+      "trackId": "https://open.spotify.com/track/1tkMs9wDPknQ3ZHcKDw1ES"
+    },
+    {
+      "song": "Umbrella",
+      "artist": "Rihanna Featuring Jay-Z",
+      "trackId": "https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV"
+    },
+    {
+      "song": "Hey There Delilah",
+      "artist": "Plain White T's",
+      "trackId": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+    },
+    {
+      "song": "Beautiful Girls",
+      "artist": "Sean Kingston",
+      "trackId": "https://open.spotify.com/track/2AMwfUlfD43XY6ywcHHzMp"
+    },
+    {
+      "song": "Big Girls Don't Cry",
+      "artist": "Fergie",
+      "trackId": "https://open.spotify.com/track/4AniPkv5vgdE1n6VKreiyI"
+    },
+    {
+      "song": "Crank That (Soulja Boy)",
+      "artist": "Soulja Boy Tell'em",
+      "trackId": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
+    },
+    {
+      "song": "Stronger",
+      "artist": "Kanye West",
+      "trackId": "https://open.spotify.com/track/0uLvrAdYn6EFZT7BV0eKtf"
+    },
+    {
+      "song": "Kiss Kiss",
+      "artist": "Chris Brown Featuring T-Pain",
+      "trackId": "https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG"
+    },
+    {
+      "song": "No One",
+      "artist": "Alicia Keys",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Low",
+      "artist": "Flo Rida Featuring T-Pain",
+      "trackId": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"
+    },
+    {
+      "song": "Love In This Club",
+      "artist": "Usher Featuring Young Jeezy",
+      "trackId": "https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0"
+    },
+    {
+      "song": "Bleeding Love",
+      "artist": "Leona Lewis",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Touch My Body",
+      "artist": "Mariah Carey",
+      "trackId": "https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW"
+    },
+    {
+      "song": "Lollipop",
+      "artist": "Lil Wayne Featuring Static Major",
+      "trackId": "https://open.spotify.com/track/1pm7lQGl6mvKWDxesZTVFp"
+    },
+    {
+      "song": "Take A Bow",
+      "artist": "Rihanna",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Viva La Vida",
+      "artist": "Coldplay",
+      "trackId": "https://open.spotify.com/track/6hl4hiEnsRCbOX3csj7JnN"
+    },
+    {
+      "song": "I Kissed A Girl",
+      "artist": "Katy Perry",
+      "trackId": "https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9"
+    },
+    {
+      "song": "Disturbia",
+      "artist": "Rihanna",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Whatever You Like",
+      "artist": "T.I.",
+      "trackId": "https://open.spotify.com/track/29gelu2enuB2yE7u6EGNdc"
+    },
+    {
+      "song": "So What",
+      "artist": "P!nk",
+      "trackId": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
+    },
+    {
+      "song": "Live Your Life",
+      "artist": "T.I. Featuring Rihanna",
+      "trackId": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
+    },
+    {
+      "song": "Womanizer",
+      "artist": "Britney Spears",
+      "trackId": "https://open.spotify.com/track/6BSpk93XTt2CJ7gpROG6zU"
+    },
+    {
+      "song": "Single Ladies (Put A Ring On It)",
+      "artist": "Beyonce",
+      "trackId": "https://open.spotify.com/track/2ZBNclC5wm4GtiWaeh0DMx"
+    },
+    {
+      "song": "Just Dance",
+      "artist": "Lady Gaga Featuring Colby O'Donis",
+      "trackId": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
+    },
+    {
+      "song": "My Life Would Suck Without You",
+      "artist": "Kelly Clarkson",
+      "trackId": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
+    },
+    {
+      "song": "Crack A Bottle",
+      "artist": "Eminem, Dr. Dre & 50 Cent",
+      "trackId": "https://open.spotify.com/track/4dK00wCxlqWEeN8BoM1BHT"
+    },
+    {
+      "song": "Right Round",
+      "artist": "Flo Rida",
+      "trackId": "https://open.spotify.com/track/7pBqhU1BHW0FhRuMpT26HX"
+    },
+    {
+      "song": "Poker Face",
+      "artist": "Lady Gaga",
+      "trackId": "https://open.spotify.com/track/2oQQn3SO9cQ51JOhuBq3uy"
+    },
+    {
+      "song": "Boom Boom Pow",
+      "artist": "The Black Eyed Peas",
+      "trackId": "https://open.spotify.com/track/3opVsyWVYEAFK9bJAG8Opa"
+    },
+    {
+      "song": "I Gotta Feeling",
+      "artist": "The Black Eyed Peas",
+      "trackId": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
+    },
+    {
+      "song": "Down",
+      "artist": "Jay Sean Featuring Lil Wayne",
+      "trackId": "https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"
+    },
+    {
+      "song": "3",
+      "artist": "Britney Spears",
+      "trackId": "https://open.spotify.com/track/6BSpk93XTt2CJ7gpROG6zU"
+    },
+    {
+      "song": "Fireflies",
+      "artist": "Owl City",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Whatcha Say",
+      "artist": "Jason Derulo",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Empire State Of Mind",
+      "artist": "Jay-Z + Alicia Keys",
+      "trackId": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"
+    },
+    {
+      "song": "TiK ToK",
+      "artist": "Ke$ha",
+      "trackId": "https://open.spotify.com/track/3LGRB5Mms3Ibg0XuMWjL5R"
+    },
+    {
+      "song": "Imma Be",
+      "artist": "The Black Eyed Peas",
+      "trackId": "https://open.spotify.com/track/7vWFaMq63AwkFDhS2OAg5u"
+    },
+    {
+      "song": "Break Your Heart",
+      "artist": "Taio Cruz Featuring Ludacris",
+      "trackId": "https://open.spotify.com/track/1CdqVF1ywD0ZO1zXtB9yWa"
+    },
+    {
+      "song": "Rude Boy",
+      "artist": "Rihanna",
+      "trackId": "https://open.spotify.com/track/02G0XtMP9KN3h3xqXnMr4m"
+    },
+    {
+      "song": "Nothin' On You",
+      "artist": "B.o.B Featuring Bruno Mars",
+      "trackId": "https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq"
+    },
+    {
+      "song": "OMG",
+      "artist": "Usher Featuring will.i.am",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Not Afraid",
+      "artist": "Eminem",
+      "trackId": "https://open.spotify.com/track/6BSpk93XTt2CJ7gpROG6zU"
+    },
+    {
+      "song": "California Gurls",
+      "artist": "Katy Perry Featuring Snoop Dogg",
+      "trackId": "https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH"
+    },
+    {
+      "song": "Love The Way You Lie",
+      "artist": "Eminem Featuring Rihanna",
+      "trackId": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
+    },
+    {
+      "song": "Teenage Dream",
+      "artist": "Katy Perry",
+      "trackId": "https://open.spotify.com/track/4pUnSVyGDy0n9JrSROwC3S"
+    },
+    {
+      "song": "Just The Way You Are",
+      "artist": "Bruno Mars",
+      "trackId": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "song": "Like A G6",
+      "artist": "Far*East Movement Featuring Cataracs & Dev",
+      "trackId": "https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf"
+    },
+    {
+      "song": "We R Who We R",
+      "artist": "Ke$ha",
+      "trackId": "https://open.spotify.com/track/5Pf4hNsNZMHjuKTTwsJuYK"
+    },
+    {
+      "song": "What's My Name?",
+      "artist": "Rihanna Featuring Drake",
+      "trackId": "https://open.spotify.com/track/6DkXLzBQT7cwXmTyzAB1DJ"
+    },
+    {
+      "song": "Only Girl (In The World)",
+      "artist": "Rihanna",
+      "trackId": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
+    },
+    {
+      "song": "Raise Your Glass",
+      "artist": "P!nk",
+      "trackId": "https://open.spotify.com/track/131K9WHjrZSqKIJh4kO1A7"
+    },
+    {
+      "song": "Firework",
+      "artist": "Katy Perry",
+      "trackId": "https://open.spotify.com/track/4DjlxAaujtFsUuEsLjjQa2"
+    },
+    {
+      "song": "Grenade",
+      "artist": "Bruno Mars",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Hold It Against Me",
+      "artist": "Britney Spears",
+      "trackId": "https://open.spotify.com/track/5Wg6hfhHZoNKQjlrGVmBdn"
+    },
+    {
+      "song": "Black And Yellow",
+      "artist": "Wiz Khalifa",
+      "trackId": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
+    },
+    {
+      "song": "Born This Way",
+      "artist": "Lady Gaga",
+      "trackId": "https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca"
+    },
+    {
+      "song": "E.T.",
+      "artist": "Katy Perry Featuring Kanye West",
+      "trackId": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
+    },
+    {
+      "song": "S&M",
+      "artist": "Rihanna Featuring Britney Spears",
+      "trackId": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
+    },
+    {
+      "song": "Rolling In The Deep",
+      "artist": "Adele",
+      "trackId": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
+    },
+    {
+      "song": "Give Me Everything",
+      "artist": "Pitbull Featuring Ne-Yo, Afrojack & Nayer",
+      "trackId": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
+    },
+    {
+      "song": "Party Rock Anthem",
+      "artist": "LMFAO Featuring Lauren Bennett & GoonRock",
+      "trackId": "https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P"
+    },
+    {
+      "song": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry",
+      "trackId": "https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8"
+    },
+    {
+      "song": "Moves Like Jagger",
+      "artist": "Maroon 5 Featuring Christina Aguilera",
+      "trackId": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
+    },
+    {
+      "song": "Someone Like You",
+      "artist": "Adele",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "We Found Love",
+      "artist": "Rihanna Featuring Calvin Harris",
+      "trackId": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
+    },
+    {
+      "song": "Sexy And I Know It",
+      "artist": "LMFAO",
+      "trackId": "https://open.spotify.com/track/0obBFrPYkSoBJbvHfUIhkv"
+    },
+    {
+      "song": "Set Fire To The Rain",
+      "artist": "Adele",
+      "trackId": "https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi"
+    },
+    {
+      "song": "Stronger (What Doesn't Kill You)",
+      "artist": "Kelly Clarkson",
+      "trackId": "https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss"
+    },
+    {
+      "song": "Part Of Me",
+      "artist": "Katy Perry",
+      "trackId": "https://open.spotify.com/track/6yARPLK0PV4heEyh7pVMGz"
+    },
+    {
+      "song": "We Are Young",
+      "artist": "fun. Featuring Janelle Monae",
+      "trackId": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+    },
+    {
+      "song": "Somebody That I Used To Know",
+      "artist": "Gotye Featuring Kimbra",
+      "trackId": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
+    },
+    {
+      "song": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "trackId": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+    },
+    {
+      "song": "Whistle",
+      "artist": "Flo Rida",
+      "trackId": "https://open.spotify.com/track/7pBqhU1BHW0FhRuMpT26HX"
+    },
+    {
+      "song": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "trackId": "https://open.spotify.com/track/5YqltLsjdqFtvqE7Nrysvs"
+    },
+    {
+      "song": "One More Night",
+      "artist": "Maroon 5",
+      "trackId": "https://open.spotify.com/track/6qxvy9Pe4RJIq5JBVbbwbS"
+    },
+    {
+      "song": "Diamonds",
+      "artist": "Rihanna",
+      "trackId": "https://open.spotify.com/track/2a1PNDDWyt68aKJDc47k4e"
+    },
+    {
+      "song": "Locked Out Of Heaven",
+      "artist": "Bruno Mars",
+      "trackId": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
+    },
+    {
+      "song": "Thrift Shop",
+      "artist": "Macklemore & Ryan Lewis Featuring Wanz",
+      "trackId": "https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9"
+    },
+    {
+      "song": "Harlem Shake",
+      "artist": "Baauer",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "When I Was Your Man",
+      "artist": "Bruno Mars",
+      "trackId": "https://open.spotify.com/track/099XD7IqwXVpVaJyS3pmfK"
+    },
+    {
+      "song": "Just Give Me A Reason",
+      "artist": "P!nk Featuring Nate Ruess",
+      "trackId": "https://open.spotify.com/track/7x1PdK6tMB8fMrSf1XJytD"
+    },
+    {
+      "song": "Can't Hold Us",
+      "artist": "Macklemore & Ryan Lewis Featuring Ray Dalton",
+      "trackId": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
+    },
+    {
+      "song": "Blurred Lines",
+      "artist": "Robin Thicke Featuring T.I. + Pharrell",
+      "trackId": "https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"
+    },
+    {
+      "song": "Roar",
+      "artist": "Katy Perry",
+      "trackId": "https://open.spotify.com/track/460Ii1iaAQwnJAPD1AbSxe"
+    },
+    {
+      "song": "Wrecking Ball",
+      "artist": "Miley Cyrus",
+      "trackId": "https://open.spotify.com/track/379pQhTWVBdSEe8cfUmlHy"
+    },
+    {
+      "song": "Royals",
+      "artist": "Lorde",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "The Monster",
+      "artist": "Eminem Featuring Rihanna",
+      "trackId": "https://open.spotify.com/track/00bLSnliElWSOs1Ybt9dZm"
+    },
+    {
+      "song": "Timber",
+      "artist": "Pitbull Featuring Ke$ha",
+      "trackId": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
+    },
+    {
+      "song": "Dark Horse",
+      "artist": "Katy Perry Featuring Juicy J",
+      "trackId": "https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6"
+    },
+    {
+      "song": "Happy",
+      "artist": "Pharrell Williams",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "All Of Me",
+      "artist": "John Legend",
+      "trackId": "https://open.spotify.com/track/1mzGywacjpeik00PVLBPpF"
+    },
+    {
+      "song": "Fancy",
+      "artist": "Iggy Azalea Featuring Charli XCX",
+      "trackId": "https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX"
+    },
+    {
+      "song": "Rude",
+      "artist": "MAGIC!",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Shake It Off",
+      "artist": "Taylor Swift",
+      "trackId": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
+    },
+    {
+      "song": "All About That Bass",
+      "artist": "Meghan Trainor",
+      "trackId": "https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7"
+    },
+    {
+      "song": "Blank Space",
+      "artist": "Taylor Swift",
+      "trackId": "https://open.spotify.com/track/6MkVZbITZjMAzvPaj8qNUQ"
+    },
+    {
+      "song": "Uptown Funk!",
+      "artist": "Mark Ronson Featuring Bruno Mars",
+      "trackId": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+    },
+    {
+      "song": "See You Again",
+      "artist": "Wiz Khalifa Featuring Charlie Puth",
+      "trackId": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc"
+    },
+    {
+      "song": "Bad Blood",
+      "artist": "Taylor Swift Featuring Kendrick Lamar",
+      "trackId": "https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9"
+    },
+    {
+      "song": "Cheerleader",
+      "artist": "OMI",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Can't Feel My Face",
+      "artist": "The Weeknd",
+      "trackId": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
+    },
+    {
+      "song": "What Do You Mean?",
+      "artist": "Justin Bieber",
+      "trackId": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
+    },
+    {
+      "song": "The Hills",
+      "artist": "The Weeknd",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Hello",
+      "artist": "Adele",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Sorry",
+      "artist": "Justin Bieber",
+      "trackId": "https://open.spotify.com/track/5EG5s5JfnB9LCMe4qr0FDs"
+    },
+    {
+      "song": "Love Yourself",
+      "artist": "Justin Bieber",
+      "trackId": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
+    },
+    {
+      "song": "Pillowtalk",
+      "artist": "Zayn",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Work",
+      "artist": "Rihanna Featuring Drake",
+      "trackId": "https://open.spotify.com/track/4mhjQJhJxX2vbXQA7iemX2"
+    },
+    {
+      "song": "Panda",
+      "artist": "Desiigner",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "One Dance",
+      "artist": "Drake Featuring WizKid & Kyla",
+      "trackId": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+    },
+    {
+      "song": "Can't Stop The Feeling!",
+      "artist": "Justin Timberlake",
+      "trackId": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
+    },
+    {
+      "song": "Cheap Thrills",
+      "artist": "Sia Featuring Sean Paul",
+      "trackId": "https://open.spotify.com/track/2ONIJ40u0Attbm3miIIpNO"
+    },
+    {
+      "song": "Closer",
+      "artist": "The Chainsmokers Featuring Halsey",
+      "trackId": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
+    },
+    {
+      "song": "Black Beatles",
+      "artist": "Rae Sremmurd Featuring Gucci Mane",
+      "trackId": "https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo"
+    },
+    {
+      "song": "Starboy",
+      "artist": "The Weeknd Featuring Daft Punk",
+      "trackId": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "song": "Bad And Boujee",
+      "artist": "Migos Featuring Lil Uzi Vert",
+      "trackId": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
+    },
+    {
+      "song": "Shape Of You",
+      "artist": "Ed Sheeran",
+      "trackId": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
+    },
+    {
+      "song": "Humble.",
+      "artist": "Kendrick Lamar",
+      "trackId": "https://open.spotify.com/track/2kO0FXEXVh0O6AQVtMsWYO"
+    },
+    {
+      "song": "That's What I Like",
+      "artist": "Bruno Mars",
+      "trackId": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+    },
+    {
+      "song": "I'm The One",
+      "artist": "DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",
+      "trackId": "https://open.spotify.com/track/1jYiIOC5d6soxkJP81fxq2"
+    },
+    {
+      "song": "Despacito",
+      "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
+      "trackId": "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"
+    },
+    {
+      "song": "Look What You Made Me Do",
+      "artist": "Taylor Swift",
+      "trackId": "https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il"
+    },
+    {
+      "song": "Bodak Yellow (Money Moves)",
+      "artist": "Cardi B",
+      "trackId": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
+    },
+    {
+      "song": "Rockstar",
+      "artist": "Post Malone Featuring 21 Savage",
+      "trackId": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
+    },
+    {
+      "song": "Perfect",
+      "artist": "Ed Sheeran",
+      "trackId": "https://open.spotify.com/track/1B5YzNyVvUJsIM6AuwPz7P"
+    },
+    {
+      "song": "Havana",
+      "artist": "Camila Cabello Featuring Young Thug",
+      "trackId": "https://open.spotify.com/track/3KrdXYHIv0fikr5qKOxRAq"
+    },
+    {
+      "song": "God's Plan",
+      "artist": "Drake",
+      "trackId": "https://open.spotify.com/track/6BSpk93XTt2CJ7gpROG6zU"
+    },
+    {
+      "song": "Nice For What",
+      "artist": "Drake",
+      "trackId": "https://open.spotify.com/track/0lY5HA88PAZkeiOMMQDvxg"
+    },
+    {
+      "song": "This Is America",
+      "artist": "Childish Gambino",
+      "trackId": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4"
+    },
+    {
+      "song": "Psycho",
+      "artist": "Post Malone Featuring Ty Dolla $ign",
+      "trackId": "https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C"
+    },
+    {
+      "song": "Sad!",
+      "artist": "XXXTENTACION",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "I Like It",
+      "artist": "Cardi B, Bad Bunny & J Balvin",
+      "trackId": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "song": "In My Feelings",
+      "artist": "Drake",
+      "trackId": "https://open.spotify.com/track/5TnGSsXSayYEgpjFme7tlm"
+    },
+    {
+      "song": "Girls Like You",
+      "artist": "Maroon 5 Featuring Cardi B",
+      "trackId": "https://open.spotify.com/track/6V1bu6o1Yo5ZXnsCJU8Ovk"
+    },
+    {
+      "song": "Thank U, Next",
+      "artist": "Ariana Grande",
+      "trackId": "https://open.spotify.com/track/0BeR2fJmYnKNn7IORw3GR9"
+    },
+    {
+      "song": "Sicko Mode",
+      "artist": "Travis Scott",
+      "trackId": "https://open.spotify.com/track/2a1PNDDWyt68aKJDc47k4e"
+    },
+    {
+      "song": "Without Me",
+      "artist": "Halsey",
+      "trackId": "https://open.spotify.com/track/4nbs8cT5xWhyZnmQwb4KC9"
+    },
+    {
+      "song": "Sunflower (Spider-Man: Into The Spider-Verse)",
+      "artist": "Post Malone & Swae Lee",
+      "trackId": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
+    },
+    {
+      "song": "7 Rings",
+      "artist": "Ariana Grande",
+      "trackId": "https://open.spotify.com/track/2a1PNDDWyt68aKJDc47k4e"
+    },
+    {
+      "song": "Shallow",
+      "artist": "Lady Gaga & Bradley Cooper",
+      "trackId": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+    },
+    {
+      "song": "Sucker",
+      "artist": "Jonas Brothers",
+      "trackId": "https://open.spotify.com/track/4q2v2iZ2DujnVUuKMvC7I5"
+    },
+    {
+      "song": "Old Town Road",
+      "artist": "Lil Nas X Featuring Billy Ray Cyrus",
+      "trackId": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
+    },
+    {
+      "song": "Bad Guy",
+      "artist": "Billie Eilish",
+      "trackId": "https://open.spotify.com/track/7FFXVCjq5RUFe4wDK0d66x"
+    },
+    {
+      "song": "Senorita",
+      "artist": "Shawn Mendes & Camila Cabello",
+      "trackId": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
+    },
+    {
+      "song": "Truth Hurts",
+      "artist": "Lizzo",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "HIGHEST IN THE ROOM",
+      "artist": "Travis Scott",
+      "trackId": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
+    },
+    {
+      "song": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "trackId": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
+    },
+    {
+      "song": "Lose You To Love Me",
+      "artist": "Selena Gomez",
+      "trackId": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
+    },
+    {
+      "song": "Circles",
+      "artist": "Post Malone",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Heartless",
+      "artist": "The Weeknd",
+      "trackId": "https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0"
+    },
+    {
+      "song": "All I Want For Christmas Is You",
+      "artist": "Mariah Carey",
+      "trackId": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "song": "The Box",
+      "artist": "Roddy Ricch",
+      "trackId": "https://open.spotify.com/track/2LBgdytmSXjEVE4nnNOfL7"
+    },
+    {
+      "song": "Blinding Lights",
+      "artist": "The Weeknd",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Toosie Slide",
+      "artist": "Drake",
+      "trackId": "https://open.spotify.com/track/2EL4g2CCs2efSOK2DnihAn"
+    },
+    {
+      "song": "The Scotts",
+      "artist": "THE SCOTTS, Travis Scott & Kid Cudi",
+      "trackId": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
+    },
+    {
+      "song": "Say So",
+      "artist": "Doja Cat Featuring Nicki Minaj",
+      "trackId": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
+    },
+    {
+      "song": "Stuck With U",
+      "artist": "Ariana Grande & Justin Bieber",
+      "trackId": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
+    },
+    {
+      "song": "Savage",
+      "artist": "Megan Thee Stallion",
+      "trackId": "https://open.spotify.com/track/44gWOWjGDJROTwTMGh9RHl"
+    },
+    {
+      "song": "Rain On Me",
+      "artist": "Lady Gaga & Ariana Grande",
+      "trackId": "https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9"
+    },
+    {
+      "song": "Rockstar",
+      "artist": "DaBaby Featuring Roddy Ricch",
+      "trackId": "https://open.spotify.com/track/1ttPzkTSpQUFcEGx8bjerL"
+    },
+    {
+      "song": "Trollz",
+      "artist": "6ix9ine & Nicki Minaj",
+      "trackId": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
+    },
+    {
+      "song": "Cardigan",
+      "artist": "Taylor Swift",
+      "trackId": "https://open.spotify.com/track/2NpEDYpyx0U5uUzTS1q50w"
+    },
+    {
+      "song": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "trackId": "https://open.spotify.com/track/5ZZqNRfHxQ3v1sVNN6Sa27"
+    },
+    {
+      "song": "WAP",
+      "artist": "Cardi B Featuring Megan Thee Stallion",
+      "trackId": "https://open.spotify.com/track/0LMNckdqhd2eQr5xV5NGRi"
+    },
+    {
+      "song": "Dynamite",
+      "artist": "BTS",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Franchise",
+      "artist": "Travis Scott Featuring Young Thug & M.I.A.",
+      "trackId": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
+    },
+    {
+      "song": "Savage Love (Laxed - Siren Beat)",
+      "artist": "Jawsh 685 x Jason Derulo",
+      "trackId": "https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c"
+    },
+    {
+      "song": "Mood",
+      "artist": "24kGoldn Featuring iann dior",
+      "trackId": "https://open.spotify.com/track/391BwF7bbwfL2bez4azQMB"
+    },
+    {
+      "song": "Positions",
+      "artist": "Ariana Grande",
+      "trackId": "https://open.spotify.com/track/493uol07OkelOOzMTh3ses"
+    },
+    {
+      "song": "Life Goes On",
+      "artist": "BTS",
+      "trackId": "https://open.spotify.com/track/493uol07OkelOOzMTh3ses"
+    },
+    {
+      "song": "Willow",
+      "artist": "Taylor Swift",
+      "trackId": "https://open.spotify.com/track/2NpEDYpyx0U5uUzTS1q50w"
+    },
+    {
+      "song": "Drivers License",
+      "artist": "Olivia Rodrigo",
+      "trackId": "https://open.spotify.com/track/1x3snGFDECjKcfHXEPQbJC"
+    },
+    {
+      "song": "What's Next",
+      "artist": "Drake",
+      "trackId": "https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0"
+    },
+    {
+      "song": "Up",
+      "artist": "Cardi B",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Peaches",
+      "artist": "Justin Bieber Featuring Daniel Caesar & Giveon",
+      "trackId": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "song": "Montero (Call Me By Your Name)",
+      "artist": "Lil Nas X",
+      "trackId": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
+    },
+    {
+      "song": "Leave The Door Open",
+      "artist": "Silk Sonic (Bruno Mars & Anderson .Paak)",
+      "trackId": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
+    },
+    {
+      "song": "Rapstar",
+      "artist": "Polo G",
+      "trackId": "https://open.spotify.com/track/2oym9UXtD8BzYcDWRrxADu"
+    },
+    {
+      "song": "Save Your Tears",
+      "artist": "The Weeknd & Ariana Grande",
+      "trackId": "https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX"
+    },
+    {
+      "song": "Good 4 U",
+      "artist": "Olivia Rodrigo",
+      "trackId": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
+    },
+    {
+      "song": "Butter",
+      "artist": "BTS",
+      "trackId": "https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0"
+    },
+    {
+      "song": "Permission To Dance",
+      "artist": "BTS",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Stay",
+      "artist": "The Kid LAROI & Justin Bieber",
+      "trackId": "https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4"
+    },
+    {
+      "song": "Way 2 Sexy",
+      "artist": "Drake Featuring Future & Young Thug",
+      "trackId": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+    },
+    {
+      "song": "My Universe",
+      "artist": "Coldplay x BTS",
+      "trackId": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
+    },
+    {
+      "song": "Industry Baby",
+      "artist": "Lil Nas X & Jack Harlow",
+      "trackId": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "song": "Easy On Me",
+      "artist": "Adele",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "All Too Well (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "trackId": "https://open.spotify.com/track/0kQOmSJb84p2f0sPnstZdR"
+    },
+    {
+      "song": "We Don't Talk About Bruno",
+      "artist": "Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",
+      "trackId": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "song": "Heat Waves",
+      "artist": "Glass Animals",
+      "trackId": "https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0"
+    },
+    {
+      "song": "As It Was",
+      "artist": "Harry Styles",
+      "trackId": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "song": "First Class",
+      "artist": "Jack Harlow",
+      "trackId": "https://open.spotify.com/track/2LsqFrM5TGRBvDOeiXQefA"
+    },
+    {
+      "song": "Wait For U",
+      "artist": "Future Featuring Drake & Tems",
+      "trackId": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "song": "Jimmy Cooks",
+      "artist": "Drake Featuring 21 Savage",
+      "trackId": "https://open.spotify.com/track/5LYsEBLHY4PwmK1MRic1mr"
+    },
+    {
+      "song": "About Damn Time",
+      "artist": "Lizzo",
+      "trackId": "https://open.spotify.com/track/4nbs8cT5xWhyZnmQwb4KC9"
+    },
+    {
+      "song": "Break My Soul",
+      "artist": "Beyonce",
+      "trackId": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
+    },
+    {
+      "song": "Super Freaky Girl",
+      "artist": "Nicki Minaj",
+      "trackId": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
+    },
+    {
+      "song": "Bad Habit",
+      "artist": "Steve Lacy",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Unholy",
+      "artist": "Sam Smith & Kim Petras",
+      "trackId": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
+    },
+    {
+      "song": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "trackId": "https://open.spotify.com/track/2NpEDYpyx0U5uUzTS1q50w"
+    },
+    {
+      "song": "Flowers",
+      "artist": "Miley Cyrus",
+      "trackId": "https://open.spotify.com/track/2bk5EEG7oTNiUHkkqXeVYf"
+    },
+    {
+      "song": "Die For You",
+      "artist": "The Weeknd & Ariana Grande",
+      "trackId": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
+    },
+    {
+      "song": "Last Night",
+      "artist": "Morgan Wallen",
+      "trackId": "https://open.spotify.com/track/13F5i1GqcozCFrZX9CpWi3"
+    },
+    {
+      "song": "Like Crazy",
+      "artist": "Jimin",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Kill Bill",
+      "artist": "SZA",
+      "trackId": "https://open.spotify.com/track/7e6tgMREmA5f9TgbWKiHqR"
+    },
+    {
+      "song": "Vampire",
+      "artist": "Olivia Rodrigo",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Seven",
+      "artist": "Jung Kook Featuring Latto",
+      "trackId": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
+    },
+    {
+      "song": "Try That In A Small Town",
+      "artist": "Jason Aldean",
+      "trackId": "https://open.spotify.com/track/5BqI4ugJL5WaPRQ6MlC8Ho"
+    },
+    {
+      "song": "Rich Men North Of Richmond",
+      "artist": "Oliver Anthony Music",
+      "trackId": "https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"
+    },
+    {
+      "song": "I Remember Everything",
+      "artist": "Zach Bryan Featuring Kacey Musgraves",
+      "trackId": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "song": "Paint The Town Red",
+      "artist": "Doja Cat",
+      "trackId": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "song": "Slime You Out",
+      "artist": "Drake Featuring SZA",
+      "trackId": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
+    },
+    {
+      "song": "First Person Shooter",
+      "artist": "Drake Featuring J. Cole",
+      "trackId": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
+    },
+    {
+      "song": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "trackId": "https://open.spotify.com/track/2PMM8rGCPNQexd6A0qLJks"
+    },
+    {
+      "song": "Is It Over Now? (Taylor's Version) [From The Vault]",
+      "artist": "Taylor Swift",
+      "trackId": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
+    },
+    {
+      "song": "Lovin On Me",
+      "artist": "Jack Harlow",
+      "trackId": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "song": "Rockin' Around The Christmas Tree",
+      "artist": "Brenda Lee",
+      "trackId": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "song": "Yes, And?",
+      "artist": "Ariana Grande",
+      "trackId": "https://open.spotify.com/track/0eanJEFFplPt5ByX33ms63"
+    },
+    {
+      "song": "Hiss",
+      "artist": "Megan Thee Stallion",
+      "trackId": "https://open.spotify.com/track/27Wwwbdh9pKL9n23FOJH9z"
+    },
+    {
+      "song": "Texas Hold 'Em",
+      "artist": "Beyonce",
+      "trackId": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
+    },
+    {
+      "song": "Carnival",
+      "artist": "¥$: Kanye West & Ty Dolla $ign Featuring Rich The Kid & Playboi Carti",
+      "trackId": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
+    },
+    {
+      "song": "We Can't Be Friends (Wait For Your Love)",
+      "artist": "Ariana Grande",
+      "trackId": "https://open.spotify.com/track/3zSnPhuucEb9JbFSxKVcIn"
+    },
+    {
+      "song": "Lose Control",
+      "artist": "Teddy Swims",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Like That",
+      "artist": "Future, Metro Boomin & Kendrick Lamar",
+      "trackId": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+    },
+    {
+      "song": "Too Sweet",
+      "artist": "Hozier",
+      "trackId": "https://open.spotify.com/track/7qVUFZilySegJEvKTERweo"
+    },
+    {
+      "song": "Fortnight",
+      "artist": "Taylor Swift Featuring Post Malone",
+      "trackId": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+    },
+    {
+      "song": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "trackId": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "song": "I Had Some Help",
+      "artist": "Post Malone Featuring Morgan Wallen",
+      "trackId": "https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB"
+    },
+    {
+      "song": "Please Please Please",
+      "artist": "Sabrina Carpenter",
+      "trackId": "https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj"
+    },
+    {
+      "song": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "trackId": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
+    },
+    {
+      "song": "Love Somebody",
+      "artist": "Morgan Wallen",
+      "trackId": "https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2"
+    },
+    {
+      "song": "Squabble Up",
+      "artist": "Kendrick Lamar",
+      "trackId": "https://open.spotify.com/track/2kO0FXEXVh0O6AQVtMsWYO"
+    },
+    {
+      "song": "Die With A Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "trackId": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
+    },
+    {
+      "song": "4X4",
+      "artist": "Travis Scott",
+      "trackId": "https://open.spotify.com/track/2a1PNDDWyt68aKJDc47k4e"
+    },
+    {
+      "song": "Luther",
+      "artist": "Kendrick Lamar & SZA",
+      "trackId": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+    }
+  ]
+}
