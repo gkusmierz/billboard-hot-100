@@ -1,0 +1,778 @@
+#;artist;total
+1;Mariah Carey;78
+2;The Beatles;54
+3;Adele;34
+4;Boyz II Men;34
+5;Taylor Swift;33
+6;Madonna;32
+7;Drake;31
+8;Whitney Houston;31
+9;Michael Jackson;30
+10;The Black Eyed Peas;28
+11;Bee Gees;27
+12;Elton John;23
+13;Usher;22
+14;Elvis Presley With The Jordanaires;21
+15;Janet Jackson;21
+16;Lil Nas X Featuring Billy Ray Cyrus;19
+17;Shaboozey;19
+18;The Supremes;19
+19;Ariana Grande;18
+20;Beyonce;18
+21;Katy Perry;18
+22;TLC;18
+23;Destiny's Child;17
+24;Ed Sheeran;17
+25;Morgan Wallen;17
+26;Olivia Newton-John;17
+27;Rod Stewart;17
+28;The Rolling Stones;17
+29;Bruno Mars;16
+30;Harry Styles;16
+31;Luis Fonsi & Daddy Yankee Featuring Justin Bieber;16
+32;Mariah Carey & Boyz II Men;16
+33;The 4 Seasons;16
+34;BTS;15
+35;Rihanna;15
+36;Bryan Adams;14
+37;Daryl Hall John Oates;14
+38;Los Del Rio;14
+39;Mark Ronson Featuring Bruno Mars;14
+40;Phil Collins;14
+41;The Weeknd;14
+42;Andy Gibb;13
+43;Brandy & Monica;13
+44;Eminem;13
+45;Kendrick Lamar & SZA;13
+46;Bobby Vinton;12
+47;Celine Dion;12
+48;George Michael;12
+49;Janet;12
+50;Lionel Richie;12
+51;Maroon 5;12
+52;Paula Abdul;12
+53;Roberta Flack;12
+54;Robin Thicke Featuring T.I. + Pharrell;12
+55;Santana Featuring Rob Thomas;12
+56;The Chainsmokers Featuring Halsey;12
+57;The Monkees;12
+58;Toni Braxton;12
+59;Usher Featuring Lil Jon & Ludacris;12
+60;Wiz Khalifa Featuring Charlie Puth;12
+61;Alicia Keys;11
+62;All-4-One;11
+63;Christina Aguilera;11
+64;Diana Ross;11
+65;Donna Summer;11
+66;Eminem Featuring Rihanna;11
+67;Jennifer Lopez Featuring Ja Rule;11
+68;Miley Cyrus;11
+69;Olivia Rodrigo;11
+70;Puff Daddy & Faith Evans Featuring 112;11
+71;Roddy Ricch;11
+72;Simon & Garfunkel;11
+73;Stevie Wonder;11
+74;Ashanti;10
+75;Blondie;10
+76;Debby Boone;10
+77;Drake Featuring WizKid & Kyla;10
+78;Flo Rida Featuring T-Pain;10
+79;Jackson 5;10
+80;Kanye West Featuring Jamie Foxx;10
+81;Ke$ha;10
+82;Marvin Gaye;10
+83;Nelly Featuring Kelly Rowland;10
+84;OutKast;10
+85;Pharrell Williams;10
+86;Rihanna Featuring Calvin Harris;10
+87;Rihanna Featuring Drake;10
+88;Santana Featuring The Product G&B;10
+89;50 Cent;9
+90;50 Cent Featuring Olivia;9
+91;Barbra Streisand;9
+92;Beyonce Featuring Sean Paul;9
+93;Bobby Darin;9
+94;Carly Rae Jepsen;9
+95;Cher;9
+96;Diana Ross & Lionel Richie;9
+97;Jack Harlow;9
+98;Justin Timberlake;9
+99;Kim Carnes;9
+100;Lizzo;9
+101;Lorde;9
+102;Mario;9
+103;Monica;9
+104;Percy Faith And His Orchestra;9
+105;Sly & The Family Stone;9
+106;The 5th Dimension;9
+107;Three Dog Night;9
+108;24kGoldn Featuring iann dior;8
+109;Beyonce Featuring Jay Z;8
+110;Bon Jovi;8
+111;Bone Thugs-N-Harmony;8
+112;Flo Rida;8
+113;Gotye Featuring Kimbra;8
+114;Kris Kross;8
+115;Meghan Trainor;8
+116;Paul McCartney And Wings;8
+117;Post Malone Featuring 21 Savage;8
+118;The Police;8
+119;UB40;8
+120;Wings;8
+121;Bobby Lewis;7
+122;Brenda Lee;7
+123;Carpenters;7
+124;Chic;7
+125;Ciara Featuring Petey Pablo;7
+126;DaBaby Featuring Roddy Ricch;7
+127;Iggy Azalea Featuring Charli XCX;7
+128;Joan Jett & The Blackhearts;7
+129;Kelly Clarkson;7
+130;Lady Gaga;7
+131;Maroon 5 Featuring Cardi B;7
+132;Montell Jordan;7
+133;Nelly;7
+134;Paul McCartney And Stevie Wonder;7
+135;Queen;7
+136;Rae Sremmurd Featuring Gucci Mane;7
+137;Rihanna Featuring Jay-Z;7
+138;Snow;7
+139;Soulja Boy Tell'em;7
+140;T.I.;7
+141;The Association;7
+142;The Kid LAROI & Justin Bieber;7
+143;Ace Of Base;6
+144;Chicago;6
+145;Chubby Checker;6
+146;Frankie Avalon;6
+147;George Harrison;6
+148;Gilbert O'Sullivan;6
+149;Herb Alpert;6
+150;Huey Lewis & The News;6
+151;Irene Cara;6
+152;Johnny Horton;6
+153;Justin Bieber;6
+154;KC And The Sunshine Band;6
+155;Katy Perry Featuring Snoop Dogg;6
+156;Kenny Rogers;6
+157;LMFAO Featuring Lauren Bennett & GoonRock;6
+158;MAGIC!;6
+159;Macklemore & Ryan Lewis Featuring Wanz;6
+160;Mary J. Blige;6
+161;Neil Sedaka;6
+162;Nelly Furtado Featuring Timbaland;6
+163;OMI;6
+164;Paul McCartney And Michael Jackson;6
+165;Post Malone Featuring Morgan Wallen;6
+166;Prince;6
+167;Puff Daddy (Featuring Mase);6
+168;R. Kelly & Celine Dion;6
+169;Ray Charles;6
+170;Savage Garden;6
+171;Survivor;6
+172;T.I. Featuring Rihanna;6
+173;The Beach Boys;6
+174;The J. Geils Band;6
+175;The Knack;6
+176;The Temptations;6
+177;Tommy Edwards;6
+178;Tommy Roe;6
+179;Usher And Alicia Keys;6
+180;Zager & Evans;6
+181;fun. Featuring Janelle Monae;6
+182;B.J. Thomas;5
+183;Baauer;5
+184;Beyonce Featuring Slim Thug;5
+185;Billy Joel;5
+186;Billy Ocean;5
+187;Bobby Goldsboro;5
+188;Britney Spears;5
+189;Carole King;5
+190;Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast;5
+191;Chris Brown;5
+192;Christina Aguilera, Lil' Kim, Mya & P!nk;5
+193;Connie Francis;5
+194;Daniel Powter;5
+195;Domenico Modugno;5
+196;Eagles;5
+197;Enrique Iglesias;5
+198;Glass Animals;5
+199;Jay-Z + Alicia Keys;5
+200;Jennifer Lopez;5
+201;Jimmy Dean;5
+202;Jimmy Gilmer And The Fireballs;5
+203;John Denver;5
+204;John Lennon;5
+205;Katy Perry Featuring Kanye West;5
+206;Kendrick Lamar;5
+207;Lady Gaga & Bruno Mars;5
+208;Lil Wayne Featuring Static Major;5
+209;Lulu;5
+210;Macklemore & Ryan Lewis Featuring Ray Dalton;5
+211;Meat Loaf;5
+212;Men At Work;5
+213;Milli Vanilli;5
+214;New Kids On The Block;5
+215;Next;5
+216;Paul Mauriat And His Orchestra;5
+217;Ray Stevens;5
+218;Richard Marx;5
+219;Ricky Martin;5
+220;Roxette;5
+221;SSgt Barry Sadler;5
+222;Sir Mix-A-Lot;5
+223;Starship;5
+224;Steve Winwood;5
+225;Tears For Fears;5
+226;The Bangles;5
+227;The Beatles With Billy Preston;5
+228;The Doors;5
+229;The Emotions;5
+230;The Everly Brothers;5
+231;The Fleetwoods;5
+232;The Osmonds;5
+233;The Rascals;5
+234;The Righteous Brothers;5
+235;The Shirelles;5
+236;The Young Rascals;5
+237;U2;5
+238;Van Halen;5
+239;Vanessa Williams;5
+240;Wham!;5
+241;50 Cent Featuring Nate Dogg;4
+242;Aerosmith;4
+243;America;4
+244;BLACKstreet (Featuring Dr. Dre);4
+245;Bobbie Gentry;4
+246;Bonnie Tyler;4
+247;Cardi B;4
+248;Cardi B Featuring Megan Thee Stallion;4
+249;Christopher Cross;4
+250;Cyndi Lauper;4
+251;Dawn Featuring Tony Orlando;4
+252;Debbie Gibson;4
+253;Del Shannon;4
+254;Dionne & Friends Featuring Elton John, Gladys Knight And Stevie Wonder;4
+255;Don McLean;4
+256;Duran Duran;4
+257;Elton John & Kiki Dee;4
+258;Exile;4
+259;Fergie;4
+260;Four Tops;4
+261;Gwen Stefani;4
+262;Heart;4
+263;Herman's Hermits;4
+264;Jennifer Lopez Featuring LL Cool J;4
+265;Jim Croce;4
+266;Joe Featuring Mystikal;4
+267;John Cougar;4
+268;Johnnie Taylor;4
+269;Johnny Nash;4
+270;Katy Perry Featuring Juicy J;4
+271;Leona Lewis;4
+272;Lipps, Inc.;4
+273;Lloyd Price;4
+274;Maroon 5 Featuring Christina Aguilera;4
+275;Michael Bolton;4
+276;Mr. Mister;4
+277;Nancy Sinatra & Frank Sinatra;4
+278;Nelly, P. Diddy & Murphy Lee;4
+279;Nickelback;4
+280;Nilsson;4
+281;Otis Redding;4
+282;Paul Anka;4
+283;Peaches & Herb;4
+284;Petula Clark;4
+285;Pink Floyd;4
+286;Prince And The Revolution;4
+287;R. Kelly;4
+288;REO Speedwagon;4
+289;Ricky Nelson;4
+290;Sean Kingston;4
+291;Sean Paul;4
+292;Sia Featuring Sean Paul;4
+293;Sinead O'Connor;4
+294;Spice Girls;4
+295;Stevie B;4
+296;The Archies;4
+297;The Box Tops;4
+298;The Browns;4
+299;The Byrds;4
+300;The Captain & Tennille;4
+301;The Chiffons;4
+302;The Chipmunks With David Seville;4
+303;The Human League;4
+304;The Singing Nun (Soeur Sourire);4
+305;Tiffany;4
+306;Tommy James And The Shondells;4
+307;USA For Africa;4
+308;Usher Featuring will.i.am;4
+309;Wilson Phillips;4
+310;A Taste Of Honey;3
+311;Barry Manilow;3
+312;Bert Kaempfert And His Orchestra;3
+313;Bill Withers;3
+314;Billy Paul;3
+315;Billy Preston;3
+316;Bobby Vee;3
+317;Bruce Channel;3
+318;Bryan Adams/Rod Stewart/Sting;3
+319;Carly Simon;3
+320;Chris Brown Featuring T-Pain;3
+321;Color Me Badd;3
+322;Commodores;3
+323;Coolio Featuring L.V.;3
+324;Culture Club;3
+325;David Bowie;3
+326;Dawn;3
+327;Diana Ross & The Supremes;3
+328;Dire Straits;3
+329;Doja Cat;3
+330;Donny Osmond;3
+331;Edwin Starr;3
+332;Falco;3
+333;Far*East Movement Featuring Cataracs & Dev;3
+334;Frankie Valli;3
+335;Future, Metro Boomin & Kendrick Lamar;3
+336;Gene Chandler;3
+337;Glen Campbell;3
+338;Gloria Estefan;3
+339;Gloria Gaynor;3
+340;Grand Funk;3
+341;Hanson;3
+342;Helen Reddy;3
+343;Joe Cocker And Jennifer Warnes;3
+344;Joey Dee & the Starliters;3
+345;John Legend;3
+346;Johnny Preston;3
+347;Justin Timberlake Featuring T.I.;3
+348;K-Ci & JoJo;3
+349;Kenny Loggins;3
+350;Kyu Sakamoto;3
+351;Lady Gaga Featuring Colby O'Donis;3
+352;Lewis Capaldi;3
+353;Lisa Loeb & Nine Stories;3
+354;Little Peggy March;3
+355;Little Stevie Wonder;3
+356;Los Lobos;3
+357;Mac Davis;3
+358;Melanie;3
+359;Migos Featuring Lil Uzi Vert;3
+360;Mr. Big;3
+361;P!nk Featuring Nate Ruess;3
+362;Patti LaBelle & Michael McDonald;3
+363;Paul Anka with Odia Coates;3
+364;Paul Simon;3
+365;Paul and Paula;3
+366;Paula Abdul (Duet With The Wild Pair);3
+367;Pitbull Featuring Ke$ha;3
+368;Player;3
+369;Poison;3
+370;Post Malone;3
+371;Ray Parker Jr.;3
+372;Rick Astley;3
+373;Right Said Fred;3
+374;Roy Orbison And The Candy Men;3
+375;Rupert Holmes;3
+376;Sammy Davis, Jr. with The Mike Curb Congregation;3
+377;Silver Convention;3
+378;Snoop Dogg Featuring Pharrell;3
+379;Sonny & Cher;3
+380;Steve Lacy;3
+381;Terror Squad;3
+382;Terry Jacks;3
+383;The Angels;3
+384;The Animals;3
+385;The Dixie Cups;3
+386;The Drifters;3
+387;The Guess Who;3
+388;The Lovin' Spoonful;3
+389;The Mamas & The Papas;3
+390;The Marcels;3
+391;The New Vaudeville Band;3
+392;The Notorious B.I.G.;3
+393;The Partridge Family Starring Shirley Jones Featuring David Cassidy;3
+394;The Platters;3
+395;The Steve Miller Band;3
+396;The Teddy Bears;3
+397;The Tokens;3
+398;The Tornadoes;3
+399;The Turtles;3
+400;The Weeknd & Ariana Grande;3
+401;Tina Turner;3
+402;Tony Orlando & Dawn;3
+403;Travis Scott;3
+404;Usher Featuring Young Jeezy;3
+405;Wham! Featuring George Michael;3
+406;Wild Cherry;3
+407;Will Smith;3
+408;'N Sync;2
+409;2Pac Featuring K-Ci And JoJo;2
+410;Akon;2
+411;Akon Featuring Snoop Dogg;2
+412;Alannah Myles;2
+413;Amy Grant;2
+414;Anita Ward;2
+415;Archie Bell & The Drells;2
+416;Aretha Franklin;2
+417;Aretha Franklin & George Michael;2
+418;B.o.B Featuring Bruno Mars;2
+419;Bad English;2
+420;Barbra Streisand & Neil Diamond;2
+421;Barbra Streisand/Donna Summer;2
+422;Billy Swan;2
+423;Billy Vera & The Beaters;2
+424;Bo Donaldson And The Heywoods;2
+425;"Bobby ""Boris"" Pickett And The Crypt-Kickers";2
+426;Bobby McFerrin;2
+427;Boston;2
+428;Brandy;2
+429;C+C Music Factory;2
+430;Carl Douglas;2
+431;Chamillionaire Featuring Krayzie Bone;2
+432;Charlie Rich;2
+433;Cheap Trick;2
+434;Childish Gambino;2
+435;Chuck Berry;2
+436;Clay Aiken;2
+437;Club Nouveau;2
+438;Conway Twitty;2
+439;Crazy Town;2
+440;Cutting Crew;2
+441;Dale & Grace;2
+442;Deniece Williams;2
+443;Desiigner;2
+444;Dion;2
+445;Dolly Parton;2
+446;Eddie Kendricks;2
+447;Eddie Rabbitt;2
+448;Fergie Featuring Ludacris;2
+449;Fine Young Cannibals;2
+450;Foreigner;2
+451;Freddie And The Dreamers;2
+452;Gary Lewis And The Playboys;2
+453;George McCrae;2
+454;Gladys Knight And The Pips;2
+455;Glenn Medeiros Featuring Bobby Brown;2
+456;Gloria Estefan & Miami Sound Machine;2
+457;Guns N' Roses;2
+458;Guy Mitchell;2
+459;Halsey;2
+460;Henry Mancini And His Orchestra;2
+461;Hugh Masekela;2
+462;Ini Kamoze;2
+463;Isaac Hayes;2
+464;Ja Rule Featuring Ashanti;2
+465;Jan & Dean;2
+466;Janis Joplin;2
+467;Jay Sean Featuring Lil Wayne;2
+468;Jimmy Soul;2
+469;John Fred And The Playboys;2
+470;John Parr;2
+471;Juvenile Featuring Soulja Slim;2
+472;Kenny Rogers Duet With Dolly Parton;2
+473;Kool & The Gang;2
+474;LMFAO;2
+475;Lauryn Hill;2
+476;Lawrence Welk And His Orchestra;2
+477;Leo Sayer;2
+478;Lesley Gore;2
+479;Lisa Lisa And Cult Jam;2
+480;Lonestar;2
+481;Ludacris Featuring Pharrell;2
+482;MFSB Featuring The Three Degrees;2
+483;Manfred Mann;2
+484;Mariah Carey Featuring Jay-Z;2
+485;Mark Dinning;2
+486;Martika;2
+487;Marty Robbins;2
+488;Mary Macgregor;2
+489;Mary Wells;2
+490;Maureen McGovern;2
+491;Meco;2
+492;Megan Thee Stallion;2
+493;Michael Sembello;2
+494;Mims;2
+495;Ne-Yo;2
+496;Neil Diamond;2
+497;Nelly Featuring Paul Wall, Ali & Gipp;2
+498;Ohio Players;2
+499;Oliver Anthony Music;2
+500;Owl City;2
+501;P!nk;2
+502;Patti Austin A Duet With James Ingram;2
+503;Percy Sledge;2
+504;Peter Cetera;2
+505;Plain White T's;2
+506;Polo G;2
+507;Prince And The N.P.G.;2
+508;Ray Charles And His Orchestra With The Raelettes;2
+509;Rick Springfield;2
+510;Ringo Starr;2
+511;SWV;2
+512;Santo & Johnny;2
+513;"Shaggy Feat. Ricardo ""RikRok"" Ducent";2
+514;Shakira Featuring Wyclef Jean;2
+515;Sheena Easton;2
+516;Shelley Fabares;2
+517;Silk;2
+518;Silk Sonic (Bruno Mars & Anderson .Paak);2
+519;Simply Red;2
+520;Sisqo;2
+521;Smokey Robinson & The Miracles;2
+522;Starland Vocal Band;2
+523;Steam;2
+524;Steve Lawrence;2
+525;Stories;2
+526;Styx;2
+527;Surface;2
+528;Taylor Swift Featuring Post Malone;2
+529;"The 4 Seasons Featuring the ""Sound of Frankie Valli""";2
+530;The Buckinghams;2
+531;The Crystals;2
+532;The Doobie Brothers;2
+533;The Elton John Band;2
+534;The Essex;2
+535;The Heights;2
+536;The Highwaymen;2
+537;The Manhattans;2
+538;The Notorious B.I.G. Featuring Puff Daddy & Mase;2
+539;The Rooftop Singers;2
+540;The Staple Singers;2
+541;The Troggs;2
+542;Timbaland Featuring Nelly Furtado & Justin Timberlake;2
+543;U.S. Bonds;2
+544;Vicki Lawrence;2
+545;Wilbert Harrison;2
+546;Yes;2
+547;6ix9ine & Nicki Minaj;1
+548;? (Question Mark) & The Mysterians;1
+549;ABBA;1
+550;AWB;1
+551;Aaliyah;1
+552;Air Supply;1
+553;Al Green;1
+554;Al Wilson;1
+555;Alan O'Day;1
+556;Amii Stewart;1
+557;Andy Kim;1
+558;Anne Murray;1
+559;Ariana Grande & Justin Bieber;1
+560;Atlantic Starr;1
+561;Avril Lavigne;1
+562;B2K & P. Diddy;1
+563;Bachman-Turner Overdrive;1
+564;Bananarama;1
+565;Barenaked Ladies;1
+566;Barry McGuire;1
+567;Barry White;1
+568;Bay City Rollers;1
+569;Belinda Carlisle;1
+570;Bellamy Brothers;1
+571;Berlin;1
+572;Bette Midler;1
+573;Bill Conti;1
+574;Bill Medley & Jennifer Warnes;1
+575;Billie Eilish;1
+576;Billy Idol;1
+577;Blue Swede;1
+578;Bob Seger;1
+579;Bobby Brown;1
+580;Bread;1
+581;Brian Hyland;1
+582;Bruce Hornsby & The Range;1
+583;C.W. McCall;1
+584;Camila Cabello Featuring Young Thug;1
+585;Captain & Tennille;1
+586;Cardi B, Bad Bunny & J Balvin;1
+587;Carrie Underwood;1
+588;Coldplay;1
+589;Coldplay x BTS;1
+590;Creed;1
+591;D4L;1
+592;DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne;1
+593;"Dave ""Baby"" Cortez";1
+594;David Rose and His Orchestra;1
+595;David Soul;1
+596;Dean Martin;1
+597;Def Leppard;1
+598;Dexys Midnight Runners;1
+599;Dionne Warwicke & Spinners;1
+600;Divine;1
+601;Doja Cat Featuring Nicki Minaj;1
+602;Donovan;1
+603;Drake Featuring 21 Savage;1
+604;Drake Featuring Future & Young Thug;1
+605;Drake Featuring J. Cole;1
+606;Drake Featuring SZA;1
+607;EMF;1
+608;Earth, Wind & Fire;1
+609;Edgar Winter Group;1
+610;Elvis Presley;1
+611;Eminem, Dr. Dre & 50 Cent;1
+612;Eric Clapton;1
+613;Ernie K-Doe;1
+614;Eurythmics;1
+615;Expose;1
+616;Extreme;1
+617;Fantasia;1
+618;Fleetwood Mac;1
+619;Frank Sinatra;1
+620;Freddy Fender;1
+621;Future Featuring Drake & Tems;1
+622;Genesis;1
+623;George Michael/Elton John;1
+624;Gordon Lightfoot;1
+625;Gregory Abbott;1
+626;Hamilton, Joe Frank & Reynolds;1
+627;Harry Chapin;1
+628;Hi-Five;1
+629;Hollywood Argyles;1
+630;Hozier;1
+631;INXS;1
+632;James Blunt;1
+633;James Ingram;1
+634;James Taylor;1
+635;Jan Hammer;1
+636;Jason Aldean;1
+637;Jason Derulo;1
+638;Jawsh 685 x Jason Derulo;1
+639;Jeannie C. Riley;1
+640;Jimin;1
+641;Joe Dowell;1
+642;John Lennon With The Plastic Ono Nuclear Band;1
+643;John Sebastian;1
+644;John Travolta & Olivia Newton-John;1
+645;John Waite;1
+646;Johnny Mathis/Deniece Williams;1
+647;Johnny Rivers;1
+648;Jon Bon Jovi;1
+649;Jonas Brothers;1
+650;Jung Kook Featuring Latto;1
+651;Justin Bieber Featuring Daniel Caesar & Giveon;1
+652;Kanye West;1
+653;Karyn White;1
+654;Kim Wilde;1
+655;Labelle;1
+656;Lady Gaga & Ariana Grande;1
+657;Lady Gaga & Bradley Cooper;1
+658;Larry Verne;1
+659;Lil Nas X;1
+660;Lil Nas X & Jack Harlow;1
+661;Linda Ronstadt;1
+662;Little Eva;1
+663;Londonbeat;1
+664;Looking Glass;1
+665;Lorne Greene;1
+666;Lou Christie;1
+667;Louis Armstrong And The All Stars;1
+668;Love Unlimited Orchestra;1
+669;Ludacris Featuring Shawnna;1
+670;M;1
+671;Manfred Mann's Earth Band;1
+672;Mariah Carey Featuring Joe & 98 Degrees;1
+673;Marilyn McCoo & Billy Davis Jr.;1
+674;Marky Mark & The Funky Bunch Featuring Loleatta Holloway;1
+675;Maurice Williams & The Zodiacs;1
+676;Maxi Priest;1
+677;Michael Damian;1
+678;Michael Jackson With Siedah Garrett;1
+679;Mike + The Mechanics;1
+680;Minnie Riperton;1
+681;Mr. Acker Bilk;1
+682;Nancy Sinatra;1
+683;Neil Young;1
+684;Nelly Furtado;1
+685;Nelson;1
+686;Nick Gilder;1
+687;Nicki Minaj;1
+688;Nino Tempo & April Stevens;1
+689;OutKast Featuring Sleepy Brown;1
+690;P.M. Dawn;1
+691;Paper Lace;1
+692;Pat Boone;1
+693;Paul & Linda McCartney;1
+694;Paul Young;1
+695;Peabo Bryson & Regina Belle;1
+696;Pet Shop Boys;1
+697;Peter And Gordon;1
+698;Peter Cetera With Amy Grant;1
+699;Peter Gabriel;1
+700;Peter, Paul & Mary;1
+701;Phil Collins and Marilyn Martin;1
+702;Pitbull Featuring Ne-Yo, Afrojack & Nayer;1
+703;Post Malone & Swae Lee;1
+704;Post Malone Featuring Ty Dolla $ign;1
+705;Ready For The World;1
+706;Rhythm Heritage;1
+707;Rick Dees & His Cast Of Idiots;1
+708;Rihanna Featuring Britney Spears;1
+709;Robert John;1
+710;Robert Palmer;1
+711;Rose Royce;1
+712;Roy Orbison;1
+713;Ruby And The Romantics;1
+714;SZA;1
+715;Sabrina Carpenter;1
+716;Sam Smith & Kim Petras;1
+717;Seal;1
+718;Selena Gomez;1
+719;Shaggy Featuring Rayvon;1
+720;Shaun Cassidy;1
+721;Shawn Mendes & Camila Cabello;1
+722;Sheriff;1
+723;Simple Minds;1
+724;Stars On 45;1
+725;Steve Miller;1
+726;Strawberry Alarm Clock;1
+727;Sweet Sensation;1
+728;T-Pain Featuring Yung Joc;1
+729;THE SCOTTS, Travis Scott & Kid Cudi;1
+730;Taio Cruz Featuring Ludacris;1
+731;Taylor Dayne;1
+732;Taylor Hicks;1
+733;Taylor Swift Featuring Kendrick Lamar;1
+734;Teddy Swims;1
+735;Terence Trent D'Arby;1
+736;The Chi-lites;1
+737;The Dave Clark Five;1
+738;The Elegants;1
+739;The Escape Club;1
+740;The Honey Cone;1
+741;The Hues Corporation;1
+742;The Kingston Trio;1
+743;The Lemon Pipers;1
+744;The Marvelettes;1
+745;The McCoys;1
+746;The Miracles;1
+747;The O'Jays;1
+748;The Raiders;1
+749;The Shangri-Las;1
+750;The Shocking Blue;1
+751;The Sylvers;1
+752;The Tymes;1
+753;The Weeknd Featuring Daft Punk;1
+754;Thelma Houston;1
+755;Timmy T.;1
+756;Tommy Page;1
+757;Toni Basil;1
+758;Toto;1
+759;Travis Scott Featuring Young Thug & M.I.A.;1
+760;Twista Featuring Kanye West & Jamie Foxx;1
+761;Van McCoy & The Soul City Symphony;1
+762;Vangelis;1
+763;Vanilla Ice;1
+764;Vertical Horizon;1
+765;Walter Murphy & The Big Apple Band;1
+766;Wayne Fontana & The Mindbenders;1
+767;Whitesnake;1
+768;Will Smith Featuring Dru Hill & Kool Mo Dee;1
+769;Will To Power;1
+770;Wiz Khalifa;1
+771;XXXTENTACION;1
+772;Yvonne Elliman;1
+773;Zach Bryan Featuring Kacey Musgraves;1
+774;Zayn;1
+775;a-ha;1
+776;matchbox twenty;1
+777;¥$: Kanye West & Ty Dolla $ign Featuring Rich The Kid & Playboi Carti;1

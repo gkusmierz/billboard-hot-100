@@ -1,0 +1,1180 @@
+#;artist;song;total;trackId
+1;Lil Nas X Featuring Billy Ray Cyrus;Old Town Road;19;https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG
+2;Shaboozey;A Bar Song (Tipsy);19;https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K
+3;Mariah Carey;All I Want For Christmas Is You;18;https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
+4;Luis Fonsi & Daddy Yankee Featuring Justin Bieber;Despacito;16;https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb
+5;Mariah Carey & Boyz II Men;One Sweet Day;16;https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13
+6;Morgan Wallen;Last Night;16;https://open.spotify.com/track/13F5i1GqcozCFrZX9CpWi3
+7;Harry Styles;As It Was;15;https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e
+8;Boyz II Men;I'll Make Love To You;14;https://open.spotify.com/track/627KV5gq7CbBa3RaivClx6
+9;Elton John;Candle In The Wind 1997/Something About The Way You Look Tonight;14;https://open.spotify.com/track/6NgpEQZnBj7mPls6Po5nFf
+10;Los Del Rio;Macarena (Bayside Boys Mix);14;https://open.spotify.com/track/2df5QsXucx4VLiHNGusXD5
+11;Mariah Carey;We Belong Together;14;https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU
+12;Mark Ronson Featuring Bruno Mars;Uptown Funk!;14;https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS
+13;The Black Eyed Peas;I Gotta Feeling;14;https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG
+14;Whitney Houston;I Will Always Love You;14;https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm
+15;Boyz II Men;"End Of The Road (From ""Boomerang"")";13;https://open.spotify.com/track/5SZHsDhq6Nx5ozb8mLF5hu
+16;Brandy & Monica;The Boy Is Mine;13;https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt
+17;Kendrick Lamar & SZA;Luther;13;https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd
+18;Ed Sheeran;Shape Of You;12;https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
+19;Eminem;Lose Yourself;12;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+20;Robin Thicke Featuring T.I. + Pharrell;Blurred Lines;12;https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb
+21;Santana Featuring Rob Thomas;Smooth;12;https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW
+22;The Black Eyed Peas;Boom Boom Pow;12;https://open.spotify.com/track/3opVsyWVYEAFK9bJAG8Opa
+23;The Chainsmokers Featuring Halsey;Closer;12;https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw
+24;Usher Featuring Lil Jon & Ludacris;Yeah!;12;https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX
+25;Wiz Khalifa Featuring Charlie Puth;See You Again;12;https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc
+26;All-4-One;I Swear;11;https://open.spotify.com/track/0wH14m3pTbudEnb8VSWNHy
+27;Destiny's Child;Independent Women Part I;11;https://open.spotify.com/track/72AK6S3YqO2UNdrhtoN8vu
+28;Drake;God's Plan;11;https://open.spotify.com/track/6BSpk93XTt2CJ7gpROG6zU
+29;Puff Daddy & Faith Evans Featuring 112;I'll Be Missing You;11;https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF
+30;Roddy Ricch;The Box;11;https://open.spotify.com/track/2LBgdytmSXjEVE4nnNOfL7
+31;Toni Braxton;Un-Break My Heart;11;https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB
+32;Adele;Easy On Me;10;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+33;Adele;Hello;10;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+34;Ashanti;Foolish;10;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+35;BTS;Butter;10;https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0
+36;Beyonce;Irreplaceable;10;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+37;Debby Boone;You Light Up My Life;10;https://open.spotify.com/track/3dFR132gzO8jxD57R2gid3
+38;Drake;In My Feelings;10;https://open.spotify.com/track/5TnGSsXSayYEgpjFme7tlm
+39;Drake Featuring WizKid & Kyla;One Dance;10;https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0
+40;Flo Rida Featuring T-Pain;Low;10;https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J
+41;Kanye West Featuring Jamie Foxx;Gold Digger;10;https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK
+42;Nelly Featuring Kelly Rowland;Dilemma;10;https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM
+43;Olivia Newton-John;Physical;10;https://open.spotify.com/track/6G86JCfY38ARyupZdEGhuS
+44;Pharrell Williams;Happy;10;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+45;Rihanna Featuring Calvin Harris;We Found Love;10;https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py
+46;Santana Featuring The Product G&B;Maria Maria;10;https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc
+47;50 Cent;In Da Club;9;https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc
+48;50 Cent Featuring Olivia;Candy Shop;9;https://open.spotify.com/track/0GYMPviOI7OpWqlsSZsZ5C
+49;Beyonce Featuring Sean Paul;Baby Boy;9;https://open.spotify.com/track/4WY3HyGXsWqjFRCVD6gnTe
+50;Bobby Darin;Mack The Knife;9;https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o
+51;Carly Rae Jepsen;Call Me Maybe;9;https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx
+52;Diana Ross & Lionel Richie;Endless Love;9;https://open.spotify.com/track/4lxURgzko5Jizais6YqF3p
+53;Ke$ha;TiK ToK;9;https://open.spotify.com/track/3LGRB5Mms3Ibg0XuMWjL5R
+54;Kim Carnes;Bette Davis Eyes;9;https://open.spotify.com/track/6Tpc2GoGC8XpjtRPmwBfLi
+55;Lorde;Royals;9;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+56;Mario;Let Me Love You;9;https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY
+57;Maroon 5;One More Night;9;https://open.spotify.com/track/6qxvy9Pe4RJIq5JBVbbwbS
+58;OutKast;Hey Ya!;9;https://open.spotify.com/track/4NqcdlgmlssGvbRPDHnQzz
+59;Percy Faith And His Orchestra;"The Theme From ""A Summer Place""";9;https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL
+60;Rihanna Featuring Drake;Work;9;https://open.spotify.com/track/4mhjQJhJxX2vbXQA7iemX2
+61;The Beatles;Hey Jude;9;https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS
+62;24kGoldn Featuring iann dior;Mood;8;https://open.spotify.com/track/391BwF7bbwfL2bez4azQMB
+63;Ariana Grande;7 Rings;8;https://open.spotify.com/track/2a1PNDDWyt68aKJDc47k4e
+64;Bee Gees;Night Fever;8;https://open.spotify.com/track/4wwRROf47MXBX5u5Knwixx
+65;Beyonce Featuring Jay Z;Crazy In Love;8;https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr
+66;Bone Thugs-N-Harmony;Tha Crossroads;8;https://open.spotify.com/track/5KSJ9k1FYjFLnIRlJT2wF8
+67;Drake;Nice For What;8;https://open.spotify.com/track/0lY5HA88PAZkeiOMMQDvxg
+68;Gotye Featuring Kimbra;Somebody That I Used To Know;8;https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV
+69;Janet Jackson;That's The Way Love Goes;8;https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg
+70;Kris Kross;Jump;8;https://open.spotify.com/track/3GsS8jzoixpCnp4jDWCEvb
+71;Mariah Carey;Dreamlover;8;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+72;Mariah Carey;Fantasy;8;https://open.spotify.com/track/4nbs8cT5xWhyZnmQwb4KC9
+73;Meghan Trainor;All About That Bass;8;https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7
+74;Miley Cyrus;Flowers;8;https://open.spotify.com/track/2bk5EEG7oTNiUHkkqXeVYf
+75;Olivia Rodrigo;Drivers License;8;https://open.spotify.com/track/1x3snGFDECjKcfHXEPQbJC
+76;Post Malone Featuring 21 Savage;Rockstar;8;https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt
+77;Rod Stewart;Tonight's The Night (Gonna Be Alright);8;https://open.spotify.com/track/67mtN6BlsJR0LVyzvNZnGt
+78;Taylor Swift;Anti-Hero;8;https://open.spotify.com/track/2NpEDYpyx0U5uUzTS1q50w
+79;The Police;Every Breath You Take;8;https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1
+80;Usher;Burn;8;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+81;Adele;Rolling In The Deep;7;https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk
+82;Andy Gibb;Shadow Dancing;7;https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0
+83;Ariana Grande;Thank U, Next;7;https://open.spotify.com/track/0BeR2fJmYnKNn7IORw3GR9
+84;Bobby Lewis;Tossin' And Turnin';7;https://open.spotify.com/track/79s3pSe1u6ggQBEwVPm58Z
+85;Bryan Adams;(Everything I Do) I Do It For You;7;https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc
+86;Ciara Featuring Petey Pablo;Goodies;7;https://open.spotify.com/track/5iHk7Ucod6p5mwkT4lBtwd
+87;DaBaby Featuring Roddy Ricch;Rockstar;7;https://open.spotify.com/track/1ttPzkTSpQUFcEGx8bjerL
+88;Eminem Featuring Rihanna;Love The Way You Lie;7;https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED
+89;Iggy Azalea Featuring Charli XCX;Fancy;7;https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX
+90;Janet;All For You;7;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+91;Joan Jett & The Blackhearts;I Love Rock 'N Roll;7;https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie
+92;Justin Timberlake;SexyBack;7;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+93;Katy Perry;I Kissed A Girl;7;https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9
+94;Lizzo;Truth Hurts;7;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+95;Madonna;Take A Bow;7;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+96;Maroon 5 Featuring Cardi B;Girls Like You;7;https://open.spotify.com/track/6V1bu6o1Yo5ZXnsCJU8Ovk
+97;Marvin Gaye;I Heard It Through The Grapevine;7;https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw
+98;Michael Jackson;Billie Jean;7;https://open.spotify.com/track/3a7sX4caJfw00aAsvQLaoK
+99;Michael Jackson;Black Or White;7;https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4
+100;Montell Jordan;This Is How We Do It;7;https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD
+101;Nelly;Hot In Herre;7;https://open.spotify.com/track/3nM8GScsfIV4huv42WLNeZ
+102;Paul McCartney And Stevie Wonder;Ebony And Ivory;7;https://open.spotify.com/track/1FYTt8izKA8EMqhULwqOcU
+103;Rae Sremmurd Featuring Gucci Mane;Black Beatles;7;https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo
+104;Rihanna Featuring Jay-Z;Umbrella;7;https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV
+105;Snow;Informer;7;https://open.spotify.com/track/0EgUGqV7o7zZ9gyTIA1O18
+106;Soulja Boy Tell'em;Crank That (Soulja Boy);7;https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi
+107;T.I.;Whatever You Like;7;https://open.spotify.com/track/29gelu2enuB2yE7u6EGNdc
+108;TLC;Waterfalls;7;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+109;Taylor Swift;Blank Space;7;https://open.spotify.com/track/6MkVZbITZjMAzvPaj8qNUQ
+110;The Beatles;I Want To Hold Your Hand;7;https://open.spotify.com/track/0g1NjFyzJ6FFEOTsuiJLdv
+111;The Kid LAROI & Justin Bieber;Stay;7;https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4
+112;The Monkees;I'm A Believer;7;https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2
+113;UB40;"Can't Help Falling In Love (From ""Sliver"")";7;https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0
+114;Ace Of Base;The Sign;6;https://open.spotify.com/track/0kQOmSJb84p2f0sPnstZdR
+115;Alicia Keys;Fallin';6;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+116;Blondie;Call Me;6;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+117;Boyz II Men;On Bended Knee;6;https://open.spotify.com/track/4Gmkqn3V7IMTkOmmiX7cbb
+118;Bruno Mars;Locked Out Of Heaven;6;https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh
+119;Celine Dion;"Because You Loved Me (From ""Up Close & Personal"")";6;https://open.spotify.com/track/3Oaotz39bz2JkfStvI88tL
+120;Chic;Le Freak;6;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+121;Elvis Presley With The Jordanaires;Are You Lonesome To-night?;6;https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k
+122;Flo Rida;Right Round;6;https://open.spotify.com/track/7pBqhU1BHW0FhRuMpT26HX
+123;Gilbert O'Sullivan;Alone Again (Naturally);6;https://open.spotify.com/track/54pvEYFocTlvIAQOfXSjqV
+124;Irene Cara;Flashdance...What A Feeling;6;https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX
+125;Jack Harlow;Lovin On Me;6;https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU
+126;Jennifer Lopez Featuring Ja Rule;Ain't It Funny;6;https://open.spotify.com/track/4ZOyH6KjomjlqCz3oFqglr
+127;Johnny Horton;The Battle Of New Orleans;6;https://open.spotify.com/track/2YfDQbQJhIL40untMcU1K0
+128;Katy Perry Featuring Snoop Dogg;California Gurls;6;https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH
+129;Kenny Rogers;Lady;6;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+130;LMFAO Featuring Lauren Bennett & GoonRock;Party Rock Anthem;6;https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P
+131;Lady Gaga;Born This Way;6;https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca
+132;MAGIC!;Rude;6;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+133;Macklemore & Ryan Lewis Featuring Wanz;Thrift Shop;6;https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9
+134;Madonna;Like A Virgin;6;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+135;Mary J. Blige;Family Affair;6;https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu
+136;Nelly Furtado Featuring Timbaland;Promiscuous;6;https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN
+137;OMI;Cheerleader;6;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+138;Paul McCartney And Michael Jackson;Say Say Say;6;https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO
+139;Post Malone Featuring Morgan Wallen;I Had Some Help;6;https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB
+140;Puff Daddy (Featuring Mase);Can't Nobody Hold Me Down;6;https://open.spotify.com/track/1EM23A621Z0QyTlWKu7T1l
+141;R. Kelly & Celine Dion;I'm Your Angel;6;https://open.spotify.com/track/1rPfJUj2s8lcSXW5iSV5VV
+142;Roberta Flack;The First Time Ever I Saw Your Face;6;https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf
+143;Simon & Garfunkel;Bridge Over Troubled Water;6;https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9
+144;Survivor;Eye Of The Tiger;6;https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e
+145;T.I. Featuring Rihanna;Live Your Life;6;https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN
+146;The 5th Dimension;Aquarius/Let The Sunshine In (The Flesh Failures);6;https://open.spotify.com/track/0HZlND4giwzgolBpaNIRGV
+147;The J. Geils Band;Centerfold;6;https://open.spotify.com/track/6LfVnsBt9cgj77XhPcBaSB
+148;The Knack;My Sharona;6;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+149;The Weeknd;The Hills;6;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+150;Three Dog Night;Joy To The World;6;https://open.spotify.com/track/0q4DbCRYxEAZQXXyCFhNe3
+151;Tommy Edwards;It's All In The Game;6;https://open.spotify.com/track/17Xxp5dtS4GmdGjNZNb5Gk
+152;Usher;U Got It Bad;6;https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv
+153;Usher And Alicia Keys;My Boo;6;https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo
+154;Zager & Evans;In The Year 2525;6;https://open.spotify.com/track/57mzysKYFT64fWGhdXAyva
+155;fun. Featuring Janelle Monae;We Are Young;6;https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD
+156;Adele;Someone Like You;5;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+157;Alicia Keys;No One;5;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+158;Baauer;Harlem Shake;5;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+159;Beyonce Featuring Slim Thug;Check On It;5;https://open.spotify.com/track/2RWxrpsFshOBFwRBRstUlQ
+160;Bobby Goldsboro;Honey;5;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+161;Bryan Adams;Have You Ever Really Loved A Woman?;5;https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks
+162;Carole King;It's Too Late/I Feel The Earth Move;5;https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z
+163;Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast;We Don't Talk About Bruno;5;https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz
+164;Chris Brown;Run It!;5;https://open.spotify.com/track/6dbSBQXCctYSVryynHXaZ4
+165;Christina Aguilera;Genie In A Bottle;5;https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP
+166;Christina Aguilera, Lil' Kim, Mya & P!nk;Lady Marmalade;5;https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P
+167;Daniel Powter;Bad Day;5;https://open.spotify.com/track/6PGq03CNnUf2HrlQxtOcTS
+168;Domenico Modugno;Nel Blu Dipinto Di Blu (Volare);5;https://open.spotify.com/track/06UAZUY5qyFy50poO0nLBY
+169;Donna Summer;Bad Girls;5;https://open.spotify.com/track/3V4WB8F8Bq21pIISRRGtXT
+170;Ed Sheeran;Perfect;5;https://open.spotify.com/track/1B5YzNyVvUJsIM6AuwPz7P
+171;Elvis Presley With The Jordanaires;It's Now Or Never;5;https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX
+172;Frankie Avalon;Venus;5;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+173;Glass Animals;Heat Waves;5;https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0
+174;Jackson 5;I'll Be There;5;https://open.spotify.com/track/3AqOip5BipwZReSnYPaW6O
+175;Jay-Z + Alicia Keys;Empire State Of Mind;5;https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO
+176;Jennifer Lopez;If You Had My Love;5;https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn
+177;Jennifer Lopez Featuring Ja Rule;I'm Real;5;https://open.spotify.com/track/6MLsahMK3VvH9NUwXOktdS
+178;Jimmy Dean;Big Bad John;5;https://open.spotify.com/track/4cRJvAh0BwNng8nO5Vnf5F
+179;Jimmy Gilmer And The Fireballs;Sugar Shack;5;https://open.spotify.com/track/4XoYeolVYTiddO9wZLXLgl
+180;John Lennon;(Just Like) Starting Over;5;https://open.spotify.com/track/6KCmJ8VI6VYNRNubSqi0Ck
+181;Katy Perry Featuring Kanye West;E.T.;5;https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq
+182;Lady Gaga & Bruno Mars;Die With A Smile;5;https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ
+183;Lil Wayne Featuring Static Major;Lollipop;5;https://open.spotify.com/track/1pm7lQGl6mvKWDxesZTVFp
+184;Lulu;To Sir With Love;5;https://open.spotify.com/track/2SJo1P387WJHJx1uFbyrRj
+185;Macklemore & Ryan Lewis Featuring Ray Dalton;Can't Hold Us;5;https://open.spotify.com/track/22skzmqfdWrjJylampe0kt
+186;Meat Loaf;I'd Do Anything For Love (But I Won't Do That);5;https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In
+187;Monica;The First Night;5;https://open.spotify.com/track/4nbs8cT5xWhyZnmQwb4KC9
+188;Next;Too Close;5;https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy
+189;Paul Mauriat And His Orchestra;Love Is Blue (L'amour Est Bleu);5;https://open.spotify.com/track/6vUhLEkY17FlxjEysVA6SX
+190;Paula Abdul;Rush Rush;5;https://open.spotify.com/track/3fyHsXImY24Yxf2YRYOG65
+191;Prince;When Doves Cry;5;https://open.spotify.com/track/0lY5HA88PAZkeiOMMQDvxg
+192;Ray Charles;I Can't Stop Loving You;5;https://open.spotify.com/track/2b8cQfktOXRqaeAXSB4zaP
+193;Ricky Martin;Livin' La Vida Loca;5;https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd
+194;Rihanna;Rude Boy;5;https://open.spotify.com/track/02G0XtMP9KN3h3xqXnMr4m
+195;Roberta Flack;Killing Me Softly With His Song;5;https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob
+196;Rod Stewart;Maggie May/Reason To Believe;5;https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7
+197;SSgt Barry Sadler;The Ballad Of The Green Berets;5;https://open.spotify.com/track/0yjNmllr3Ew6f97TqPuEqa
+198;Sir Mix-A-Lot;Baby Got Back;5;https://open.spotify.com/track/2vHzLVODw6jgIRzMpBB0Cs
+199;The 4 Seasons;Big Girls Don't Cry;5;https://open.spotify.com/track/4AniPkv5vgdE1n6VKreiyI
+200;The 4 Seasons;Sherry;5;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+201;The Beatles;Can't Buy Me Love;5;https://open.spotify.com/track/4iVudOuRcKPGK8y7GqSZKP
+202;The Beatles With Billy Preston;Get Back;5;https://open.spotify.com/track/1Fmx1H4LS8thxeKaZSQw6d
+203;The Emotions;Best Of My Love;5;https://open.spotify.com/track/5U2UT25lVVeObiDLzyg6ZZ
+204;The Everly Brothers;Cathy's Clown;5;https://open.spotify.com/track/27bw4i8LnECzVlbMZ4kFHw
+205;The Osmonds;One Bad Apple;5;https://open.spotify.com/track/50UoJUrslRVqG0cg6uboyn
+206;The Rascals;People Got To Be Free;5;https://open.spotify.com/track/49oQUbmhXqjGb850ERxtfb
+207;Van Halen;Jump;5;https://open.spotify.com/track/6SdQfCiVae1EXK1pQ6b92o
+208;Vanessa Williams;Save The Best For Last;5;https://open.spotify.com/track/4yRUjOBsj0cpjabtum0fML
+209;Wings;Silly Love Songs;5;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+210;50 Cent Featuring Nate Dogg;21 Questions;4;https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J
+211;Aerosmith;I Don't Want To Miss A Thing;4;https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq
+212;Andy Gibb;I Just Want To Be Your Everything;4;https://open.spotify.com/track/5EdlwzcgIAYs2HGvOnczPN
+213;B.J. Thomas;Raindrops Keep Fallin' On My Head;4;https://open.spotify.com/track/2s1Yh0AywJhLsKKZ9vM0tm
+214;BLACKstreet (Featuring Dr. Dre);No Diggity;4;https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ
+215;Bee Gees;How Can You Mend A Broken Heart;4;https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk
+216;Bee Gees;Stayin' Alive;4;https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH
+217;Beyonce;Single Ladies (Put A Ring On It);4;https://open.spotify.com/track/2ZBNclC5wm4GtiWaeh0DMx
+218;Bobbie Gentry;Ode To Billie Joe;4;https://open.spotify.com/track/4FdDorlbJTVHcH3djLbIfn
+219;Bobby Vinton;Roses Are Red (My Love);4;https://open.spotify.com/track/5zw4SajQ2IKvjnSWXOSDrh
+220;Bobby Vinton;There! I've Said It Again;4;https://open.spotify.com/track/3mwiyHBHfAzOe89MwqJeEb
+221;Bon Jovi;Livin' On A Prayer;4;https://open.spotify.com/track/0ee1DiZF94NSqqpG0XHUzH
+222;Bonnie Tyler;Total Eclipse Of The Heart;4;https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj
+223;Bruno Mars;Grenade;4;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+224;Bruno Mars;Just The Way You Are;4;https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ
+225;Cardi B Featuring Megan Thee Stallion;WAP;4;https://open.spotify.com/track/0LMNckdqhd2eQr5xV5NGRi
+226;Carpenters;(They Long To Be) Close To You;4;https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA
+227;Celine Dion;The Power Of Love;4;https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n
+228;Cher;Believe;4;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+229;Christina Aguilera;Come On Over Baby (All I Want Is You);4;https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX
+230;Daryl Hall John Oates;Maneater;4;https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ
+231;Dawn Featuring Tony Orlando;Tie A Yellow Ribbon Round The Ole Oak Tree;4;https://open.spotify.com/track/12UzVR0M7asW2MHAZRJk0I
+232;Del Shannon;Runaway;4;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+233;Diana Ross;Upside Down;4;https://open.spotify.com/track/3HnhrVBybVBzp9yEQcAzfC
+234;Dionne & Friends Featuring Elton John, Gladys Knight And Stevie Wonder;That's What Friends Are For;4;https://open.spotify.com/track/1OzrlK57iLTIjmbZC1ppWM
+235;Don McLean;American Pie (Parts I & II);4;https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X
+236;Elton John & Kiki Dee;Don't Go Breaking My Heart;4;https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5
+237;Elvis Presley With The Jordanaires;Stuck On You;4;https://open.spotify.com/track/7bA1DHtoJAvqyL42gHwOLa
+238;Eminem Featuring Rihanna;The Monster;4;https://open.spotify.com/track/00bLSnliElWSOs1Ybt9dZm
+239;Exile;Kiss You All Over;4;https://open.spotify.com/track/6WSsI73AMcyxnbo6GgCpub
+240;George Harrison;My Sweet Lord/Isn't It A Pity;4;https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs
+241;George Michael;Faith;4;https://open.spotify.com/track/0g676rSOGgNJqMSXr4Ezoi
+242;Gwen Stefani;Hollaback Girl;4;https://open.spotify.com/track/2N2QSfTqdJafXa8uPt4rTY
+243;Herb Alpert;This Guy's In Love With You;4;https://open.spotify.com/track/5hffP5gJFe1zByXf7BIeYq
+244;Janet Jackson;Miss You Much;4;https://open.spotify.com/track/69ll2dkaMkJYpiyZRpw2Yk
+245;Jennifer Lopez Featuring LL Cool J;All I Have;4;https://open.spotify.com/track/3kgutGd839IOYRl6ekeq6V
+246;Joe Featuring Mystikal;Stutter;4;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+247;John Cougar;Jack & Diane;4;https://open.spotify.com/track/0vhle5cdnSADMEScmkYd32
+248;Johnnie Taylor;Disco Lady;4;https://open.spotify.com/track/11sxcWkU0dZdjRLuiLLFFd
+249;Johnny Nash;I Can See Clearly Now;4;https://open.spotify.com/track/4B7nE0r1RkjFDjx0tWQrhu
+250;Katy Perry;Firework;4;https://open.spotify.com/track/4DjlxAaujtFsUuEsLjjQa2
+251;Katy Perry Featuring Juicy J;Dark Horse;4;https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6
+252;Leona Lewis;Bleeding Love;4;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+253;Lionel Richie;All Night Long (All Night);4;https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP
+254;Lionel Richie;Say You, Say Me;4;https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0
+255;Lipps, Inc.;Funkytown;4;https://open.spotify.com/track/6WaSkbtmn2MA2w3obALUnL
+256;Lloyd Price;Stagger Lee;4;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+257;Madonna;Music;4;https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0
+258;Mariah Carey;Hero;4;https://open.spotify.com/track/3P5iaWQTvvdeMB2SsZaHii
+259;Mariah Carey;Vision Of Love;4;https://open.spotify.com/track/5uPSeb4yv9VzTT5JonEgeH
+260;Maroon 5 Featuring Christina Aguilera;Moves Like Jagger;4;https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN
+261;Men At Work;Down Under;4;https://open.spotify.com/track/5R0EDMEBVlExLcofDAYvAD
+262;Michael Jackson;Rock With You;4;https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7
+263;Monica;Angel Of Mine;4;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+264;Nancy Sinatra & Frank Sinatra;Somethin' Stupid;4;https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV
+265;Nelly, P. Diddy & Murphy Lee;Shake Ya Tailfeather;4;https://open.spotify.com/track/4TJduXYW1Pg96EDNnfiwxJ
+266;Nickelback;How You Remind Me;4;https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf
+267;Nilsson;Without You;4;https://open.spotify.com/track/4nbs8cT5xWhyZnmQwb4KC9
+268;Olivia Newton-John;Magic;4;https://open.spotify.com/track/2jHHz6VZ3wyVpAEDxMEX2q
+269;Otis Redding;(Sittin' On) The Dock Of The Bay;4;https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF
+270;Paul Anka;Lonely Boy;4;https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo
+271;Paul McCartney And Wings;My Love;4;https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh
+272;Peaches & Herb;Reunited;4;https://open.spotify.com/track/7fmb7MH5jcRsDR7g4RTSma
+273;Phil Collins;Another Day In Paradise;4;https://open.spotify.com/track/5ZaDUleherOLBbHk2PU1Kr
+274;Pink Floyd;Another Brick In The Wall (Part II);4;https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV
+275;Queen;Crazy Little Thing Called Love;4;https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw
+276;R. Kelly;Bump N' Grind;4;https://open.spotify.com/track/0mpTtYiDqkcOjNZqJLmjsO
+277;Rod Stewart;Da Ya Think I'm Sexy?;4;https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f
+278;Savage Garden;I Knew I Loved You;4;https://open.spotify.com/track/1OdUJBSxF0sExz1BmSax6k
+279;Sean Kingston;Beautiful Girls;4;https://open.spotify.com/track/2AMwfUlfD43XY6ywcHHzMp
+280;Sia Featuring Sean Paul;Cheap Thrills;4;https://open.spotify.com/track/2ONIJ40u0Attbm3miIIpNO
+281;Sinead O'Connor;Nothing Compares 2 U;4;https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo
+282;Sly & The Family Stone;Everyday People;4;https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn
+283;Spice Girls;Wannabe;4;https://open.spotify.com/track/452UinQSDtftFaiE3XfwaD
+284;Steve Winwood;Roll With It;4;https://open.spotify.com/track/2QlPByrmEO9XciNBXCrawR
+285;Stevie B;Because I Love You (The Postman Song);4;https://open.spotify.com/track/4MRLHr9eXjn8J7JbCEJ7Cy
+286;TLC;Creep;4;https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS
+287;TLC;No Scrubs;4;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+288;Taylor Swift;Cruel Summer;4;https://open.spotify.com/track/2PMM8rGCPNQexd6A0qLJks
+289;Taylor Swift;Shake It Off;4;https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc
+290;The Archies;Sugar, Sugar;4;https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF
+291;The Association;Windy;4;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+292;The Bangles;Walk Like An Egyptian;4;https://open.spotify.com/track/1Jwc3ODLQxtbnS8M9TflSP
+293;The Beatles;Yesterday;4;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+294;The Box Tops;The Letter;4;https://open.spotify.com/track/2SJo1P387WJHJx1uFbyrRj
+295;The Browns;The Three Bells;4;https://open.spotify.com/track/32A5RQm4yKTyYG9f2We0xD
+296;The Captain & Tennille;Love Will Keep Us Together;4;https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2
+297;The Chiffons;He's So Fine;4;https://open.spotify.com/track/17Xxp5dtS4GmdGjNZNb5Gk
+298;The Chipmunks With David Seville;The Chipmunk Song;4;https://open.spotify.com/track/02NKMA9cIkq6VuBNu9q9Wf
+299;The Fleetwoods;Come Softly To Me;4;https://open.spotify.com/track/1iNXdyaxEwI7zqF8ti4Tgh
+300;The Monkees;Daydream Believer;4;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+301;The Rolling Stones;(I Can't Get No) Satisfaction;4;https://open.spotify.com/track/1GOdYykgw2W0OcjPANvwgE
+302;The Rolling Stones;Honky Tonk Women;4;https://open.spotify.com/track/7HIG9Utsra6sL79nA1Tn0y
+303;The Singing Nun (Soeur Sourire);Dominique;4;https://open.spotify.com/track/2YMaQIN48lOHPJ8LxjsvLq
+304;The Supremes;Baby Love;4;https://open.spotify.com/track/0BCVDMgLP8biSDuu0y8EvC
+305;The Weeknd;Blinding Lights;4;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+306;The Young Rascals;Groovin';4;https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL
+307;Tommy Roe;Dizzy;4;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+308;USA For Africa;We Are The World;4;https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk
+309;Usher;U Remind Me;4;https://open.spotify.com/track/2HLlQzAQUQ0eRt1norn3cl
+310;Usher Featuring will.i.am;OMG;4;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+311;A Taste Of Honey;Boogie Oogie Oogie;3;https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo
+312;America;A Horse With No Name;3;https://open.spotify.com/track/0Osbam159ngkQww6isBBQJ
+313;BTS;Dynamite;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+314;Barbra Streisand;"Evergreen (Love Theme From ""A Star Is Born"")";3;https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje
+315;Barbra Streisand;The Way We Were;3;https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7
+316;Barbra Streisand;Woman In Love;3;https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7
+317;Bee Gees;How Deep Is Your Love;3;https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP
+318;Bert Kaempfert And His Orchestra;Wonderland By Night;3;https://open.spotify.com/track/5Ik1BD4gKzxofvNgSRQbCF
+319;Bill Withers;Lean On Me;3;https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2
+320;Billy Paul;Me And Mrs. Jones;3;https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi
+321;Bobby Vee;Take Good Care Of My Baby;3;https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ
+322;Bobby Vinton;Blue Velvet;3;https://open.spotify.com/track/4rokPKulQg7ARGNEtffxW1
+323;Brenda Lee;I'm Sorry;3;https://open.spotify.com/track/6fbdWy1HjnC6bwERODqm5Z
+324;Brenda Lee;Rockin' Around The Christmas Tree;3;https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97
+325;Bruce Channel;Hey! Baby;3;https://open.spotify.com/track/6CBgRhKbSU9Ihb54165Mzl
+326;Bryan Adams/Rod Stewart/Sting;All For Love;3;https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK
+327;Cardi B;Bodak Yellow (Money Moves);3;https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL
+328;Carly Simon;You're So Vain;3;https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba
+329;Chris Brown Featuring T-Pain;Kiss Kiss;3;https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG
+330;Christopher Cross;Arthur's Theme (Best That You Can Do);3;https://open.spotify.com/track/3ZTuWXlXPVZ3Mg3XA5alk1
+331;Chubby Checker;Pony Time;3;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+332;Chubby Checker;The Twist;3;https://open.spotify.com/track/29gelu2enuB2yE7u6EGNdc
+333;Coolio Featuring L.V.;"Gangsta's Paradise (From ""Dangerous Minds"")";3;https://open.spotify.com/track/2VWNSlfsBCxKVDaGBTYAvL
+334;Culture Club;Karma Chameleon;3;https://open.spotify.com/track/6BSpk93XTt2CJ7gpROG6zU
+335;Daryl Hall John Oates;Kiss On My List;3;https://open.spotify.com/track/3QDMOnNZKEUrKNniv3LNmz
+336;Dawn;Knock Three Times;3;https://open.spotify.com/track/3V4WB8F8Bq21pIISRRGtXT
+337;Debbie Gibson;Lost In Your Eyes;3;https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9
+338;Destiny's Child;Say My Name;3;https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk
+339;Diana Ross;Ain't No Mountain High Enough;3;https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX
+340;Dire Straits;Money For Nothing;3;https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR
+341;Doja Cat;Paint The Town Red;3;https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7
+342;Donna Summer;Hot Stuff;3;https://open.spotify.com/track/6kzP50E3nRuuLjtU5Qp56m
+343;Donna Summer;MacArthur Park;3;https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0
+344;Donny Osmond;Go Away Little Girl;3;https://open.spotify.com/track/6SvOdNsEfi7EDB0oFtH3YG
+345;Edwin Starr;War;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+346;Elton John;Crocodile Rock;3;https://open.spotify.com/track/1r7XEmPjHDk5WNsurFTYbU
+347;Elton John;Island Girl;3;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+348;Enrique Iglesias;Be With You;3;https://open.spotify.com/track/2N4viTG9njqCa4c46YyWs1
+349;Falco;Rock Me Amadeus;3;https://open.spotify.com/track/0BCVDMgLP8biSDuu0y8EvC
+350;Far*East Movement Featuring Cataracs & Dev;Like A G6;3;https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf
+351;Fergie;London Bridge;3;https://open.spotify.com/track/7jRoWfRlLnGYEIEn4t4kbq
+352;Future, Metro Boomin & Kendrick Lamar;Like That;3;https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf
+353;Gene Chandler;Duke Of Earl;3;https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy
+354;George Michael;One More Try;3;https://open.spotify.com/track/3KIHBj6JUxJqIfDWRz9XQ9
+355;Gloria Gaynor;I Will Survive;3;https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX
+356;Hanson;MMMBop;3;https://open.spotify.com/track/26JNSwccMpY6zx36pySxG9
+357;Heart;Alone;3;https://open.spotify.com/track/4nbs8cT5xWhyZnmQwb4KC9
+358;Herman's Hermits;Mrs. Brown You've Got A Lovely Daughter;3;https://open.spotify.com/track/2fLVaStZOldVSX5RyoHG6U
+359;Huey Lewis & The News;Stuck With You;3;https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB
+360;Jack Harlow;First Class;3;https://open.spotify.com/track/2LsqFrM5TGRBvDOeiXQefA
+361;Janet;Doesn't Really Matter;3;https://open.spotify.com/track/0fJAcQZyy0C2qyt0LluAWp
+362;Janet Jackson;Escapade;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+363;Joe Cocker And Jennifer Warnes;Up Where We Belong;3;https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu
+364;Joey Dee & the Starliters;Peppermint Twist - Part I;3;https://open.spotify.com/track/4vFuebQvxexME3dTs99ifv
+365;John Legend;All Of Me;3;https://open.spotify.com/track/1mzGywacjpeik00PVLBPpF
+366;Johnny Preston;Running Bear;3;https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0
+367;Justin Bieber;Sorry;3;https://open.spotify.com/track/5EG5s5JfnB9LCMe4qr0FDs
+368;Justin Timberlake Featuring T.I.;My Love;3;https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL
+369;K-Ci & JoJo;All My Life;3;https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc
+370;Kelly Clarkson;Stronger (What Doesn't Kill You);3;https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss
+371;Kendrick Lamar;Not Like Us;3;https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3
+372;Kenny Loggins;Footloose;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+373;Kyu Sakamoto;Sukiyaki;3;https://open.spotify.com/track/26JNSwccMpY6zx36pySxG9
+374;Lady Gaga Featuring Colby O'Donis;Just Dance;3;https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE
+375;Lewis Capaldi;Someone You Loved;3;https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf
+376;Lisa Loeb & Nine Stories;"Stay (I Missed You) (From ""Reality Bites"")";3;https://open.spotify.com/track/0It1NlyRhlYhKe5dQ48I36
+377;Little Peggy March;I Will Follow Him;3;https://open.spotify.com/track/3GQETOg4ZXyQ1jEFqfMoac
+378;Little Stevie Wonder;Fingertips - Pt 2;3;https://open.spotify.com/track/4eUD9eURu25iwAjtVG7Vuu
+379;Los Lobos;La Bamba;3;https://open.spotify.com/track/6GuelNAuRb9u5O8l950pPw
+380;Mac Davis;Baby Don't Get Hooked On Me;3;https://open.spotify.com/track/4z51Gf7Ppt9Lmu5zmnUIz9
+381;Madonna;Like A Prayer;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+382;Madonna;Vogue;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+383;Mariah Carey;Emotions;3;https://open.spotify.com/track/1vd6RAAMj6SZyXFKtsW2jl
+384;Mariah Carey;Honey;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+385;Mariah Carey;Love Takes Time;3;https://open.spotify.com/track/3VP3yYNXSGWi4NAZqIJnFG
+386;Maroon 5;Makes Me Wonder;3;https://open.spotify.com/track/01bj861QQA2ac7hypkSo8b
+387;Melanie;Brand New Key;3;https://open.spotify.com/track/5t6QAzKmAMSTcprQkbwy1k
+388;Michael Bolton;How Am I Supposed To Live Without You;3;https://open.spotify.com/track/6uiQnZRvSNVzTK5PA6ZB8h
+389;Michael Jackson;Beat It;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+390;Migos Featuring Lil Uzi Vert;Bad And Boujee;3;https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1
+391;Miley Cyrus;Wrecking Ball;3;https://open.spotify.com/track/379pQhTWVBdSEe8cfUmlHy
+392;Mr. Big;To Be With You;3;https://open.spotify.com/track/3bP47tw8MOgtrwdO1iahVl
+393;Neil Sedaka;Bad Blood;3;https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo
+394;New Kids On The Block;Step By Step;3;https://open.spotify.com/track/4UOGVic7gpeleedIbYhrBf
+395;P!nk Featuring Nate Ruess;Just Give Me A Reason;3;https://open.spotify.com/track/7x1PdK6tMB8fMrSf1XJytD
+396;Patti LaBelle & Michael McDonald;On My Own;3;https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV
+397;Paul Anka with Odia Coates;(You're) Having My Baby;3;https://open.spotify.com/track/5PuAFxKmqG72uKyoo11zpQ
+398;Paul McCartney And Wings;Coming Up (Live At Glasgow);3;https://open.spotify.com/track/1gQ2I5ZB1dQlVmIBPDhdHv
+399;Paul Simon;50 Ways To Leave Your Lover;3;https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl
+400;Paul and Paula;Hey Paula;3;https://open.spotify.com/track/6Z5hXchgBwnaL77R2yL9EO
+401;Paula Abdul (Duet With The Wild Pair);Opposites Attract;3;https://open.spotify.com/track/7z38bideBRvGAgjXe2SECm
+402;Paula Abdul;Straight Up;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+403;Phil Collins;Against All Odds (Take A Look At Me Now);3;https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz
+404;Pitbull Featuring Ke$ha;Timber;3;https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS
+405;Player;Baby Come Back;3;https://open.spotify.com/track/1c0JRFCkPdKUW9P6C1Yjvk
+406;Poison;Every Rose Has Its Thorn;3;https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY
+407;Post Malone;Circles;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+408;Queen;Another One Bites The Dust;3;https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J
+409;REO Speedwagon;Can't Fight This Feeling;3;https://open.spotify.com/track/3UoE3IGTF6UUrUs8eM1BBY
+410;Ray Parker Jr.;Ghostbusters;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+411;Ray Stevens;The Streak;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+412;Richard Marx;Right Here Waiting;3;https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x
+413;Right Said Fred;I'm Too Sexy;3;https://open.spotify.com/track/1MQrMQwfqjgOjXEUaN9AMd
+414;Rihanna;Diamonds;3;https://open.spotify.com/track/2a1PNDDWyt68aKJDc47k4e
+415;Rihanna;SOS;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+416;Roy Orbison And The Candy Men;Oh, Pretty Woman;3;https://open.spotify.com/track/52HAHV1j93s5B8GoTNI7DJ
+417;Rupert Holmes;Escape (The Pina Colada Song);3;https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ
+418;Sammy Davis, Jr. with The Mike Curb Congregation;The Candy Man;3;https://open.spotify.com/track/0YepQngc69waqhcXZZwFw2
+419;Sean Paul;Get Busy;3;https://open.spotify.com/track/2IcJZp43y9zirBzbwsvgqo
+420;Silver Convention;Fly, Robin, Fly;3;https://open.spotify.com/track/2W9ToXsoq78Si2KSC52Pvt
+421;Simon & Garfunkel;Mrs. Robinson;3;https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC
+422;Sly & The Family Stone;Family Affair;3;https://open.spotify.com/track/4f3u4Oy0JqJRIhMmTqRcxj
+423;Snoop Dogg Featuring Pharrell;Drop It Like It's Hot;3;https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO
+424;Sonny & Cher;I Got You Babe;3;https://open.spotify.com/track/6tMjtHEBwMkxslhOe9SHE8
+425;Steve Lacy;Bad Habit;3;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+426;Stevie Wonder;I Just Called To Say I Love You;3;https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs
+427;Stevie Wonder;Sir Duke;3;https://open.spotify.com/track/4k6oRr8qhWDcqDtcTGlIT5
+428;TLC;Unpretty;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+429;Taylor Swift;Look What You Made Me Do;3;https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il
+430;Taylor Swift;We Are Never Ever Getting Back Together;3;https://open.spotify.com/track/5YqltLsjdqFtvqE7Nrysvs
+431;Tears For Fears;Shout;3;https://open.spotify.com/track/3oy9CClx1zCGnhzse9AvDu
+432;Terror Squad;Lean Back;3;https://open.spotify.com/track/7EttOuaWWWWAyWz7ZVvAJI
+433;Terry Jacks;Seasons In The Sun;3;https://open.spotify.com/track/03YTHAJIqqACT9mJ4pTZxv
+434;The 4 Seasons;December, 1963 (Oh, What a Night);3;https://open.spotify.com/track/0kQOmSJb84p2f0sPnstZdR
+435;The 4 Seasons;Walk Like A Man;3;https://open.spotify.com/track/4C76SOnBa9eQDwOwe11hPz
+436;The 5th Dimension;Wedding Bell Blues;3;https://open.spotify.com/track/6qjPhpkReNhTsM3rVpDGiV
+437;The Angels;My Boyfriend's Back;3;https://open.spotify.com/track/7mCNZwbIR0Ln1whXQgr2jz
+438;The Animals;House Of The Rising Sun;3;https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb
+439;The Association;Cherish;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+440;The Beatles;Hello Goodbye;3;https://open.spotify.com/track/2uOXn6ugllgy5hQMnpAWMb
+441;The Beatles;Help!;3;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+442;The Beatles;I Feel Fine;3;https://open.spotify.com/track/1weZ3j18XgtD9MLwsEFbYy
+443;The Beatles;We Can Work It Out;3;https://open.spotify.com/track/7LNiAjyg9P2GKINTtN6Yt8
+444;The Byrds;Turn! Turn! Turn! (To Everything There Is A Season);3;https://open.spotify.com/track/0kQOmSJb84p2f0sPnstZdR
+445;The Dixie Cups;Chapel Of Love;3;https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm
+446;The Doors;Light My Fire;3;https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R
+447;The Drifters;Save The Last Dance For Me;3;https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U
+448;The Guess Who;American Woman/No Sugar Tonight;3;https://open.spotify.com/track/3WWi5DS9mnf9u9dgx5KntP
+449;The Human League;Don't You Want Me;3;https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx
+450;The Lovin' Spoonful;Summer In The City;3;https://open.spotify.com/track/257YFNPcDJUp8c7v1q8hPp
+451;The Mamas & The Papas;Monday, Monday;3;https://open.spotify.com/track/5Y4JAWEpOkYs1iiCTNgmW4
+452;The Marcels;Blue Moon;3;https://open.spotify.com/track/1aSsJqcVXgLHXJuU0mXuBy
+453;The New Vaudeville Band;Winchester Cathedral;3;https://open.spotify.com/track/27nasmd5S8eIvIkAa7wnSo
+454;The Notorious B.I.G.;Hypnotize;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+455;The Partridge Family Starring Shirley Jones Featuring David Cassidy;I Think I Love You;3;https://open.spotify.com/track/4NfNr2aOxfZkkDHue5gjKf
+456;The Platters;Smoke Gets In Your Eyes;3;https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q
+457;The Righteous Brothers;(You're My) Soul And Inspiration;3;https://open.spotify.com/track/5ZHOiRqKOzgFMfMAu8cwzp
+458;The Shirelles;Soldier Boy;3;https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo
+459;The Teddy Bears;To Know Him, Is To Love Him;3;https://open.spotify.com/track/5msxn2HUcd83qOsuQW7Kdb
+460;The Tokens;The Lion Sleeps Tonight;3;https://open.spotify.com/track/5X6VbizePQKSnt55YWWyGS
+461;The Tornadoes;Telstar;3;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+462;The Turtles;Happy Together;3;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+463;The Weeknd;Can't Feel My Face;3;https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81
+464;Tina Turner;What's Love Got To Do With It;3;https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz
+465;Tony Orlando & Dawn;He Don't Love You (Like I Love You);3;https://open.spotify.com/track/6KZRzIXRWeQmBBdMft790Z
+466;U2;With Or Without You;3;https://open.spotify.com/track/5bQDapqPmoCukx6ZgO4T1b
+467;Usher Featuring Young Jeezy;Love In This Club;3;https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0
+468;Wham!;Wake Me Up Before You Go-Go;3;https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c
+469;Wham! Featuring George Michael;Careless Whisper;3;https://open.spotify.com/track/5WDLRQ3VCdVrKw0njWe5E5
+470;Whitney Houston;Greatest Love Of All;3;https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu
+471;Wild Cherry;Play That Funky Music;3;https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl
+472;Will Smith;Gettin' Jiggy Wit It;3;https://open.spotify.com/track/55NuTxRk1TyKzpgD8dC1IY
+473;'N Sync;It's Gonna Be Me;2;https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA
+474;2Pac Featuring K-Ci And JoJo;How Do U Want It/California Love;2;https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC
+475;Adele;Set Fire To The Rain;2;https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi
+476;Akon;Don't Matter;2;https://open.spotify.com/track/0LzxTeLXKexOhVMZWOJwg1
+477;Akon Featuring Snoop Dogg;I Wanna Love You;2;https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc
+478;Alannah Myles;Black Velvet;2;https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF
+479;Amy Grant;Baby Baby;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+480;Andy Gibb;(Love Is) Thicker Than Water;2;https://open.spotify.com/track/30WuNDy3PwqaBKoIjSwQtf
+481;Anita Ward;Ring My Bell;2;https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd
+482;Archie Bell & The Drells;Tighten Up;2;https://open.spotify.com/track/32LivoHcFQKDTU4p4zsRQg
+483;Aretha Franklin & George Michael;I Knew You Were Waiting (For Me);2;https://open.spotify.com/track/2gJDyiRxxIglLXp545SPVL
+484;Aretha Franklin;Respect;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+485;B.o.B Featuring Bruno Mars;Nothin' On You;2;https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq
+486;Bad English;When I See You Smile;2;https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh
+487;Barbra Streisand & Neil Diamond;You Don't Bring Me Flowers;2;https://open.spotify.com/track/7qmqeHzgNQTOnl1NUgRFO4
+488;Barbra Streisand/Donna Summer;No More Tears (Enough Is Enough);2;https://open.spotify.com/track/1wSPm3y4Lk6ABkVxCmwkZx
+489;Bee Gees;Jive Talkin';2;https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG
+490;Bee Gees;Too Much Heaven;2;https://open.spotify.com/track/6T5GTy1l6dRmagqpNPjdoc
+491;Bee Gees;Tragedy;2;https://open.spotify.com/track/29gelu2enuB2yE7u6EGNdc
+492;Beyonce;Break My Soul;2;https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS
+493;Beyonce;Texas Hold 'Em;2;https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5
+494;Billy Joel;It's Still Rock And Roll To Me;2;https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl
+495;Billy Joel;We Didn't Start The Fire;2;https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v
+496;Billy Ocean;Caribbean Queen (No More Love On The Run);2;https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7
+497;Billy Ocean;Get Outta My Dreams, Get Into My Car;2;https://open.spotify.com/track/2D4D3hiOf5U0W6SvJoCQph
+498;Billy Preston;Will It Go Round In Circles;2;https://open.spotify.com/track/17KFO56mkVEKR0v8qOPlkU
+499;Billy Swan;I Can Help;2;https://open.spotify.com/track/1wrwhySdoNJiQ1neqvNAc2
+500;Billy Vera & The Beaters;At This Moment;2;https://open.spotify.com/track/1kGb78PHGlylL7s9Nw79Si
+501;Blondie;Rapture;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+502;Bo Donaldson And The Heywoods;Billy, Don't Be A Hero;2;https://open.spotify.com/track/1BRqIJc7ze0rB28FGaPSeE
+503;"Bobby ""Boris"" Pickett And The Crypt-Kickers";Monster Mash;2;https://open.spotify.com/track/2YgXE8Al6XP2qxaisxTwYM
+504;Bobby McFerrin;"Don't Worry, Be Happy (From ""Cocktail"")";2;https://open.spotify.com/track/6WQFL3SRK8eHviCbX6D7xK
+505;Bon Jovi;Bad Medicine;2;https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo
+506;Boston;Amanda;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+507;Brandy;Have You Ever?;2;https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm
+508;Britney Spears;...Baby One More Time;2;https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa
+509;Bryan Adams;Heaven;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+510;C+C Music Factory;Gonna Make You Sweat (Everybody Dance Now);2;https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF
+511;Carl Douglas;Kung Fu Fighting;2;https://open.spotify.com/track/6mUGTrrtuBP5Amu4mvh25P
+512;Carpenters;Top Of The World;2;https://open.spotify.com/track/3wM6RTAnF7IQpMFd7b9ZcL
+513;Celine Dion;My Heart Will Go On;2;https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq
+514;Chamillionaire Featuring Krayzie Bone;Ridin';2;https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9
+515;Charlie Rich;The Most Beautiful Girl;2;https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm
+516;Cheap Trick;The Flame;2;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+517;Cher;Gypsys, Tramps & Thieves;2;https://open.spotify.com/track/2xq1I5pSnwzNQHtEWFetlA
+518;Cher;Half-Breed;2;https://open.spotify.com/track/1jMSTOStMVEwkFdsgqjbI5
+519;Chicago;Hard To Say I'm Sorry;2;https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0
+520;Chicago;If You Leave Me Now;2;https://open.spotify.com/track/5X8vU9a91baFQBkNoEdxpc
+521;Chicago;Look Away;2;https://open.spotify.com/track/5uYATouB1GLlbCJttOA64g
+522;Childish Gambino;This Is America;2;https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4
+523;Christina Aguilera;What A Girl Wants;2;https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs
+524;Chuck Berry;My Ding-A-Ling;2;https://open.spotify.com/track/2L8mIvM1OwkJyGb3WwDFT3
+525;Clay Aiken;This Is The Night;2;https://open.spotify.com/track/5LEbg97KkVmAv9qHR7bS59
+526;Club Nouveau;Lean On Me;2;https://open.spotify.com/track/0eFqPUbuiobmOEiotEFxGy
+527;Color Me Badd;I Adore Mi Amor;2;https://open.spotify.com/track/05R2lE5g9hnaSmxIrUl3C0
+528;Commodores;Three Times A Lady;2;https://open.spotify.com/track/0nMqyQOX0Jd9g2hvKV4BY3
+529;Connie Francis;Everybody's Somebody's Fool;2;https://open.spotify.com/track/3tzjY4CqAxrUB9ZtxGlUJm
+530;Connie Francis;My Heart Has A Mind Of Its Own;2;https://open.spotify.com/track/5BNYMop8ujAN9S9N7OGkxH
+531;Conway Twitty;It's Only Make Believe;2;https://open.spotify.com/track/0iiy669VFgiZ4SK9zUaC4c
+532;Crazy Town;Butterfly;2;https://open.spotify.com/track/29gelu2enuB2yE7u6EGNdc
+533;Cutting Crew;(I Just) Died In Your Arms;2;https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm
+534;Cyndi Lauper;Time After Time;2;https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx
+535;Cyndi Lauper;True Colors;2;https://open.spotify.com/track/3oy9CClx1zCGnhzse9AvDu
+536;Dale & Grace;I'm Leaving It Up To You;2;https://open.spotify.com/track/17Xxp5dtS4GmdGjNZNb5Gk
+537;Daryl Hall John Oates;Out Of Touch;2;https://open.spotify.com/track/7o67roCVsFiCt7Cf0ZLOJq
+538;Daryl Hall John Oates;Private Eyes;2;https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp
+539;Daryl Hall John Oates;Rich Girl;2;https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD
+540;David Bowie;Fame;2;https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3
+541;Deniece Williams;Let's Hear It For The Boy;2;https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u
+542;Desiigner;Panda;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+543;Destiny's Child;Bootylicious;2;https://open.spotify.com/track/493uol07OkelOOzMTh3ses
+544;Diana Ross & The Supremes;Love Child;2;https://open.spotify.com/track/69EILuL34ggLWQsa626bes
+545;Diana Ross;Love Hangover;2;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+546;Dion;Runaround Sue;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+547;Dolly Parton;9 To 5;2;https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF
+548;Duran Duran;A View To A Kill;2;https://open.spotify.com/track/6MJ73FVtqluO6VYF3fvPro
+549;Duran Duran;The Reflex;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+550;Eddie Kendricks;Keep On Truckin' (Part 1);2;https://open.spotify.com/track/5CiOCxc3argOhj5qKNZGN0
+551;Eddie Rabbitt;I Love A Rainy Night;2;https://open.spotify.com/track/0zvNHIL7ci0ZzIoWU6RO2u
+552;Elton John;Lucy In The Sky With Diamonds;2;https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR
+553;Elvis Presley With The Jordanaires;A Big Hunk O' Love;2;https://open.spotify.com/track/7udjpL89NKvj6zPgDg8qF8
+554;Elvis Presley With The Jordanaires;Good Luck Charm;2;https://open.spotify.com/track/19gotedXtqeE8dWju6WURW
+555;Elvis Presley With The Jordanaires;Surrender;2;https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ
+556;Enrique Iglesias;Bailamos;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+557;Fergie Featuring Ludacris;Glamorous;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+558;Flo Rida;Whistle;2;https://open.spotify.com/track/7pBqhU1BHW0FhRuMpT26HX
+559;Foreigner;I Want To Know What Love Is;2;https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl
+560;Four Tops;I Can't Help Myself (Sugar Pie Honey Bunch);2;https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV
+561;Four Tops;Reach Out I'll Be There;2;https://open.spotify.com/track/6DdWSQJNCQuQjXJQBHXTz0
+562;Frankie Valli;Grease;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+563;Freddie And The Dreamers;I'm Telling You Now;2;https://open.spotify.com/track/7ANcuJ58f7g1yawHnK3bPP
+564;Gary Lewis And The Playboys;This Diamond Ring;2;https://open.spotify.com/track/7krLZsVwanqpFd03FYHptt
+565;George McCrae;Rock Your Baby;2;https://open.spotify.com/track/0iYtGebtnGzemwehimWusQ
+566;George Michael;Father Figure;2;https://open.spotify.com/track/5TnGSsXSayYEgpjFme7tlm
+567;George Michael;Monkey;2;https://open.spotify.com/track/0nZ0I4NnbeUN6pSC13wbJ3
+568;Gladys Knight And The Pips;Midnight Train To Georgia;2;https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY
+569;Glen Campbell;Rhinestone Cowboy;2;https://open.spotify.com/track/3WYx2qPwxhtSP1vKTEpRyg
+570;Glenn Medeiros Featuring Bobby Brown;She Ain't Worth It;2;https://open.spotify.com/track/5EyvPgIywchbSPtcJ0V0z4
+571;Gloria Estefan & Miami Sound Machine;Anything For You;2;https://open.spotify.com/track/1dDHyWQwUZSS2FVY7I6Ezp
+572;Gloria Estefan;Coming Out Of The Dark;2;https://open.spotify.com/track/4azjLBXc01eV71XbVDYUKO
+573;Grand Funk;The Loco-Motion;2;https://open.spotify.com/track/0PxYWaGiwWtcuL1VIMiEW4
+574;Guns N' Roses;Sweet Child O' Mine;2;https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW
+575;Guy Mitchell;Heartaches By The Number;2;https://open.spotify.com/track/0mmveflIg5uKskiCOdRV3e
+576;Halsey;Without Me;2;https://open.spotify.com/track/4nbs8cT5xWhyZnmQwb4KC9
+577;Henry Mancini And His Orchestra;Love Theme From Romeo & Juliet;2;https://open.spotify.com/track/57IjAs2RWUcMf0tBkIAMpi
+578;Herb Alpert;Rise;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+579;Huey Lewis & The News;The Power Of Love;2;https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB
+580;Hugh Masekela;Grazing In The Grass;2;https://open.spotify.com/track/2P6Buc8kWRgShx7aHIadqu
+581;Ini Kamoze;"Here Comes The Hotstepper (From ""Ready To Wear"")";2;https://open.spotify.com/track/1G88BbuMts7HC0nHGoHmhv
+582;Isaac Hayes;Theme From Shaft;2;https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO
+583;Ja Rule Featuring Ashanti;Always On Time;2;https://open.spotify.com/track/2hNf1rawV2XAZ6Jld2Fxwf
+584;Jackson 5;ABC;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+585;Jackson 5;The Love You Save/I Found That Girl;2;https://open.spotify.com/track/0KkfDzT6qP7JkraQLXTHRn
+586;Jan & Dean;Surf City;2;https://open.spotify.com/track/0ry6Hq2NCLlm4lIW4m2OdL
+587;Janet;Together Again;2;https://open.spotify.com/track/2Lo2BWhhlZSJds2yBhxoet
+588;Janet Jackson;Again;2;https://open.spotify.com/track/29gelu2enuB2yE7u6EGNdc
+589;Janet Jackson;When I Think Of You;2;https://open.spotify.com/track/3mJ6pNcFM2CkykCYSREdKT
+590;Janis Joplin;Me And Bobby McGee;2;https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA
+591;Jay Sean Featuring Lil Wayne;Down;2;https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE
+592;Jim Croce;Bad, Bad Leroy Brown;2;https://open.spotify.com/track/1N8sTSKTenfDtd675boXGI
+593;Jim Croce;Time In A Bottle;2;https://open.spotify.com/track/2zk1IffKkL0KV4yoGWVcng
+594;Jimmy Soul;If You Wanna Be Happy;2;https://open.spotify.com/track/7D97JnBT73FWUh9KmRvP9M
+595;John Denver;Annie's Song;2;https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF
+596;John Fred And The Playboys;Judy In Disguise (With Glasses);2;https://open.spotify.com/track/3EVQmjvlYb4Bk20Qs89UyK
+597;John Parr;St. Elmo's Fire (Man In Motion);2;https://open.spotify.com/track/1A2PWRltFrX8iB8IP3CUgo
+598;Justin Bieber;Love Yourself;2;https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS
+599;Juvenile Featuring Soulja Slim;Slow Motion;2;https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX
+600;KC And The Sunshine Band;That's The Way (I Like It);2;https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi
+601;Katy Perry;Last Friday Night (T.G.I.F.);2;https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8
+602;Katy Perry;Roar;2;https://open.spotify.com/track/460Ii1iaAQwnJAPD1AbSxe
+603;Katy Perry;Teenage Dream;2;https://open.spotify.com/track/4pUnSVyGDy0n9JrSROwC3S
+604;Kelly Clarkson;A Moment Like This;2;https://open.spotify.com/track/0ZbmQnOlXM8liVcNVtNxmD
+605;Kelly Clarkson;My Life Would Suck Without You;2;https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN
+606;Kenny Rogers Duet With Dolly Parton;Islands In The Stream;2;https://open.spotify.com/track/4mnOVRRXsaqg9Nb041xR8u
+607;Kool & The Gang;Celebration;2;https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2
+608;LMFAO;Sexy And I Know It;2;https://open.spotify.com/track/0obBFrPYkSoBJbvHfUIhkv
+609;Lauryn Hill;Doo Wop (That Thing);2;https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg
+610;Lawrence Welk And His Orchestra;Calcutta;2;https://open.spotify.com/track/10VtM4vN0l9y4r0YTjVYaA
+611;Lesley Gore;It's My Party;2;https://open.spotify.com/track/2cW6YjxfNnDycOoE95xwfa
+612;Lionel Richie;Hello;2;https://open.spotify.com/track/3isj0ef4iLOO40XKDaLMJg
+613;Lionel Richie;Truly;2;https://open.spotify.com/track/3isj0ef4iLOO40XKDaLMJg
+614;Lizzo;About Damn Time;2;https://open.spotify.com/track/4nbs8cT5xWhyZnmQwb4KC9
+615;Lonestar;Amazed;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+616;Ludacris Featuring Pharrell;Money Maker;2;https://open.spotify.com/track/2JpUkUR0OsOlUUfm6iS8ic
+617;MFSB Featuring The Three Degrees;TSOP (The Sound Of Philadelphia);2;https://open.spotify.com/track/6BEWwyzvc51WyacKoxJX4S
+618;Madonna;Justify My Love;2;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+619;Madonna;Papa Don't Preach;2;https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc
+620;Manfred Mann;Do Wah Diddy Diddy;2;https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ
+621;Mariah Carey;Always Be My Baby;2;https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x
+622;Mariah Carey;Don't Forget About Us;2;https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui
+623;Mariah Carey;I Don't Wanna Cry;2;https://open.spotify.com/track/5YVmVthPhqjBUrqB2Rp5di
+624;Mariah Carey;I'll Be There;2;https://open.spotify.com/track/5YVmVthPhqjBUrqB2Rp5di
+625;Mariah Carey;Someday;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+626;Mariah Carey;Touch My Body;2;https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW
+627;Mariah Carey Featuring Jay-Z;Heartbreaker;2;https://open.spotify.com/track/67697Ki9N3hu76ZkGbVSVE
+628;Mark Dinning;Teen Angel;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+629;Martika;Toy Soldiers;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+630;Marty Robbins;El Paso;2;https://open.spotify.com/track/1kMkDKGzVW3ETqBsUXy7vJ
+631;Marvin Gaye;Let's Get It On;2;https://open.spotify.com/track/5yr8pi3uCjTYOnTqstBBdm
+632;Mary Macgregor;Torn Between Two Lovers;2;https://open.spotify.com/track/5QRgRmwlWKvg1pAVh45hiz
+633;Mary Wells;My Guy;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+634;Maureen McGovern;The Morning After;2;https://open.spotify.com/track/2BW6brvV3oxynBQeK5RjnR
+635;Meco;Star Wars Theme/Cantina Band;2;https://open.spotify.com/track/4MVA30NmvNtpbDon1ZG7mk
+636;Michael Jackson;Bad;2;https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe
+637;Michael Jackson;Man In The Mirror;2;https://open.spotify.com/track/1kiNatIrwDusOZfR29W0LJ
+638;Michael Sembello;Maniac;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+639;Milli Vanilli;Blame It On The Rain;2;https://open.spotify.com/track/5ReqKJslVMTo52XRUaVcRq
+640;Milli Vanilli;Girl I'm Gonna Miss You;2;https://open.spotify.com/track/122vb6LtwACmfBIWpwmN1w
+641;Mims;This Is Why I'm Hot;2;https://open.spotify.com/track/3Bs0eQGikmahH6rTUkR41C
+642;Mr. Mister;Broken Wings;2;https://open.spotify.com/track/26ymqbZ16gUXBVhx5gspDg
+643;Mr. Mister;Kyrie;2;https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv
+644;Ne-Yo;So Sick;2;https://open.spotify.com/track/6BSpk93XTt2CJ7gpROG6zU
+645;Neil Sedaka;Breaking Up Is Hard To Do;2;https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX
+646;Nelly Featuring Paul Wall, Ali & Gipp;Grillz;2;https://open.spotify.com/track/0l7DPAKQVayEz9FXC9di2e
+647;Oliver Anthony Music;Rich Men North Of Richmond;2;https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP
+648;Olivia Newton-John;I Honestly Love You;2;https://open.spotify.com/track/5nNpVC9AC6DWgrT5RX0e0b
+649;Olivia Rodrigo;Vampire;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+650;Owl City;Fireflies;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+651;Patti Austin A Duet With James Ingram;Baby, Come To Me;2;https://open.spotify.com/track/566QDbJCiFSCy3yzN9x48r
+652;Paula Abdul;Forever Your Girl;2;https://open.spotify.com/track/1ufxyeu8aGwTLEUGubcoNL
+653;Percy Sledge;When A Man Loves A Woman;2;https://open.spotify.com/track/2tdqDQ41o8xvyLy6mXiO27
+654;Peter Cetera;"Glory Of Love (Theme From ""The Karate Kid Part II"")";2;https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM
+655;Petula Clark;Downtown;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+656;Petula Clark;My Love;2;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+657;Phil Collins;Groovy Kind Of Love;2;https://open.spotify.com/track/3BSi5qoJGLab7rn7zfmTPA
+658;Phil Collins;One More Night;2;https://open.spotify.com/track/1MW2BSLEwax5POaIKNepzs
+659;Phil Collins;Two Hearts;2;https://open.spotify.com/track/1sAhbeqf2NoMXoEA4rFZqo
+660;Plain White T's;Hey There Delilah;2;https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH
+661;Polo G;Rapstar;2;https://open.spotify.com/track/2oym9UXtD8BzYcDWRrxADu
+662;Prince And The N.P.G.;Cream;2;https://open.spotify.com/track/62xhoVsuanaguxxwyqY7nI
+663;Prince And The Revolution;Kiss;2;https://open.spotify.com/track/6AfJeduOOr2L2eywRwRg1n
+664;Prince And The Revolution;Let's Go Crazy;2;https://open.spotify.com/track/6FMIVQPZg9cmMY8hPxAacD
+665;Ray Charles And His Orchestra With The Raelettes;Hit The Road Jack;2;https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK
+666;Ray Stevens;Everything Is Beautiful;2;https://open.spotify.com/track/6arax7RHY6O4UacmDpWDAB
+667;Rick Astley;Never Gonna Give You Up;2;https://open.spotify.com/track/3m6994vN2lbHNMS7NyhXbC
+668;Rick Springfield;Jessie's Girl;2;https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN
+669;Ricky Nelson;Poor Little Fool;2;https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz
+670;Ricky Nelson;Travelin' Man;2;https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz
+671;Rihanna;Disturbia;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+672;Roxette;"It Must Have Been Love (From ""Pretty Woman"")";2;https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn
+673;SWV;Weak;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+674;Santo & Johnny;Sleep Walk;2;https://open.spotify.com/track/0yK8sWD6cfrc7pGfaPIcZH
+675;Savage Garden;Truly Madly Deeply;2;https://open.spotify.com/track/2ntpyUU3itxHWcJnOJmVic
+676;"Shaggy Feat. Ricardo ""RikRok"" Ducent";It Wasn't Me;2;https://open.spotify.com/track/3WkibOpDF7cQ5xntM1epyf
+677;Shakira Featuring Wyclef Jean;Hips Don't Lie;2;https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V
+678;Sheena Easton;Morning Train (Nine To Five);2;https://open.spotify.com/track/29GjsSanq56SUHtSwBav3y
+679;Shelley Fabares;Johnny Angel;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+680;Silk;Freak Me;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+681;Silk Sonic (Bruno Mars & Anderson .Paak);Leave The Door Open;2;https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T
+682;Simon & Garfunkel;The Sound Of Silence;2;https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK
+683;Sisqo;Incomplete;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+684;Sly & The Family Stone;Thank You Falettinme Be Mice Elf Agin/Everybody Is A Star;2;https://open.spotify.com/track/5CEnFe1DEdSCsFFkgo2nGS
+685;Smokey Robinson & The Miracles;The Tears Of A Clown;2;https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8
+686;Starland Vocal Band;Afternoon Delight;2;https://open.spotify.com/track/0lWwlZuX98TqW5RDlV4nt7
+687;Starship;Nothing's Gonna Stop Us Now;2;https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch
+688;Starship;We Built This City;2;https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ
+689;Steam;Na Na Hey Hey Kiss Him Goodbye;2;https://open.spotify.com/track/1mrSHPNTDdMkXpR4BiSiD7
+690;Steve Lawrence;Go Away Little Girl;2;https://open.spotify.com/track/3tltdfC7uLO6MqX4AoFGj2
+691;Stories;Brother Louie;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+692;Styx;Babe;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+693;Surface;The First Time;2;https://open.spotify.com/track/4LCzEYKPFcd2FCOmZdVDnM
+694;Taylor Swift Featuring Post Malone;Fortnight;2;https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m
+695;Tears For Fears;Everybody Wants To Rule The World;2;https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE
+696;"The 4 Seasons Featuring the ""Sound of Frankie Valli""";Rag Doll;2;https://open.spotify.com/track/1BeCgpPnFNEAL4rphHLrG6
+697;The Beach Boys;Help Me, Rhonda;2;https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg
+698;The Beach Boys;I Get Around;2;https://open.spotify.com/track/2GR8SvytwyVyPJTwwt0HSg
+699;The Beatles;A Hard Day's Night;2;https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ
+700;The Beatles;Eight Days A Week;2;https://open.spotify.com/track/5u02N7tBZT9ckaUcbcgkZa
+701;The Beatles;Let It Be;2;https://open.spotify.com/track/7jMkbyobeOAlyK2t0yt34L
+702;The Beatles;Paperback Writer;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+703;The Beatles;She Loves You;2;https://open.spotify.com/track/01K1zFyjJhG2Qk7PIkSAEA
+704;The Beatles;The Long And Winding Road/For You Blue;2;https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh
+705;The Black Eyed Peas;Imma Be;2;https://open.spotify.com/track/7vWFaMq63AwkFDhS2OAg5u
+706;The Buckinghams;Kind Of A Drag;2;https://open.spotify.com/track/65wUTKQhWvfCoGvayiJ4du
+707;The Crystals;He's A Rebel;2;https://open.spotify.com/track/3fkypmw34YuccrvYvKhUqe
+708;The Doors;Hello, I Love You;2;https://open.spotify.com/track/6n7hW6sgeSxwwcSiTAYpFo
+709;The Elton John Band;Philadelphia Freedom;2;https://open.spotify.com/track/3lFwSDBCNo3CcN09UppUnm
+710;The Essex;Easier Said Than Done;2;https://open.spotify.com/track/4zIeRcsaho6lZuaXEYR1y3
+711;The Heights;How Do You Talk To An Angel;2;https://open.spotify.com/track/0SY2MvlKGm9ef2qF0VTgJW
+712;The Highwaymen;Michael;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+713;The Manhattans;Kiss And Say Goodbye;2;https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI
+714;The Notorious B.I.G. Featuring Puff Daddy & Mase;Mo Money Mo Problems;2;https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz
+715;The Righteous Brothers;You've Lost That Lovin' Feelin';2;https://open.spotify.com/track/6AeyHqzNHJthYJbn0tvJ4b
+716;The Rolling Stones;Brown Sugar;2;https://open.spotify.com/track/34K7nU8EWQIRI93RfqhdRJ
+717;The Rolling Stones;Get Off Of My Cloud;2;https://open.spotify.com/track/1GOdYykgw2W0OcjPANvwgE
+718;The Rolling Stones;Paint It, Black;2;https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8
+719;The Rooftop Singers;Walk Right In;2;https://open.spotify.com/track/4WhT2YADjcU58IUgroWZQZ
+720;The Shirelles;Will You Love Me Tomorrow;2;https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i
+721;The Steve Miller Band;Abracadabra;2;https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI
+722;The Supremes;Come See About Me;2;https://open.spotify.com/track/0kQOmSJb84p2f0sPnstZdR
+723;The Supremes;I Hear A Symphony;2;https://open.spotify.com/track/4xMg0fnO7z7dJfQljvGD2e
+724;The Supremes;Stop! In The Name Of Love;2;https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd
+725;The Supremes;Where Did Our Love Go;2;https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j
+726;The Supremes;You Can't Hurry Love;2;https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv
+727;The Supremes;You Keep Me Hangin' On;2;https://open.spotify.com/track/4a01ClusxuZiloOK5UgLUn
+728;The Temptations;I Can't Get Next To You;2;https://open.spotify.com/track/1emcsh64kHjViXbTEhPoV1
+729;The Temptations;Just My Imagination (Running Away With Me);2;https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv
+730;The Troggs;Wild Thing;2;https://open.spotify.com/track/3toy7MGbV7n7G2934C9L2R
+731;The Weeknd & Ariana Grande;Save Your Tears;2;https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX
+732;Three Dog Night;Mama Told Me (Not To Come);2;https://open.spotify.com/track/0vnWQqRGqMmFwqvtyMr8sZ
+733;Tiffany;Could've Been;2;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+734;Tiffany;I Think We're Alone Now;2;https://open.spotify.com/track/2OYqYJrEBxUGYlo1NYVGqy
+735;Timbaland Featuring Nelly Furtado & Justin Timberlake;Give It To Me;2;https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx
+736;Tommy James And The Shondells;Crimson And Clover;2;https://open.spotify.com/track/74ohdXevc7VsXl96ofi3Kn
+737;Tommy James And The Shondells;Hanky Panky;2;https://open.spotify.com/track/3uqEiaO6MUoM89nLSIs05c
+738;Tommy Roe;Sheila;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+739;U.S. Bonds;Quarter To Three;2;https://open.spotify.com/track/2BW6brvV3oxynBQeK5RjnR
+740;U2;I Still Haven't Found What I'm Looking For;2;https://open.spotify.com/track/1VViOwNoUfimwsy3wlk7d8
+741;Usher;Confessions Part II;2;https://open.spotify.com/track/493uol07OkelOOzMTh3ses
+742;Usher;Nice & Slow;2;https://open.spotify.com/track/5L0KDoZklMgs9GPoonneEl
+743;Vicki Lawrence;The Night The Lights Went Out In Georgia;2;https://open.spotify.com/track/0HmMSJ1Vc3H2BoRe1mAFJh
+744;Wham!;Everything She Wants;2;https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2
+745;Whitney Houston;All The Man That I Need;2;https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal
+746;Whitney Houston;Didn't We Almost Have It All;2;https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1
+747;Whitney Houston;How Will I Know;2;https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal
+748;Whitney Houston;I Wanna Dance With Somebody (Who Loves Me);2;https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj
+749;Whitney Houston;Where Do Broken Hearts Go;2;https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T
+750;Wilbert Harrison;Kansas City;2;https://open.spotify.com/track/439wS39989sGaUFv1EOdHm
+751;Wilson Phillips;Release Me;2;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+752;Wings;With A Little Luck;2;https://open.spotify.com/track/17Xxp5dtS4GmdGjNZNb5Gk
+753;Yes;Owner Of A Lonely Heart;2;https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb
+754;6ix9ine & Nicki Minaj;Trollz;1;https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ
+755;? (Question Mark) & The Mysterians;96 Tears;1;https://open.spotify.com/track/46CjJuu0mQ6nRhdAeLNjeA
+756;ABBA;Dancing Queen;1;https://open.spotify.com/track/4DjlxAaujtFsUuEsLjjQa2
+757;AWB;Pick Up The Pieces;1;https://open.spotify.com/track/17Xxp5dtS4GmdGjNZNb5Gk
+758;Aaliyah;Try Again;1;https://open.spotify.com/track/29gelu2enuB2yE7u6EGNdc
+759;Air Supply;The One That You Love;1;https://open.spotify.com/track/3FDAd5vW4P7xe1GBNOLyfD
+760;Al Green;Let's Stay Together;1;https://open.spotify.com/track/6XDUo0NxngjMz8D14AlwpO
+761;Al Wilson;Show And Tell;1;https://open.spotify.com/track/6IY590hAhVNir5cfFXd9wt
+762;Alan O'Day;Undercover Angel;1;https://open.spotify.com/track/5oGKB8ILJZB5m5Pkz1x5Rg
+763;America;Sister Golden Hair;1;https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK
+764;Amii Stewart;Knock On Wood;1;https://open.spotify.com/track/61Nhptc9iZmp39GRRZnrvW
+765;Andy Kim;Rock Me Gently;1;https://open.spotify.com/track/1LQUmkMSLhC82I2AVj1T2N
+766;Anne Murray;You Needed Me;1;https://open.spotify.com/track/0F6gjqx9VWjrRopXmuaIRn
+767;Ariana Grande & Justin Bieber;Stuck With U;1;https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar
+768;Ariana Grande;Positions;1;https://open.spotify.com/track/493uol07OkelOOzMTh3ses
+769;Ariana Grande;We Can't Be Friends (Wait For Your Love);1;https://open.spotify.com/track/3zSnPhuucEb9JbFSxKVcIn
+770;Ariana Grande;Yes, And?;1;https://open.spotify.com/track/0eanJEFFplPt5ByX33ms63
+771;Atlantic Starr;Always;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+772;Avril Lavigne;Girlfriend;1;https://open.spotify.com/track/1wwt0TvrGY3lnvTAVIx8mO
+773;B.J. Thomas;(Hey Won't You Play) Another Somebody Done Somebody Wrong Song;1;https://open.spotify.com/track/4hR3hQKELrARHNZJ51D14s
+774;B2K & P. Diddy;Bump, Bump, Bump;1;https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f
+775;BTS;Life Goes On;1;https://open.spotify.com/track/493uol07OkelOOzMTh3ses
+776;BTS;Permission To Dance;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+777;Bachman-Turner Overdrive;You Ain't Seen Nothing Yet/Free Wheelin';1;https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP
+778;Bananarama;Venus;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+779;Barenaked Ladies;One Week;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+780;Barry Manilow;I Write The Songs;1;https://open.spotify.com/track/5Ukminfz8CID37bgp45utb
+781;Barry Manilow;Looks Like We Made It;1;https://open.spotify.com/track/3QqO9FxVrikwo7kS5ls3kQ
+782;Barry Manilow;Mandy;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+783;Barry McGuire;Eve Of Destruction;1;https://open.spotify.com/track/4C9lBTpO2v3miWXCHQpREc
+784;Barry White;Can't Get Enough Of Your Love, Babe;1;https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx
+785;Bay City Rollers;Saturday Night;1;https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75
+786;Bee Gees;Love You Inside Out;1;https://open.spotify.com/track/1m6tRa0wQWHMlAWyDmkBjf
+787;Bee Gees;You Should Be Dancing;1;https://open.spotify.com/track/2xiOdusRnZezQok1RgLNeS
+788;Belinda Carlisle;Heaven Is A Place On Earth;1;https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g
+789;Bellamy Brothers;Let Your Love Flow;1;https://open.spotify.com/track/7boCUNWXGSjoM8cl5WGxmz
+790;Berlin;"Take My Breath Away (Love Theme From ""Top Gun"")";1;https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY
+791;Bette Midler;"Wind Beneath My Wings (From ""Beaches"")";1;https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU
+792;Bill Conti;Gonna Fly Now;1;https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs
+793;Bill Medley & Jennifer Warnes;(I've Had) The Time Of My Life;1;https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB
+794;Billie Eilish;Bad Guy;1;https://open.spotify.com/track/7FFXVCjq5RUFe4wDK0d66x
+795;Billy Idol;Mony Mony;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+796;Billy Joel;Tell Her About It;1;https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw
+797;Billy Ocean;There'll Be Sad Songs (To Make You Cry);1;https://open.spotify.com/track/06r2yQOiQYB1Ra4KYEdskL
+798;Billy Preston;Nothing From Nothing;1;https://open.spotify.com/track/5n9QhVJS3XSjSc9kNJNEIU
+799;Blondie;Heart Of Glass;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+800;Blondie;The Tide Is High;1;https://open.spotify.com/track/165NAtd2DRPKNQ6EVY0VG9
+801;Blue Swede;Hooked On A Feeling;1;https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L
+802;Bob Seger;"Shakedown (From ""Beverly Hills Cop II"")";1;https://open.spotify.com/track/2RntB9CIH538H6QXWTz2C3
+803;Bobby Brown;My Prerogative;1;https://open.spotify.com/track/2Fp9eLSTN2qTVTghmy6wom
+804;Bobby Vinton;Mr. Lonely;1;https://open.spotify.com/track/6WFAKXqjCKFecCX3mF78FT
+805;Bon Jovi;I'll Be There For You;1;https://open.spotify.com/track/07HqIg8BnB1lJElnw2ZiSR
+806;Bon Jovi;You Give Love A Bad Name;1;https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc
+807;Boyz II Men;4 Seasons Of Loneliness;1;https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc
+808;Bread;Make It With You;1;https://open.spotify.com/track/0oLxMeXi2rUZezfR8IukBS
+809;Brenda Lee;I Want To Be Wanted;1;https://open.spotify.com/track/2pBYTUAZNnVu57VQiJByiE
+810;Brian Hyland;Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini;1;https://open.spotify.com/track/3Aug2RunJbjGiz2CTtWu5l
+811;Britney Spears;3;1;https://open.spotify.com/track/6BSpk93XTt2CJ7gpROG6zU
+812;Britney Spears;Hold It Against Me;1;https://open.spotify.com/track/5Wg6hfhHZoNKQjlrGVmBdn
+813;Britney Spears;Womanizer;1;https://open.spotify.com/track/6BSpk93XTt2CJ7gpROG6zU
+814;Bruce Hornsby & The Range;The Way It Is;1;https://open.spotify.com/track/7emkzBYuPK1MOJKRu9ZzIK
+815;Bruno Mars;That's What I Like;1;https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU
+816;Bruno Mars;When I Was Your Man;1;https://open.spotify.com/track/099XD7IqwXVpVaJyS3pmfK
+817;C.W. McCall;Convoy;1;https://open.spotify.com/track/26JNSwccMpY6zx36pySxG9
+818;Camila Cabello Featuring Young Thug;Havana;1;https://open.spotify.com/track/3KrdXYHIv0fikr5qKOxRAq
+819;Captain & Tennille;Do That To Me One More Time;1;https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG
+820;Cardi B;Up;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+821;Cardi B, Bad Bunny & J Balvin;I Like It;1;https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z
+822;Carpenters;Please Mr. Postman;1;https://open.spotify.com/track/2Lo2BWhhlZSJds2yBhxoet
+823;Carrie Underwood;Inside Your Heaven;1;https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim
+824;Cher;Dark Lady;1;https://open.spotify.com/track/4ryTkrkH4XyaFSkaNbGeiI
+825;Chic;Good Times;1;https://open.spotify.com/track/6PGq03CNnUf2HrlQxtOcTS
+826;Christopher Cross;Sailing;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+827;Coldplay;Viva La Vida;1;https://open.spotify.com/track/6hl4hiEnsRCbOX3csj7JnN
+828;Coldplay x BTS;My Universe;1;https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI
+829;Color Me Badd;All 4 Love;1;https://open.spotify.com/track/1RDOW4HrSrLgOB4SqSCfup
+830;Commodores;Still;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+831;Connie Francis;Don't Break The Heart That Loves You;1;https://open.spotify.com/track/2fAB9BufYdc9AJLE6BusXP
+832;Creed;With Arms Wide Open;1;https://open.spotify.com/track/0eKyHwckh9vQb8ncZ2DXCs
+833;D4L;Laffy Taffy;1;https://open.spotify.com/track/3gR3aPapOJp6isbEUm4Xoc
+834;DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne;I'm The One;1;https://open.spotify.com/track/1jYiIOC5d6soxkJP81fxq2
+835;Daryl Hall John Oates;I Can't Go For That (No Can Do);1;https://open.spotify.com/track/539mfW3JF8g9JmXTzbqg4U
+836;"Dave ""Baby"" Cortez";The Happy Organ;1;https://open.spotify.com/track/6fOxrKUo3f9OX2z6YrBpwy
+837;David Bowie;Let's Dance;1;https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ
+838;David Rose and His Orchestra;The Stripper;1;https://open.spotify.com/track/2xl1L7F0JqE2DyhM0BjZVM
+839;David Soul;Don't Give Up On Us;1;https://open.spotify.com/track/0vzFXALHDIRhclu5xdxuEX
+840;Dean Martin;Everybody Loves Somebody;1;https://open.spotify.com/track/5t7VhgvJDbx7sgAw8vQpt2
+841;Debbie Gibson;Foolish Beat;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+842;Def Leppard;Love Bites;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+843;Destiny's Child;Bills, Bills, Bills;1;https://open.spotify.com/track/4jgtjIJzba2UoC1RJtJI9j
+844;Dexys Midnight Runners;Come On Eileen;1;https://open.spotify.com/track/6nWcEzyxDozQcmxMoNJtYx
+845;Diana Ross & The Supremes;Someday We'll Be Together;1;https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS
+846;Diana Ross;Theme From Mahogany (Do You Know Where You're Going To);1;https://open.spotify.com/track/10VbGCpgC4FtmYSwBLvIDX
+847;Diana Ross;Touch Me In The Morning;1;https://open.spotify.com/track/4sIkDCqNjTubfb5UVs8lEA
+848;Dionne Warwicke & Spinners;Then Came You;1;https://open.spotify.com/track/0fEEwxZtHyNif4GGkQWvVx
+849;Divine;Lately;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+850;Doja Cat Featuring Nicki Minaj;Say So;1;https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ
+851;Donovan;Sunshine Superman;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+852;Drake;Toosie Slide;1;https://open.spotify.com/track/2EL4g2CCs2efSOK2DnihAn
+853;Drake;What's Next;1;https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0
+854;Drake Featuring 21 Savage;Jimmy Cooks;1;https://open.spotify.com/track/5LYsEBLHY4PwmK1MRic1mr
+855;Drake Featuring Future & Young Thug;Way 2 Sexy;1;https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg
+856;Drake Featuring J. Cole;First Person Shooter;1;https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU
+857;Drake Featuring SZA;Slime You Out;1;https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV
+858;EMF;Unbelievable;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+859;Eagles;Best Of My Love;1;https://open.spotify.com/track/1WYokrkFOb9TFVuTrmxTTt
+860;Eagles;Heartache Tonight;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+861;Eagles;Hotel California;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+862;Eagles;New Kid In Town;1;https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB
+863;Eagles;One Of These Nights;1;https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF
+864;Earth, Wind & Fire;Shining Star;1;https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB
+865;Edgar Winter Group;Frankenstein;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+866;Elton John;Bennie And The Jets;1;https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs
+867;Elvis Presley;Suspicious Minds;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+868;Eminem;Not Afraid;1;https://open.spotify.com/track/6BSpk93XTt2CJ7gpROG6zU
+869;Eminem, Dr. Dre & 50 Cent;Crack A Bottle;1;https://open.spotify.com/track/4dK00wCxlqWEeN8BoM1BHT
+870;Eric Clapton;I Shot The Sheriff;1;https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz
+871;Ernie K-Doe;Mother-In-Law;1;https://open.spotify.com/track/7qEwxMKJu8EsjvOoxMJoTT
+872;Eurythmics;Sweet Dreams (Are Made Of This);1;https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS
+873;Expose;Seasons Change;1;https://open.spotify.com/track/5x8IXmDXTjvofZ0yXoZoCr
+874;Extreme;More Than Words;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+875;Fantasia;I Believe;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+876;Fergie;Big Girls Don't Cry;1;https://open.spotify.com/track/4AniPkv5vgdE1n6VKreiyI
+877;Fine Young Cannibals;Good Thing;1;https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ
+878;Fine Young Cannibals;She Drives Me Crazy;1;https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ
+879;Fleetwood Mac;Dreams;1;https://open.spotify.com/track/4PDoN9kwjj7LXliXzEj2Ne
+880;Frank Sinatra;Strangers In The Night;1;https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x
+881;Frankie Avalon;Why;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+882;Frankie Valli;My Eyes Adored You;1;https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs
+883;Freddy Fender;Before The Next Teardrop Falls;1;https://open.spotify.com/track/2SVW5774QbmEjWfbHOEnz3
+884;Future Featuring Drake & Tems;Wait For U;1;https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK
+885;Genesis;Invisible Touch;1;https://open.spotify.com/track/4nbs8cT5xWhyZnmQwb4KC9
+886;George Harrison;Give Me Love - (Give Me Peace On Earth);1;https://open.spotify.com/track/1ZiN3wseympSLDIFkaWHHC
+887;George Harrison;Got My Mind Set On You;1;https://open.spotify.com/track/4wswaG5vmNINMZcVBsAyBP
+888;George Michael;Praying For Time;1;https://open.spotify.com/track/4KaIJ1FWXUoAAnOts1YWjD
+889;George Michael/Elton John;Don't Let The Sun Go Down On Me;1;https://open.spotify.com/track/6Zkulfbv0ebe7tukkftvd1
+890;Glen Campbell;Southern Nights;1;https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0
+891;Gloria Estefan;Don't Wanna Lose You;1;https://open.spotify.com/track/4tEpvocDTdNVR9DYxnJTFy
+892;Gordon Lightfoot;Sundown;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+893;Grand Funk;We're An American Band;1;https://open.spotify.com/track/3XcjIvaZVUFAIdIYZqY9bd
+894;Gregory Abbott;Shake You Down;1;https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh
+895;Hamilton, Joe Frank & Reynolds;Fallin' In Love;1;https://open.spotify.com/track/4XrbcxI03ARSyqU8jE3pXy
+896;Harry Chapin;Cat's In The Cradle;1;https://open.spotify.com/track/5DqGq9JSXsyBaxt0Ztnq8M
+897;Harry Styles;Watermelon Sugar;1;https://open.spotify.com/track/5ZZqNRfHxQ3v1sVNN6Sa27
+898;Heart;These Dreams;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+899;Helen Reddy;Angie Baby;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+900;Helen Reddy;Delta Dawn;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+901;Helen Reddy;I Am Woman;1;https://open.spotify.com/track/3l2hbXdvmaH3tUd3qWLKgm
+902;Herman's Hermits;I'm Henry VIII, I Am;1;https://open.spotify.com/track/1vJeuxgfo1DnpfkjYrqBuz
+903;Hi-Five;I Like The Way (The Kissing Game);1;https://open.spotify.com/track/0flZtKtmkZMNqFF7V7Yfmu
+904;Hollywood Argyles;Alley-Oop;1;https://open.spotify.com/track/6taOhSWQVW7wd0lj9MX1u9
+905;Hozier;Too Sweet;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+906;Huey Lewis & The News;Jacob's Ladder;1;https://open.spotify.com/track/2yWf3FJLwB0ytfOpgqLoa2
+907;INXS;Need You Tonight;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+908;Jackson 5;I Want You Back;1;https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S
+909;James Blunt;You're Beautiful;1;https://open.spotify.com/track/6GU19qDSbCWw5HKwfYTgVq
+910;James Ingram;I Don't Have The Heart;1;https://open.spotify.com/track/7Bj3nz8syLvpMFi3Ojk40v
+911;James Taylor;You've Got A Friend;1;https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y
+912;Jan Hammer;Miami Vice Theme;1;https://open.spotify.com/track/5srgpROEtK8KLKQl5FW7Ub
+913;Janet Jackson;Black Cat;1;https://open.spotify.com/track/16lpoOaoZPRsMEDyMKQrMr
+914;Janet Jackson;Love Will Never Do (Without You);1;https://open.spotify.com/track/1SkJ8HjZUZRPYT3R2rh5sA
+915;Jason Aldean;Try That In A Small Town;1;https://open.spotify.com/track/5BqI4ugJL5WaPRQ6MlC8Ho
+916;Jason Derulo;Whatcha Say;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+917;Jawsh 685 x Jason Derulo;Savage Love (Laxed - Siren Beat);1;https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c
+918;Jeannie C. Riley;Harper Valley P.T.A.;1;https://open.spotify.com/track/63EQVLdtGL6rZf8mPKW7QY
+919;Jimin;Like Crazy;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+920;Joe Dowell;Wooden Heart;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+921;John Denver;I'm Sorry;1;https://open.spotify.com/track/5r30gHLxvhp60XMc5TIIMh
+922;John Denver;Sunshine On My Shoulders;1;https://open.spotify.com/track/2wPYDgWEUZDog9e3lL4P22
+923;John Denver;Thank God I'm A Country Boy;1;https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M
+924;John Lennon With The Plastic Ono Nuclear Band;Whatever Gets You Thru The Night;1;https://open.spotify.com/track/49nBXQzYNyjoBmUda3ezMf
+925;John Sebastian;Welcome Back;1;https://open.spotify.com/track/39OV1QgtjNQQTnMNGWrP2C
+926;John Travolta & Olivia Newton-John;You're The One That I Want;1;https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3
+927;John Waite;Missing You;1;https://open.spotify.com/track/3qSTsOPwFTTmCX6mzY0Boh
+928;Johnny Mathis/Deniece Williams;Too Much, Too Little, Too Late;1;https://open.spotify.com/track/3bKTv2yYUaFEIh2hEnnAI4
+929;Johnny Rivers;Poor Side Of Town;1;https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3
+930;Jon Bon Jovi;"Blaze Of Glory (From ""Young Guns II"")";1;https://open.spotify.com/track/1sUTfgduT0WIQO8kXKXxLC
+931;Jonas Brothers;Sucker;1;https://open.spotify.com/track/4q2v2iZ2DujnVUuKMvC7I5
+932;Jung Kook Featuring Latto;Seven;1;https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN
+933;Justin Bieber;What Do You Mean?;1;https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs
+934;Justin Bieber Featuring Daniel Caesar & Giveon;Peaches;1;https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI
+935;Justin Timberlake;Can't Stop The Feeling!;1;https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI
+936;Justin Timberlake;What Goes Around...Comes Around;1;https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey
+937;KC And The Sunshine Band;(Shake, Shake, Shake) Shake Your Booty;1;https://open.spotify.com/track/1vkpe29DP5EvAxYnWVq5C1
+938;KC And The Sunshine Band;Get Down Tonight;1;https://open.spotify.com/track/2qVZpGu1v98tvUAutqyAfJ
+939;KC And The Sunshine Band;I'm Your Boogie Man;1;https://open.spotify.com/track/6mjlbRIgMTf2nqY0kq1rOJ
+940;KC And The Sunshine Band;Please Don't Go;1;https://open.spotify.com/track/6dw6BquK0Mv72p6HpusqKN
+941;Kanye West;Stronger;1;https://open.spotify.com/track/0uLvrAdYn6EFZT7BV0eKtf
+942;Karyn White;Romantic;1;https://open.spotify.com/track/0HghMOZJwXx4pOhQ0FmQ20
+943;Katy Perry;Part Of Me;1;https://open.spotify.com/track/6yARPLK0PV4heEyh7pVMGz
+944;Ke$ha;We R Who We R;1;https://open.spotify.com/track/5Pf4hNsNZMHjuKTTwsJuYK
+945;Kendrick Lamar;Humble.;1;https://open.spotify.com/track/2kO0FXEXVh0O6AQVtMsWYO
+946;Kendrick Lamar;Squabble Up;1;https://open.spotify.com/track/2kO0FXEXVh0O6AQVtMsWYO
+947;Kim Wilde;You Keep Me Hangin' On;1;https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK
+948;Labelle;Lady Marmalade;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+949;Lady Gaga & Ariana Grande;Rain On Me;1;https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9
+950;Lady Gaga & Bradley Cooper;Shallow;1;https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B
+951;Lady Gaga;Poker Face;1;https://open.spotify.com/track/2oQQn3SO9cQ51JOhuBq3uy
+952;Larry Verne;Mr. Custer;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+953;Leo Sayer;When I Need You;1;https://open.spotify.com/track/1PR23NIIcbtRKnkuJmf22s
+954;Leo Sayer;You Make Me Feel Like Dancing;1;https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx
+955;Lil Nas X & Jack Harlow;Industry Baby;1;https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk
+956;Lil Nas X;Montero (Call Me By Your Name);1;https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W
+957;Linda Ronstadt;You're No Good;1;https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl
+958;Lisa Lisa And Cult Jam;Head To Toe;1;https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg
+959;Lisa Lisa And Cult Jam;Lost In Emotion;1;https://open.spotify.com/track/5L1WlHtj15TtsDNlUjdMNy
+960;Little Eva;The Loco-Motion;1;https://open.spotify.com/track/0bllGR73P8r9s8qyrJmS8b
+961;Londonbeat;I've Been Thinking About You;1;https://open.spotify.com/track/02KLiEs31kxh1krQJezlTL
+962;Looking Glass;Brandy (You're A Fine Girl);1;https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA
+963;Lorne Greene;Ringo;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+964;Lou Christie;Lightnin' Strikes;1;https://open.spotify.com/track/6fOmB3PDewpTZi4Zvoog7M
+965;Louis Armstrong And The All Stars;Hello, Dolly!;1;https://open.spotify.com/track/0C2qN2RSuMTU8tkZTRtnjA
+966;Love Unlimited Orchestra;Love's Theme;1;https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI
+967;Ludacris Featuring Shawnna;Stand Up;1;https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e
+968;M;Pop Muzik;1;https://open.spotify.com/track/4LqROlzt1MvjgzaylD3usZ
+969;Madonna;Crazy For You;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+970;Madonna;Live To Tell;1;https://open.spotify.com/track/0BCVDMgLP8biSDuu0y8EvC
+971;Madonna;Open Your Heart;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+972;Madonna;This Used To Be My Playground;1;https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy
+973;Madonna;Who's That Girl;1;https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc
+974;Manfred Mann's Earth Band;Blinded By The Light;1;https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE
+975;Mariah Carey;My All;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+976;Mariah Carey Featuring Joe & 98 Degrees;Thank God I Found You;1;https://open.spotify.com/track/1RS3LStQYhju50eBdD9Uul
+977;Marilyn McCoo & Billy Davis Jr.;You Don't Have To Be A Star (To Be In My Show);1;https://open.spotify.com/track/2JurHS80N98Yt3CdIBYz9M
+978;Marky Mark & The Funky Bunch Featuring Loleatta Holloway;Good Vibrations;1;https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9
+979;Marvin Gaye;Got To Give It Up (Pt. I);1;https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG
+980;Maurice Williams & The Zodiacs;Stay;1;https://open.spotify.com/track/12BB5t506Of3s3NPBoKScC
+981;Maxi Priest;Close To You;1;https://open.spotify.com/track/3TIunSeEdSK5wqXKpV30Pc
+982;Megan Thee Stallion;Hiss;1;https://open.spotify.com/track/27Wwwbdh9pKL9n23FOJH9z
+983;Megan Thee Stallion;Savage;1;https://open.spotify.com/track/44gWOWjGDJROTwTMGh9RHl
+984;Men At Work;Who Can It Be Now?;1;https://open.spotify.com/track/5R0EDMEBVlExLcofDAYvAD
+985;Michael Bolton;When A Man Loves A Woman;1;https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl
+986;Michael Damian;"Rock On (From ""Dream A Little Dream"")";1;https://open.spotify.com/track/0uSSsyEGRxBil4aLt7fUdw
+987;Michael Jackson;Ben;1;https://open.spotify.com/track/1alvY7CtmgyLYTPtmATq4C
+988;Michael Jackson;Dirty Diana;1;https://open.spotify.com/track/2sslt79Mt6xtu8nspYgIcB
+989;Michael Jackson;Don't Stop 'til You Get Enough;1;https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ
+990;Michael Jackson;The Way You Make Me Feel;1;https://open.spotify.com/track/76HKOVWqsEg26SECtmw7Rz
+991;Michael Jackson;You Are Not Alone;1;https://open.spotify.com/track/3AoeaZs8dFemFJr3JdzOL0
+992;Michael Jackson With Siedah Garrett;I Just Can't Stop Loving You;1;https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm
+993;Mike + The Mechanics;The Living Years;1;https://open.spotify.com/track/5KnTfINZimBcMmBOwKCe1n
+994;Milli Vanilli;Baby Don't Forget My Number;1;https://open.spotify.com/track/2NHZNjTa2L3IJ2v45JUk2m
+995;Minnie Riperton;Lovin' You;1;https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p
+996;Morgan Wallen;Love Somebody;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+997;Mr. Acker Bilk;Stranger On The Shore;1;https://open.spotify.com/track/1UUqBCegaEWTuaYdwc7QQx
+998;Nancy Sinatra;These Boots Are Made For Walkin';1;https://open.spotify.com/track/2HEgBBls7l0smWTxPx0MtZ
+999;Neil Diamond;Cracklin' Rosie;1;https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa
+1000;Neil Diamond;Song Sung Blue;1;https://open.spotify.com/track/57KfogSy3eKuk5JHLKwCJv
+1001;Neil Sedaka;Laughter In The Rain;1;https://open.spotify.com/track/6J8mn61YYBnMmPuS0GQuCv
+1002;Neil Young;Heart Of Gold;1;https://open.spotify.com/track/4mqd5QkLxktjNsrdmiSQ0k
+1003;Nelly Furtado;Say It Right;1;https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t
+1004;Nelson;(Can't Live Without Your) Love And Affection;1;https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj
+1005;New Kids On The Block;Hangin' Tough;1;https://open.spotify.com/track/5tTGUzm5CeeKqoa9MQ7qE9
+1006;New Kids On The Block;I'll Be Loving You (Forever);1;https://open.spotify.com/track/1cy5US2dffz6QGBAIzOGkq
+1007;Nick Gilder;Hot Child In The City;1;https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ
+1008;Nicki Minaj;Super Freaky Girl;1;https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp
+1009;Nino Tempo & April Stevens;Deep Purple;1;https://open.spotify.com/track/48mKqnEWVN0U68U6SUc995
+1010;Ohio Players;Fire;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1011;Ohio Players;Love Rollercoaster;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+1012;Olivia Newton-John;Have You Never Been Mellow;1;https://open.spotify.com/track/5ehVOC0zSdwWqyZlhomJSi
+1013;Olivia Rodrigo;Good 4 U;1;https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS
+1014;OutKast;Ms. Jackson;1;https://open.spotify.com/track/3v05wRQbkaJHlDZ2UVGIkz
+1015;OutKast Featuring Sleepy Brown;The Way You Move;1;https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD
+1016;P!nk;Raise Your Glass;1;https://open.spotify.com/track/131K9WHjrZSqKIJh4kO1A7
+1017;P!nk;So What;1;https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS
+1018;P.M. Dawn;Set Adrift On Memory Bliss;1;https://open.spotify.com/track/50K6O6JwJzpzkfq9j4yMQk
+1019;Paper Lace;The Night Chicago Died;1;https://open.spotify.com/track/4f4RRYN3R7glPElFjeoUnC
+1020;Pat Boone;Moody River;1;https://open.spotify.com/track/29gelu2enuB2yE7u6EGNdc
+1021;Paul & Linda McCartney;Uncle Albert/Admiral Halsey;1;https://open.spotify.com/track/0YItGamQj3bIeeUvKt36Kd
+1022;Paul McCartney And Wings;Band On The Run;1;https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY
+1023;Paul Young;Everytime You Go Away;1;https://open.spotify.com/track/4f2pvyq79054KCShZ9rK9g
+1024;Paula Abdul;Cold Hearted;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1025;Paula Abdul;The Promise Of A New Day;1;https://open.spotify.com/track/1ufxyeu8aGwTLEUGubcoNL
+1026;Peabo Bryson & Regina Belle;A Whole New World (Aladdin's Theme);1;https://open.spotify.com/track/4tS8xQfyPGc7f4lJ1JP6BX
+1027;Pet Shop Boys;West End Girls;1;https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7
+1028;Peter And Gordon;A World Without Love;1;https://open.spotify.com/track/1A0j6qANKHgk7VZ6uvYO06
+1029;Peter Cetera With Amy Grant;The Next Time I Fall;1;https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x
+1030;Peter Gabriel;Sledgehammer;1;https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0
+1031;Peter, Paul & Mary;Leaving On A Jet Plane;1;https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn
+1032;Phil Collins;Sussudio;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1033;Phil Collins and Marilyn Martin;Separate Lives;1;https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2
+1034;Pitbull Featuring Ne-Yo, Afrojack & Nayer;Give Me Everything;1;https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W
+1035;Post Malone & Swae Lee;Sunflower (Spider-Man: Into The Spider-Verse);1;https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P
+1036;Post Malone Featuring Ty Dolla $ign;Psycho;1;https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C
+1037;Prince;"Batdance (From ""Batman"")";1;https://open.spotify.com/track/4DbUk1qwcz9KKcUY4t8f8u
+1038;REO Speedwagon;Keep On Loving You;1;https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE
+1039;Ray Charles;Georgia On My Mind;1;https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq
+1040;Ready For The World;Oh Sheila;1;https://open.spotify.com/track/6iEVEfD4aPxCHsK5hRHEuO
+1041;Rhythm Heritage;Theme From S.W.A.T.;1;https://open.spotify.com/track/5x9xxVr7nJ9xMfDIW02Nv3
+1042;Richard Marx;Hold On To The Nights;1;https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl
+1043;Richard Marx;Satisfied;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1044;Rick Astley;Together Forever;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+1045;Rick Dees & His Cast Of Idiots;Disco Duck (Part I);1;https://open.spotify.com/track/4aVowfVhlyNUgHYqXbK8Ev
+1046;Rihanna;Only Girl (In The World);1;https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i
+1047;Rihanna;Take A Bow;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1048;Rihanna Featuring Britney Spears;S&M;1;https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH
+1049;Rihanna Featuring Drake;What's My Name?;1;https://open.spotify.com/track/6DkXLzBQT7cwXmTyzAB1DJ
+1050;Ringo Starr;Photograph;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1051;Ringo Starr;You're Sixteen;1;https://open.spotify.com/track/4MAxWahEbzU8m4bD6mSZg9
+1052;Robert John;Sad Eyes;1;https://open.spotify.com/track/6BSpk93XTt2CJ7gpROG6zU
+1053;Robert Palmer;Addicted To Love;1;https://open.spotify.com/track/1xBZEEpCBic1hVpRiIEL5Q
+1054;Roberta Flack;Feel Like Makin' Love;1;https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw
+1055;Rose Royce;Car Wash;1;https://open.spotify.com/track/0YZ81xcFiwaqU0JckiZ1Od
+1056;Roxette;Joyride;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1057;Roxette;Listen To Your Heart;1;https://open.spotify.com/track/0sq0ZrRh5vUKaVZrvmReuw
+1058;Roxette;The Look;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+1059;Roy Orbison;Running Scared;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1060;Ruby And The Romantics;Our Day Will Come;1;https://open.spotify.com/track/3ngYXFSYtF5mHguNCA3JZ0
+1061;SZA;Kill Bill;1;https://open.spotify.com/track/7e6tgMREmA5f9TgbWKiHqR
+1062;Sabrina Carpenter;Please Please Please;1;https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj
+1063;Sam Smith & Kim Petras;Unholy;1;https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT
+1064;Seal;Kiss From A Rose;1;https://open.spotify.com/track/5fJb0IiGk3KFiH3rDAe3sr
+1065;Sean Paul;Temperature;1;https://open.spotify.com/track/0FA6d3PTjv6R9V4AhQEU6K
+1066;Selena Gomez;Lose You To Love Me;1;https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi
+1067;Shaggy Featuring Rayvon;Angel;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1068;Shaun Cassidy;Da Doo Ron Ron;1;https://open.spotify.com/track/4V33luJnU5U54NPUIW1Ra3
+1069;Shawn Mendes & Camila Cabello;Senorita;1;https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2
+1070;Sheriff;When I'm With You;1;https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O
+1071;Simple Minds;Don't You (Forget About Me);1;https://open.spotify.com/track/6yEAAIEHu4GcUFptg5W9kI
+1072;Simply Red;Holding Back The Years;1;https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ
+1073;Simply Red;If You Don't Know Me By Now;1;https://open.spotify.com/track/5QJSD5GQOq72OmwLV5IHUV
+1074;Stars On 45;Medley;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1075;Starship;Sara;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1076;Steve Miller;Rock'n Me;1;https://open.spotify.com/track/6FKU84JHM1lbiy5Dx0Dyqd
+1077;Steve Winwood;Higher Love;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+1078;Stevie Wonder;I Wish;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1079;Stevie Wonder;Part-Time Lover;1;https://open.spotify.com/track/798bKohvGZenetnHsKzUC6
+1080;Stevie Wonder;Superstition;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1081;Stevie Wonder;You Are The Sunshine Of My Life;1;https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX
+1082;Stevie Wonder;You Haven't Done Nothin;1;https://open.spotify.com/track/3zsW9lFtVIXL4e2lidZQAm
+1083;Strawberry Alarm Clock;Incense And Peppermints;1;https://open.spotify.com/track/4OdfUHFyFVDLYDpqIJK6eR
+1084;Sweet Sensation;If Wishes Came True;1;https://open.spotify.com/track/0NInmbZliZg9hCrw5HgDuf
+1085;T-Pain Featuring Yung Joc;Buy U A Drank (Shawty Snappin');1;https://open.spotify.com/track/1tkMs9wDPknQ3ZHcKDw1ES
+1086;THE SCOTTS, Travis Scott & Kid Cudi;The Scotts;1;https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU
+1087;Taio Cruz Featuring Ludacris;Break Your Heart;1;https://open.spotify.com/track/1CdqVF1ywD0ZO1zXtB9yWa
+1088;Taylor Dayne;Love Will Lead You Back;1;https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F
+1089;Taylor Hicks;Do I Make You Proud;1;https://open.spotify.com/track/3pxHCAUaPdt9J7Zy8ZR1Uw
+1090;Taylor Swift;All Too Well (Taylor's Version);1;https://open.spotify.com/track/0kQOmSJb84p2f0sPnstZdR
+1091;Taylor Swift;Cardigan;1;https://open.spotify.com/track/2NpEDYpyx0U5uUzTS1q50w
+1092;Taylor Swift;Is It Over Now? (Taylor's Version) [From The Vault];1;https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz
+1093;Taylor Swift;Willow;1;https://open.spotify.com/track/2NpEDYpyx0U5uUzTS1q50w
+1094;Taylor Swift Featuring Kendrick Lamar;Bad Blood;1;https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9
+1095;Teddy Swims;Lose Control;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+1096;Terence Trent D'Arby;Wishing Well;1;https://open.spotify.com/track/2bvzxeD1hPWEYotw40Euq9
+1097;The Bangles;Eternal Flame;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+1098;The Beach Boys;Good Vibrations;1;https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f
+1099;The Beach Boys;"Kokomo (From""Cocktail"" )";1;https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN
+1100;The Beatles;All You Need Is Love;1;https://open.spotify.com/track/1oycjiD4UpkHWxlegeYGzB
+1101;The Beatles;Come Together/Something;1;https://open.spotify.com/track/2oyiEA0mYPRAxGZwxNOScq
+1102;The Beatles;Love Me Do;1;https://open.spotify.com/track/0s5Bv6nKQcTZNHk6kNGP5y
+1103;The Beatles;Penny Lane;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1104;The Beatles;Ticket To Ride;1;https://open.spotify.com/track/76mwkosKfiwvEy9hLHqJAX
+1105;The Byrds;Mr. Tambourine Man;1;https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d
+1106;The Chi-lites;Oh Girl;1;https://open.spotify.com/track/5wHagJxi1SFkctKZpcKzLh
+1107;The Dave Clark Five;Over And Over;1;https://open.spotify.com/track/3yRMBAddZAci6MzGa05Dh2
+1108;The Doobie Brothers;Black Water;1;https://open.spotify.com/track/3x1v32I3SZNvC7q7bDhcGm
+1109;The Doobie Brothers;What A Fool Believes;1;https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK
+1110;The Elegants;Little Star;1;https://open.spotify.com/track/3pjUyVbFmM96tYhSaKJwTt
+1111;The Escape Club;Wild, Wild West;1;https://open.spotify.com/track/6QOvAtsKS1sJ55B672TWSr
+1112;The Fleetwoods;Mr. Blue;1;https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0
+1113;The Honey Cone;Want Ads;1;https://open.spotify.com/track/7qh5e5AVPHVsfi0NPrxylx
+1114;The Hues Corporation;Rock The Boat;1;https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW
+1115;The Human League;Human;1;https://open.spotify.com/track/4XqXtIMbOuTeE5exbLo11c
+1116;The Kingston Trio;Tom Dooley;1;https://open.spotify.com/track/5rivhNukBcqEX41XQDLYi9
+1117;The Lemon Pipers;Green Tambourine;1;https://open.spotify.com/track/7pH4WbeLpoEVB4tc14w51Z
+1118;The Marvelettes;Please Mr. Postman;1;https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U
+1119;The McCoys;Hang On Sloopy;1;https://open.spotify.com/track/4q3wAmLwl0AR6AN99QcHXB
+1120;The Miracles;Love Machine (Part 1);1;https://open.spotify.com/track/1b833AsiKCEhLLxmdQu9Hw
+1121;The Monkees;Last Train To Clarksville;1;https://open.spotify.com/track/3dgyDSKfzaNBtlZuUxc8IW
+1122;The O'Jays;Love Train;1;https://open.spotify.com/track/28285KFbyCq8sJofn58qlD
+1123;The Raiders;Indian Reservation (The Lament Of The Cherokee Reservation Indian);1;https://open.spotify.com/track/3mDOHVY9MWZOTODSNF5GBj
+1124;The Rolling Stones;Angie;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1125;The Rolling Stones;Miss You;1;https://open.spotify.com/track/5FY42U0tmNUDLFYGkFfMLc
+1126;The Rolling Stones;Ruby Tuesday;1;https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT
+1127;The Shangri-Las;Leader Of The Pack;1;https://open.spotify.com/track/6O5PIO5pAWxdoxvaUFQ02G
+1128;The Shocking Blue;Venus;1;https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0
+1129;The Staple Singers;I'll Take You There;1;https://open.spotify.com/track/03qSYwxRCavJccioep27Sx
+1130;The Staple Singers;Let's Do It Again;1;https://open.spotify.com/track/1YQIOrrOg1UDqZCGcZWQ0a
+1131;The Steve Miller Band;The Joker;1;https://open.spotify.com/track/32JiFqyIkwlJ9lezXk1xLN
+1132;The Supremes;Back In My Arms Again;1;https://open.spotify.com/track/2WjW8DjQru6Ic4KvYDqLys
+1133;The Supremes;Love Is Here And Now You're Gone;1;https://open.spotify.com/track/4KUGhh0lsJ8GxQJ1Um8UrB
+1134;The Supremes;The Happening;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+1135;The Sylvers;Boogie Fever;1;https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0
+1136;The Temptations;My Girl;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+1137;The Temptations;Papa Was A Rollin' Stone;1;https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp
+1138;The Tymes;So Much In Love;1;https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL
+1139;The Weeknd & Ariana Grande;Die For You;1;https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2
+1140;The Weeknd;Heartless;1;https://open.spotify.com/track/7EhDMLopvzHG92fdNqBFk0
+1141;The Weeknd Featuring Daft Punk;Starboy;1;https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB
+1142;The Young Rascals;Good Lovin';1;https://open.spotify.com/track/0XnhQGfqfi5CnZXcONJuI5
+1143;Thelma Houston;Don't Leave Me This Way;1;https://open.spotify.com/track/037sENutmABiaul69chfNe
+1144;Three Dog Night;Black & White;1;https://open.spotify.com/track/4NLKJfFJl19CnJaEGMGjhl
+1145;Timmy T.;One More Try;1;https://open.spotify.com/track/5Pf4hNsNZMHjuKTTwsJuYK
+1146;Tommy Page;I'll Be Your Everything;1;https://open.spotify.com/track/7BtKCoeqtKsuaYHiEXc5Bl
+1147;Toni Basil;Mickey;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1148;Toni Braxton;You're Makin' Me High/Let It Flow;1;https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj
+1149;Toto;Africa;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1150;Travis Scott;4X4;1;https://open.spotify.com/track/2a1PNDDWyt68aKJDc47k4e
+1151;Travis Scott;HIGHEST IN THE ROOM;1;https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW
+1152;Travis Scott;Sicko Mode;1;https://open.spotify.com/track/2a1PNDDWyt68aKJDc47k4e
+1153;Travis Scott Featuring Young Thug & M.I.A.;Franchise;1;https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ
+1154;Twista Featuring Kanye West & Jamie Foxx;Slow Jamz;1;https://open.spotify.com/track/7BPadP3q9qwMkho3IMPU99
+1155;UB40;Red Red Wine;1;https://open.spotify.com/track/0EgUGqV7o7zZ9gyTIA1O18
+1156;Van McCoy & The Soul City Symphony;The Hustle;1;https://open.spotify.com/track/6hYT9vkr0xMjhBlaLsYq9T
+1157;Vangelis;Chariots Of Fire - Titles;1;https://open.spotify.com/track/36qn2bFfZzUwM6eIv2XOc9
+1158;Vanilla Ice;Ice Ice Baby;1;https://open.spotify.com/track/4kmFZr9QTeZDoApRr2yOsw
+1159;Vertical Horizon;Everything You Want;1;https://open.spotify.com/track/4HjCos6YWaTA0J4SzkhMpC
+1160;Walter Murphy & The Big Apple Band;A Fifth Of Beethoven;1;https://open.spotify.com/track/0twd28NSehiz5u46moeD9N
+1161;Wayne Fontana & The Mindbenders;Game Of Love;1;https://open.spotify.com/track/6ErQcgVtabGlIoPtSMXCDU
+1162;Whitesnake;Here I Go Again;1;https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc
+1163;Whitney Houston;"Exhale (Shoop Shoop) (From ""Waiting To Exhale"")";1;https://open.spotify.com/track/4sXxfkCWgVTrtnth4mJ5Tp
+1164;Whitney Houston;I'm Your Baby Tonight;1;https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE
+1165;Whitney Houston;Saving All My Love For You;1;https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG
+1166;Whitney Houston;So Emotional;1;https://open.spotify.com/track/4leElP8rJ1UrVIPsdQpbDu
+1167;Will Smith Featuring Dru Hill & Kool Mo Dee;Wild Wild West;1;https://open.spotify.com/track/4Qn1QhHhUT01LfpBnC7xnf
+1168;Will To Power;Baby, I Love Your Way/Freebird Medley;1;https://open.spotify.com/track/7zMMs6D2XAx1kPlM2ibFc8
+1169;Wilson Phillips;Hold On;1;https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS
+1170;Wilson Phillips;You're In Love;1;https://open.spotify.com/track/4ni8xGjSmfgTg4GO7RkWde
+1171;Wings;Listen To What The Man Said;1;https://open.spotify.com/track/1rHvKz5JPpCf9IJDHsyX8P
+1172;Wiz Khalifa;Black And Yellow;1;https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz
+1173;XXXTENTACION;Sad!;1;https://open.spotify.com/track/6Xnm883P8sUpnnGv4V4kL2
+1174;Yvonne Elliman;If I Can't Have You;1;https://open.spotify.com/track/6GQLHDE3YwtVUdDcMv8xwf
+1175;Zach Bryan Featuring Kacey Musgraves;I Remember Everything;1;https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG
+1176;Zayn;Pillowtalk;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1177;a-ha;Take On Me;1;https://open.spotify.com/track/6R4g0QPItm8snZgUSasHIJ
+1178;matchbox twenty;Bent;1;https://open.spotify.com/track/7qVUFZilySegJEvKTERweo
+1179;¥$: Kanye West & Ty Dolla $ign Featuring Rich The Kid & Playboi Carti;Carnival;1;https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq
