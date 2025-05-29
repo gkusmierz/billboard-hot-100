@@ -1,3 +1,5 @@
 */node_modules
 */package-lock.json
 spotify_config.json
+output/
+spark/__pychache__/
