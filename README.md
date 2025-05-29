@@ -82,3 +82,50 @@ All JSON files contain either single **chart objects** or arrays of **chart obje
 | **song object**.`last_week` | `Number` \| `null` | The song's chart position during the previous week. |
 | **song object**.`peak_position` | `Number` | The song's peak chart position during any week. |
 | **song object**.`weeks_on_chart` | `Number` | The number of weeks that the song has been on the chart. |
+
+## 🛠️ Data Processing Tools
+
+This repository includes additional tools for processing and analyzing the Billboard Hot 100 data:
+
+### 📊 PySpark Processing (`spark/`)
+Comprehensive PySpark job for processing all Billboard Hot 100 data:
+- **348,587 song records** from 3,486 JSON files (1958-2025)
+- Data flattening, cleaning, and transformation
+- Multiple output formats (Parquet, CSV, summary statistics)
+- Advanced analytics and RDD operations
+
+**Quick Start:**
+```bash
+cd spark
+pip install -r requirements.txt
+python test_spark_job.py        # Verify setup
+python run_example.py           # Run analysis
+```
+
+See [`spark/README_SPARK.md`](spark/README_SPARK.md) for detailed documentation.
+
+### 🎵 Spotify Integration (`spotify/`)
+Tools for integrating Billboard data with Spotify:
+- Spotify API service for track enrichment
+- ETL pipeline for data processing
+- Database storage and management
+- Configuration and setup guides
+
+**Files:**
+- `spotify_service.py` - Spotify API integration
+- `etl.py` - Data extraction and transformation
+- `hot-ones.py` - Main processing script
+- `SPOTIFY_SETUP.md` - Setup instructions
+
+### 📁 Project Structure
+```
+billboard-hot-100/
+├── date/                    # Billboard Hot 100 JSON data (1958-2025)
+├── spark/                   # PySpark processing tools
+├── spotify/                 # Spotify integration tools
+├── crawl/                   # Data crawling utilities
+├── all.json                 # All charts combined
+├── recent.json              # Most recent chart
+├── valid_dates.json         # List of valid chart dates
+└── README.md               # This file
+```
